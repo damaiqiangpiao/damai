@@ -14,7 +14,8 @@
 技术性讨论，包括：控制方式，风控处理，自动化，群控，协议破解，安全监控，告警。
 
 #### 入群不迷路  
-<strong>q裙q：637730469 </strong>   
+<strong>q裙q：727641501 (2群)</strong>   <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=99SaHdKhnXp-WoTfDsCJGBbTzvnVsHAA&jump_from=webapi&authKey=8XRK2tkDebbmmzcsBQmoVThrt9eIyVnJj6qaNgOC4EScTZ57jS+ELY8NYw7bPu/B"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="大麦演唱会演出抢票秒" title="大麦演唱会演出抢票秒"></a>  
+大群：955767910 （需要审核后加入）
 
 #### 邓紫棋演唱会监控效果：  
 ![image](dzq-yupiao-min.jpg)  
