@@ -1,0 +1,21 @@
+以下是 v26.1 版更改内容：
+[应用] 修复了在撤销 root 权限时崩溃的问题。
+[MagiskInit] 在选择预初始化分区时，始终优先选择 ext4 分区而不是 f2fs。
+[通用] 从镜像中恢复模块文件的上下文/所有者/组。这是 v26.0 中引入的一个回归问题。
+
+
+以下是 v26.0 版更改内容：
+[通用] 将最低支持的 Android 版本升级到 Android 6.0。
+[通用] 新的 Magic Mount 后端。它支持将模块加载到系统中，并注入 overlayfs 文件。
+[Zygisk] 发布新的 API 版本 4。
+[Zygisk] 防止出现错误时守护进程崩溃。
+[Zygisk] 用新的加载器库方法重写 zygote 代码注入。
+[Zygisk] 重写代码卸载实现。
+[MagiskBoot] 支持 amonet 微加载器设备。
+[MagiskBoot] 在 v4 引导映像上始终使用 lz4_legacy 压缩。这解决了 Android U 预览版上的引导映像修补问题。
+[MagiskInit] 支持替换 overlay.d 中现有的 *.rc 文件。
+[MagiskInit] 重写 sepolicy.rules 挂载和加载实现。
+[应用] 让存根修补 100% 离线。
+[应用] 支持为三星 ODIN 固件修补 init_boot.img。
+[MagiskPolicy] 修复了命令行参数解析中的小错误。
+[MagiskPolicy] 更新规则以支持 Android U。

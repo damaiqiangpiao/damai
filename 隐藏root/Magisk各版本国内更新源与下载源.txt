@@ -1,0 +1,60 @@
+Magisk 最新稳定版国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/latest.json
+
+Magisk V23国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v23/Magisk_230.json
+
+Magisk V22国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v22/Magisk_220.json
+
+Magisk V21.2国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v21/Magisk_212.json
+
+Magisk V21.1国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v21/Magisk_211.json
+
+Magisk V21.0国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v21/Magisk_210.json
+
+Magisk V20.4国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v20/Magisk_204.json
+
+Magisk V20.1国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v20/Magisk_201.json
+
+Magisk V19.3国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v19/Magisk_193.json
+
+Magisk V18.1国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v18/Magisk_18.json
+
+Magisk V17.2国内源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v17/Magisk_17.json
+
+
+Magisk For EMUI特供版
+
+Magisk For EMUI最新版更新源：
+https://raw.githubusercontent.com/solohsu/magisk_files/master/custom_builds/release.json
+
+V20.1 For EMUI更新源：https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v20/Magisk_201_EMUI.json
+
+V19.3 For EMUI更新源：
+https://gitee.com/mintimate/magick_custom_update_source/raw/master/Stable/snapshot/v19/Magisk_193_EMUI.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+从 v20 版本起，Magisk 开始采用 3in1 模式，即管理器、安装包、卸载包3合1。将 Magisk.apk 扩展名改为 .zip 即可作为卡刷包使用第三方rec刷入；重命名为 uninstall.zip 即可作为卸载包使用第三方rec刷入。
