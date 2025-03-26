@@ -17,7 +17,7 @@
 <strong>q裙q：637730469 </strong>   
 
 #### 邓紫棋演唱会监控效果：  
-![image](dzq-yupiao.jpg)  
+![image](dzq-yupiao-min.jpg)  
 
 #### 郎朗演唱会监控效果：  
 ![image](yupiao.jpg)  
