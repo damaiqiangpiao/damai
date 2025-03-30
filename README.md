@@ -44,7 +44,10 @@
 > QQ 2群：727641501（开放中） <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="大麦演唱会演出抢票秒" title="大麦演唱会演出抢票秒"></a>   
 > QQ 1群：955767910（995人，接近满员.） <a href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&amp;jump_from=webapi&amp;authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs" target="_blank"><img src="https://pub.idqqimg.com/wpa/images/group.png" title="一键入群" data-border="0" alt="一键入群" /></a>    
 > 想混进群备注：11、OK等的肯定不通过，一笔捐助流水对应一个入群资格。如有闲可去听-\>[群主的歌单](https://github.com/damaiqiangpiao/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)  
-
+> 入群二维码：  
+> <img src="http://www.daydayup365.top/github/qq2qun.png" width="200"
+alt="QQ2群扫码入群二维码" />  
+  
 > [!TIP]
 > 本社区只接受微信、支付宝实名制收款，诚信运营！
 
@@ -54,8 +57,8 @@
 新群友说买了谁谁谁的软件抢不到票， **如果早点进群，不会有损失。**  
 QQ群共享文件(2025持续更新中...)：  
 ![QQ群共享文件](http://www.daydayup365.top/github/group1.png)  
-2024-04-22更新群人数及活跃数据：  
-<img src="http://www.daydayup365.top/github/800-0422.jpg" width="200"
+2025-03-30更新群人数：  
+<img src="http://www.daydayup365.top/github/qq1-nums20250330.png" width="200"
 alt="QQ人数-0329" />  
 2025-03-30更新票星球抢票效果：  
 <img src="http://www.daydayup365.top/github/pxq-0330.jpg" width="200"
