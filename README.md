@@ -66,7 +66,7 @@ width="200" alt="什么软件没用" />
 积极发言可以得到群红包奖励，维护健康的群氛围。  
 <img src="http://www.daydayup365.top/github/alipay1-min.jpg" width="200"
 alt="支付宝" />
-<img src="http://www.daydayup365.top/github/pay-wx1-min.jpg" width="200"
+<img src="http://www.daydayup365.top/github/pay-wx1-min2.jpg" width="200"
 alt="微信" />
 <img src="http://www.daydayup365.top/github/qq-pay-min.jpg" width="200"
 alt="qq" />  
