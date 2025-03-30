@@ -1,4 +1,4 @@
-# damai 2024-有Q裙Q
+# damai 2025-有Q裙Q
 
 #### 概况
 
@@ -11,7 +11,7 @@
 #五月天 泉州 长沙邓紫棋 二开 加场 太原 郑州 JJ20 林俊杰 赵雷 告五人
 时代少年团 时团 李健 张学友 凤凰传奇 苏打绿 陈楚生 蔡琴
 
-#真夜 #ずっと真夜中でいいのに #2024上海演唱会
+#真夜 #ずっと真夜中でいいのに #2025上海演唱会
 
 #周杰伦长沙演唱会，票务 薛之谦 #杭州演唱会 #周杰伦 #Jayzhou #李宗盛
 #林忆莲 #告五人 #音乐节
@@ -25,36 +25,34 @@
 
 #### 入群不迷路。**q裙q 千人群 **
 
-本裙为有人维护的群，尽量做到无广告，群内800多个行业VIP人员，平等沟通，尽快获取行业信息。  
+本裙为有人维护的群，尽量做到无广告，群内990多个行业VIP人员，平等沟通，尽快获取行业信息。  
 维护群社区需要花很多时间相当不易，请先【捐助社区】后入群，以持续运营本公益社群。  
 本社区旨在交流抢票科技、业务、技术、开发问题（大麦风控，逆向，加解密，黑号，抢票等）等行业热点，以及搞钱经验。  
 
 入群条件A：￥79.99以上
 ，并star本项目。（备注：捐助wx/zfb实名名字,金额xx）  
 入群条件B：￥99.99以上，VIP捐助。（备注：VIP捐助wx/zfb实名名字,金额xx）  
-捐助后加群主Q：16790728（添加备注须精确，否则均拒绝！）  
+捐助后加群主Q：16790728（备注须精确，否则均拒绝！）  
 单独咨询：抢票技术专家咨询0.5小时/￥1099（需提前2天预约）  
 区别：B审批入群速度较快，A不定期核实审批，若急入走B通道。  
-目前群内：800多人（流水不腐，长期清理不活跃用户中-\>[社群清理不活跃账户日志](https://github.com/damaiqiangpiao/damai/edit/main/%E7%A4%BE%E5%8C%BA%E6%B8%85%E7%90%86%E6%97%A5%E5%BF%97.md)）。  
+目前群内：995人（流水不腐，长期清理不活跃用户中-\>[社群清理不活跃账户日志](https://github.com/damaiqiangpiao/damai/edit/main/%E7%A4%BE%E5%8C%BA%E6%B8%85%E7%90%86%E6%97%A5%E5%BF%97.md)）。  
 你看到抢票行业的QQ群要么是死群，要么刷屏广告。本群都不会发生，高净值付费抢票人群。
 
 > \[!CAUTION\]
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
-> 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。
-> QQ 2群：727641501（开放中） <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="大麦演唱会演出抢票秒" title="大麦演唱会演出抢票秒"></a> 
-> QQ 1群：955767910（996人，接近满员.） <a href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&amp;jump_from=webapi&amp;authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs" target="_blank"><img src="https://pub.idqqimg.com/wpa/images/group.png" title="一键入群" data-border="0" alt="一键入群" /></a>  
+> 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。  
+> QQ 2群：727641501（开放中） <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="大麦演唱会演出抢票秒" title="大麦演唱会演出抢票秒"></a>   
+> QQ 1群：955767910（995人，接近满员.） <a href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&amp;jump_from=webapi&amp;authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs" target="_blank"><img src="https://pub.idqqimg.com/wpa/images/group.png" title="一键入群" data-border="0" alt="一键入群" /></a>    
 > 想混进群备注：11、OK等的肯定不通过，一笔捐助流水对应一个入群资格。如有闲可去听-\>[群主的歌单](https://github.com/damaiqiangpiao/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
 >
 > \[!CAUTION\]
-> Tg上骗子太多，群主惨痛经历。誓永不在Tg聊天中交易。凡是留tg联系方式的，皆被我定义为骗子。
-> 血淋淋的教训给大家参考！！！
 > 本社区只接受微信、支付宝实名制收款，诚信运营！
 
 请认真阅读[入群须知](http://www.daydayup365.top/github/ruqunxuzhi.html)后，联系群主入群。
 
 行业内的人积极交流心得体会。你找业内人咨询问题，不请人喝杯咖啡？  
 新群友说买了谁谁谁的软件抢不到票， **如果早点进群，不会有损失。**  
-QQ群共享文件：  
+QQ群共享文件(2025持续更新中...)：  
 ![QQ群共享文件](http://www.daydayup365.top/github/group1.png)  
 2024-04-22更新群人数及活跃数据：  
 <img src="http://www.daydayup365.top/github/800-0422.jpg" width="200"
