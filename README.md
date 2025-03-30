@@ -41,7 +41,7 @@
 > \[!CAUTION\]
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
 > 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。
-> QQ 2群：727641501（开放中） <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="大麦演唱会演出抢票秒" title="大麦演唱会演出抢票秒"></a> 
+> QQ 2群：727641501（开放中） <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="大麦演唱会演出抢票秒" title="大麦演唱会演出抢票秒"></a> 
 > QQ 1群：955767910（996人，接近满员.） <a href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&amp;jump_from=webapi&amp;authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs" target="_blank"><img src="https://pub.idqqimg.com/wpa/images/group.png" title="一键入群" data-border="0" alt="一键入群" /></a>  
 > 想混进群备注：11、OK等的肯定不通过，一笔捐助流水对应一个入群资格。如有闲可去听-\>[群主的歌单](https://github.com/damaiqiangpiao/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)
 >
