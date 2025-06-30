@@ -1,4 +1,4 @@
-# damai抢票2025-有Q裙Q(千人QQ群)周年庆特惠，6.30 23点恢复原捐助金额
+# damai抢票2025-有Q裙Q(千人QQ群）
 
 #### 概况
 [无需科学上网链接](http://www.daydayup365.top//github/damai.html)  
@@ -25,24 +25,24 @@
 
 #### 入群不迷路。**q裙q 千人群 **
 
-本裙为有人维护的群，尽量做到无广告，群内990多个行业VIP人员，平等沟通，尽快获取行业信息。  
+本裙为有人维护的群，尽量做到无广告，群内1000多个行业VIP人员，平等沟通，尽快获取行业信息。  
 维护群社区需要花很多时间相当不易，请先【捐助社区】后入群，以持续运营本公益社群。  
 本社区旨在交流抢票科技、业务、技术、开发问题（大麦风控，逆向，加解密，黑号，抢票等）等行业热点，以及搞钱经验。  
 
-入群条件A：￥19.99（原:69.99，周年庆限时特惠）
+入群条件A：￥69.99（原:89.99限时特惠）
 ，并star本项目。（备注：捐助wx/zfb实名名字,金额xx）  
 入群条件B：￥99.99以上，VIP捐助。（备注：VIP捐助wx/zfb实名名字,金额xx）  
 捐助后加群主Q：16790728（备注须精确，否则均拒绝！）  
 单独咨询：抢票技术专家咨询0.5小时/￥1099（需提前2天预约）  
 区别：B审批入群速度较快，A不定期核实审批，若急入走B通道。  
-目前群内：990人（流水不腐，长期清理不活跃ing）。  
+目前群内：1000人（流水不腐，长期清理不活跃ing）。  
 你看到抢票行业的QQ群要么是死群，要么刷屏广告。本群都不会发生，高净值付费抢票人群。
 
 > [!CAUTION]
 > 入群备注格式：已star，wx/zfb付款账号xxxx。（格式必须准确,否则不审批）  
 > 群内讨论抢票相关业务，软件、账号、风控及技术，入群捐助费用不退。  
 > QQ 2群：727641501（开放中） <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="大麦演唱会演出抢票秒" title="大麦演唱会演出抢票秒"></a>   
-> QQ 1群：955767910（990人，接近满员.） <a href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&amp;jump_from=webapi&amp;authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs" target="_blank"><img src="https://pub.idqqimg.com/wpa/images/group.png" title="一键入群" data-border="0" alt="一键入群" /></a>    
+> QQ 1群：955767910（1000人，接近满员.） <a href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&amp;jump_from=webapi&amp;authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs" target="_blank"><img src="https://pub.idqqimg.com/wpa/images/group.png" title="一键入群" data-border="0" alt="一键入群" /></a>    
 > 想混进群备注：11、OK等的肯定不通过，一笔捐助流水对应一个入群资格。如有闲可去听-\>[群主的歌单](https://github.com/damaiqiangpiao/damai/blob/main/%E7%BE%A4%E4%B8%BB%E7%9A%84%E6%AD%8C%E5%8D%95.md)  
 > 入群二维码：  
 > <img src="http://www.daydayup365.top/github/qq2qun.png" width="200"
