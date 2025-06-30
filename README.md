@@ -1,4 +1,4 @@
-# damai抢票2025-有Q裙Q(千人QQ群)周年庆特惠
+# damai抢票2025-有Q裙Q(千人QQ群)周年庆特惠，6.30 23点恢复原捐助金额
 
 #### 概况
 [无需科学上网链接](http://www.daydayup365.top//github/damai.html)  
