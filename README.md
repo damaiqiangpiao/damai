@@ -1,4 +1,4 @@
-# damai抢票2025-有Q裙Q(千人QQ群）金秋特惠
+# damai抢票2025-有Q裙Q(千人QQ群）双十一邀请入Q群
 
 #### 概况
 [无需科学上网链接](http://www.daydayup365.top//github/damai.html)  
