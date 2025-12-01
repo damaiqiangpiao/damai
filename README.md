@@ -57,16 +57,16 @@ alt="QQ2群扫码入群二维码" />
 新群友说买了谁谁谁的软件抢不到票， **如果早点进群，不会有损失。**  
 QQ群共享文件(2025持续更新中...)：  
 ![QQ群共享文件](http://www.daydayup365.top/github/group1.png)  
-2025-03-30更新群人数：  
+2025-11-30更新群人数：  
 <img src="http://www.daydayup365.top/github/qq1-nums20250330.png" width="200"
 alt="QQ人数-0329" />  
-2025-03-30更新票星球抢票效果：  
+2025-11-30更新票星球抢票效果：  
 <img src="http://www.daydayup365.top/github/pxq-0330.jpg" width="200"
 alt="票星球抢票效果2025" />  
-2025-03-30更新B站抢票效果202503-bilibili 哔哩哔哩抢票效果：  
+2025-11-30更新B站抢票效果202503-bilibili 哔哩哔哩抢票效果：  
 <img src="http://www.daydayup365.top/github/bizhan-0330.jpg" width="200"
 alt="B站抢票效果202503-bilibili 哔哩哔哩抢票" />  
-2025-03-30更新meituan美团抢票效果：  
+2025-11-30更新meituan美团抢票效果：  
 <img src="http://www.daydayup365.top/github/meituan-0330.jpg" width="200"
 alt="抢票效果202503" />  
 
@@ -88,24 +88,24 @@ alt="qq" />
 
 #### 效果演示
 
-大麦邓紫棋演唱会-2024-03-20更新：  
+大麦邓紫棋演唱会-2025-08-20更新：  
 <img src="http://www.daydayup365.top/github/damaidengziqi-0320-min.jpg"
 width="300" alt="大麦邓紫棋" />
 
-大麦张杰演唱会-2024-03-20更新：  
+大麦张杰演唱会-2025-08-20更新：  
 <img
 src="http://www.daydayup365.top/github/damai-qiangpiao-0320-min.png"
 width="300" alt="大麦张杰" />
 
-林俊杰演唱会-2024-03-20更新：  
+林俊杰演唱会-2025-08-20更新：  
 <img src="http://www.daydayup365.top/github/JJlinjunjie1-min.jpg"
 width="300" alt="JJ林俊杰门票" />
 
-秀动许嵩演唱会-2024-03-20更新：  
+秀动许嵩演唱会-2025-08-20更新：  
 <img src="http://www.daydayup365.top/github/xiudong-xusong1-min.jpg"
 width="300" alt="秀动许嵩" />
 
-邓紫棋演唱会监控效果 2024-02：  
+邓紫棋演唱会监控效果 2025-08：  
 <img src="http://www.daydayup365.top/github/dzq-yupiao-min.jpg"
 width="300" alt="余票监控" />
 
@@ -268,4 +268,4 @@ fastboot常用命令
 <img src="http://www.daydayup365.top/github/yunyingbuyi.jpg" width="500"
 alt="bboxcode" />
 
-感谢daydayup365.top公益社区为【大麦抢票社区】提供社区介绍html挂载，让国内用户了解我们。
+感谢:daydayup365.top公益社区为【大麦抢票社区】提供社区介绍html挂载，让国内用户了解我们。
