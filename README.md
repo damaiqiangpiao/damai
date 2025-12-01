@@ -65,10 +65,10 @@ alt="QQ人数-0329" />
 alt="票星球抢票效果2025" />  
 2025-11-30更新B站抢票效果202503-bilibili 哔哩哔哩抢票效果：  
 <img src="http://www.daydayup365.top/github/bizhan-0330.jpg" width="200"
-alt="B站抢票效果202503-bilibili 哔哩哔哩抢票" />  
+alt="B站抢票效果202511-bilibili 哔哩哔哩抢票" />  
 2025-11-30更新meituan美团抢票效果：  
 <img src="http://www.daydayup365.top/github/meituan-0330.jpg" width="200"
-alt="抢票效果202503" />  
+alt="抢票效果202511" />  
 
 其他群内聊天内容：  
 <img src="http://www.daydayup365.top/github/jishushen-min.jpg"
