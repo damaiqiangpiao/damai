@@ -57,18 +57,18 @@ alt="QQ2群扫码入群二维码" />
 新群友说买了谁谁谁的软件抢不到票， **如果早点进群，不会有损失。**  
 QQ群共享文件(2025持续更新中...)：  
 ![QQ群共享文件](http://www.daydayup365.top/github/group1.png)  
-2025-11-30更新群人数：  
+2024-04-30更新群人数：  
 <img src="http://www.daydayup365.top/github/qq1-nums20250330.png" width="200"
 alt="QQ人数-0329" />  
-2025-11-30更新票星球抢票效果：  
+2024-04-30更新票星球抢票效果：  
 <img src="http://www.daydayup365.top/github/pxq-0330.jpg" width="200"
 alt="票星球抢票效果2025" />  
-2025-11-30更新B站抢票效果202503-bilibili 哔哩哔哩抢票效果：  
+2024-04-30更新B站抢票效果202503-bilibili 哔哩哔哩抢票效果：  
 <img src="http://www.daydayup365.top/github/bizhan-0330.jpg" width="200"
 alt="B站抢票效果202511-bilibili 哔哩哔哩抢票" />  
-2025-11-30更新meituan美团抢票效果：  
+2024-04-30更新meituan美团抢票效果：  
 <img src="http://www.daydayup365.top/github/meituan-0330.jpg" width="200"
-alt="抢票效果202511" />  
+alt="抢票效果202404" />  
 
 其他群内聊天内容：  
 <img src="http://www.daydayup365.top/github/jishushen-min.jpg"
