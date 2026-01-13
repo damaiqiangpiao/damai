@@ -47,6 +47,10 @@ QQ群共享文件(2026持续更新中...)：
 <img src="http://www.daydayup365.top/github/chat_mini.jpg" width="200"
 alt="聊天活跃情况截图局部" />  
 
+2025-10-16更新群：  
+<img src="http://www.daydayup365.top/github/zhoujielun2025.jpg" width="200"
+alt="周杰伦上海演唱会嘉年华抢票大麦" />  
+
 2025-10-13更新效果情况：  
 <img src="http://www.daydayup365.top/github/shange202510.jpg" width="200"
 alt="刀郎山歌响起的地方抢票局部" />  
