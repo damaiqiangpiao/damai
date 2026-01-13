@@ -44,7 +44,7 @@ alt="QQ2群扫码入群二维码" />
 QQ群共享文件(2026持续更新中...)：  
 ![QQ群共享文件](http://www.daydayup365.top/github/group1.png)  
 2026-01-13更新群活跃情况：  
-<img src="http://www.daydayup365.top/github/chat-mini.jpg" width="200"
+<img src="http://www.daydayup365.top/github/chat_mini.jpg" width="200"
 alt="聊天活跃情况截图局部" />  
 2024-04-30更新群人数：  
 <img src="http://www.daydayup365.top/github/qq1-nums20250330.png" width="200"
