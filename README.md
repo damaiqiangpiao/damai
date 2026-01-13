@@ -54,11 +54,14 @@ alt="周杰伦上海演唱会嘉年华抢票大麦" />
 2025-10-13更新效果情况：  
 <img src="http://www.daydayup365.top/github/shange202510.jpg" width="200"
 alt="刀郎山歌响起的地方抢票局部" />  
-
-
 2025-03-13更新票星球抢票情况：  
 <img src="http://www.daydayup365.top/github/pxq2025.jpg" width="200"
 alt="票星球抢票截图局部" />  
+
+2025-03-10更新携程抢票情况：  
+<img src="http://www.daydayup365.top/github/xc2025.jpg" width="200"
+alt="携程抢票情况局部" />  
+
 2024-04-30更新群人数：  
 <img src="http://www.daydayup365.top/github/qq1-nums20250330.png" width="200"
 alt="QQ人数-0329" />  
