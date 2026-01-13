@@ -41,8 +41,11 @@ alt="QQ2群扫码入群二维码" />
 
 行业内的人积极交流心得体会。你找业内人咨询问题，不请人喝杯咖啡？  
 新群友说买了谁谁谁的软件抢不到票， **如果早点进群，不会有损失。**  
-QQ群共享文件(2025持续更新中...)：  
+QQ群共享文件(2026持续更新中...)：  
 ![QQ群共享文件](http://www.daydayup365.top/github/group1.png)  
+2026-01-13更新群活跃情况：  
+<img src="http://www.daydayup365.top/github/chat-mini.jpg" width="200"
+alt="聊天活跃情况截图局部" />  
 2024-04-30更新群人数：  
 <img src="http://www.daydayup365.top/github/qq1-nums20250330.png" width="200"
 alt="QQ人数-0329" />  
