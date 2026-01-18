@@ -1,4 +1,4 @@
-# damai抢票2026-有Q裙Q(庆祝千人QQ群升级特惠）
+# damai抢票2026-有Q裙Q(庆祝两千人QQ群升级特惠）
 
 #### 概况
 [无需科学上网链接](http://www.daydayup365.top/github/damai.html)
