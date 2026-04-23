@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#face detect
 cap = cv2.VideoCapture(0)  # 读取影片得用法  原理就是读取图片快速形成视频
 penColorBGT = [[81, 52, 100, 111, 245, 22], [46, 150, 45, 80, 32, 231], [10, 200, 150, 31, 253, 253]]
 drawpoint = []
