@@ -47,6 +47,15 @@ QQ群共享文件(2026持续更新中...)：
 <img src="http://www.daydayup365.top/github/chat_mini.jpg" width="200"
 alt="聊天活跃情况截图局部" />  
 
+
+2026-06-06更新:
+<img src="http://www.daydayup365.top/github/20260711m.jpg" width="200"
+alt="汪苏泷“明日世界”世界巡回演唱会" />  
+
+2026-06-01更新:
+<img src="http://www.daydayup365.top/github/20260530m.jpg" width="200"
+alt="陶喆Soul Power II Plus上海演唱会 世界巡回演唱会" />  
+
 2025-10-16更新群：  
 <img src="http://www.daydayup365.top/github/zhoujielun2025.jpg" width="200"
 alt="周杰伦上海演唱会嘉年华抢票大麦" />  
