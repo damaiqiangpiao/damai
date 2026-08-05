@@ -206,12 +206,12 @@ width="500" alt="大麦风控-各种弹窗问题" />
 [Android逆向—Root检测与反检测](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Root%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)  
 [Android逆向—Frida
 Hook教程](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%20Hook%E6%95%99%E7%A8%8B.ipynb)  
-[Android逆向—Frida普适代码合集](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%99%AE%E9%80%82%E4%BB%A3%E7%A0%81%E5%90%88%E9%9B%86.ipynb)  
+[Android逆向—Frida普适代码合集(2026)](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%99%AE%E9%80%82%E4%BB%A3%E7%A0%81%E5%90%88%E9%9B%86%282026%29.ipynb)  
 [Android逆向—Frida检测与反检测](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)  
 [Android逆向—抓包：过证书验证](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E6%8A%93%E5%8C%85%EF%BC%9A%E8%BF%87%E8%AF%81%E4%B9%A6%E9%AA%8C%E8%AF%81.ipynb)  
 [Android逆向—脱壳：Frida脱壳实战](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E8%84%B1%E5%A3%B3%EF%BC%9AFrida%E8%84%B1%E5%A3%B3%E5%AE%9E%E6%88%98.ipynb)  
-[Android逆向—r0env逆向环境解读](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94r0env%E9%80%86%E5%90%91%E7%8E%AF%E5%A2%83%E8%A7%A3%E8%AF%BB.ipynb)  
-[Android逆向-工具-GDA超简洁轻便快速的逆向分析工具的使用](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E5%B7%A5%E5%85%B7-GDA%E8%B6%85%E7%AE%80%E6%B4%81%E8%BD%BB%E4%BE%BF%E5%BF%AB%E9%80%9F%E7%9A%84%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.ipynb)  
+[Android逆向—r0env逆向环境解读(2026)](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94r0env%E9%80%86%E5%90%91%E7%8E%AF%E5%A2%83%E8%A7%A3%E8%AF%BB%282026%29.ipynb)  
+[Android逆向-工具-GDA超简洁轻便快速的逆向分析工具的使用(2026)](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94%E5%B7%A5%E5%85%B7-GDA%E8%B6%85%E7%AE%80%E6%B4%81%E8%BD%BB%E4%BE%BF%E5%BF%AB%E9%80%9F%E7%9A%84%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%282026%29.ipynb)  
 [Android逆向—Frida检测与反检测](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85%E2%80%94Frida%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%8F%8D%E6%A3%80%E6%B5%8B.ipynb)
 
 #### 3）抢票-JS相关
@@ -223,13 +223,13 @@ Hook教程](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E
 
 [工具—Unidbg调用So文件(2026).ipynb](https://github.com/damaiqiangpiao/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Unidbg.ipynb)  
 [工具—Wireshark详解(2026).ipynb](https://github.com/damaiqiangpiao/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Wireshark%E8%AF%A6%E8%A7%A3.ipynb)  
-[工具—Apktools安装使用](https://github.com/damaiqiangpiao/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Apktools%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8.ipynb)  
+[工具—Apktools安装使用(2026)](https://github.com/damaiqiangpiao/damai/blob/main/%E5%B7%A5%E5%85%B7%E2%80%94Apktools%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%282026%29.ipynb)  
 [工具与常用网址集](https://github.com/damaiqiangpiao/damai/blob/main/%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80%E9%9B%86.md)
 
 #### 5）抢票Python加解密及高性能并发基础
 
 [Python 加密 -
-代码实现](https://github.com/damaiqiangpiao/damai/blob/main/Python%20%E5%8A%A0%E5%AF%86%20-%20%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0.ipynb)  
+代码实现(2026)](https://github.com/damaiqiangpiao/damai/blob/main/Python%20%E5%8A%A0%E5%AF%86%20-%20%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%282026%29.ipynb)  
 [Python
 加密之Crypto、pycrypto、pycryptodo](https://github.com/damaiqiangpiao/damai/blob/main/Python%20%E5%8A%A0%E5%AF%86%E4%B9%8BCrypto%E3%80%81pycrypto%E3%80%81pycryptodome.ipynb)  
 [Python
@@ -237,9 +237,9 @@ Hook教程](https://github.com/damaiqiangpiao/damai/blob/main/Android%E9%80%86%E
 [Python
 并发编程之概念原理](https://github.com/damaiqiangpiao/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%A6%82%E5%BF%B5%E5%8E%9F%E7%90%86.ipynb)  
 [Python
-并发编程之进程一](https://github.com/damaiqiangpiao/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%BF%9B%E7%A8%8B%E4%B8%80.ipynb)  
+并发编程之进程一(2026)](https://github.com/damaiqiangpiao/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%BF%9B%E7%A8%8B%E4%B8%80%282026%29.ipynb)  
 [Python
-并发编程之线程二](https://github.com/damaiqiangpiao/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BA%BF%E7%A8%8B%E4%BA%8C.ipynb)
+并发编程之线程二(2026)](https://github.com/damaiqiangpiao/damai/blob/main/Python%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BA%BF%E7%A8%8B%E4%BA%8C%282026%29.ipynb)
 
 #### 6)[安卓刷机教程](https://github.com/damaiqiangpiao/damai/tree/main/%E5%88%B7%E6%9C%BA)
 
