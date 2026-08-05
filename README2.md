@@ -46,23 +46,23 @@
 |------|------|----------|
 | [📡 抓包教程](./抓包工具/readme.md) | HttpCanary / Frida / Wireshark 完整教程，从零学抓包 | 新手入门 |
 | [🛡 Root 隐藏](./隐藏root/) | Magisk + Shamiko + LSPosed 全套方案，过检测 | 刷机党 |
-| [🔧 逆向实战](./Android逆向之旅—Frida%20Hook教程.ipynb) | Frida Hook、脱壳、Root 检测绕过 | 进阶开发者 |
-| [🐍 Python 并发](./Python%20并发编程之概念原理.ipynb) | 多线程/多进程抢票实战 | Python 工程师 |
+| [🔧 逆向实战](./Android逆向之旅—Frida%20Hook实战教程(2026).ipynb) | Frida Hook、脱壳、Root 检测绕过 | 进阶开发者 |
+| [🐍 Python 并发](./Python%20并发编程之概念原理(2026).ipynb) | 多线程/多进程抢票实战 | Python 工程师 |
 | [📱 ADB 工具](./adb相关/) | ADB 驱动、常用命令 | 安卓调试 |
 | [🧰 工具合集](./工具与常用网址集.md) | Android 逆向工具链汇总 | 所有开发者 |
 | [🛠 行业工具动态](./TOOLS-DAILY.md) | 抢票/逆向相关新工具和行业动态（不定时更新） | 关注行业 |
 
 ### 🔥 热门教程（GitHub 可直接预览）
 
-- [Android逆向之旅—Frida Hook 教程](./Android逆向之旅—Frida%20Hook教程.ipynb)
-- [Android逆向之旅—Frida 检测与反检测](./Android逆向之旅—Frida检测与反检测.ipynb)
-- [Android逆向之旅—Root 检测与反检测](./Android逆向之旅—Root检测与反检测.ipynb)
-- [Android逆向之旅—抓包：过证书验证](./Android逆向之旅—抓包：过证书验证.ipynb)
-- [Android逆向之旅—脱壳：Frida 脱壳实战](./Android逆向之旅—脱壳：Frida脱壳实战.ipynb)
-- [Js逆向之旅—反爬技术与处理手段](./Js逆向之旅—Js反爬技术与处理手段汇总.ipynb)
-- [Python 加密—Crypto/pycryptodome](./Python%20加密之Crypto、pycrypto、pycryptodome.ipynb)
-- [工具—Unidbg 调用 So 文件](./工具—Unidbg.ipynb)
-- [工具—Wireshark 详解](./工具—Wireshark详解.ipynb)
+- [Android逆向之旅—Frida Hook 教程](./Android逆向之旅—Frida%20Hook实战教程(2026).ipynb)
+- [Android逆向之旅—Frida 检测与反检测](./Android逆向之旅—Frida检测与反检测实战(2026).ipynb)
+- [Android逆向之旅—Root 检测与反检测](./Android逆向之旅—Root检测与反检测实战(2026).ipynb)
+- [Android逆向之旅—抓包：过证书验证](./Android逆向之旅—抓包：过证书验证(2026).ipynb)
+- [Android逆向之旅—脱壳：Frida 脱壳实战](./Android逆向之旅—脱壳：Frida脱壳实战(2026).ipynb)
+- [Js逆向之旅—反爬技术与处理手段](./Js逆向之旅—Js反爬技术与处理手段汇总(2026).ipynb)
+- [Python 加密—Crypto/pycryptodome](./Python%20加密之Crypto等库详解(2026).ipynb)
+- [工具—Unidbg 调用 So 文件](./工具—Unidbg调用So文件(2026).ipynb)
+- [工具—Wireshark 详解](./工具—Wireshark详解(2026).ipynb)
 
 ---
 
@@ -121,7 +121,7 @@ damai/
 ├── 大麦源码/                   大麦逆向分析
 ├── 其他工具/                   MT管理器 / tcpdump
 ├── adb相关/                    ADB 驱动与命令
-├── *.ipynb                     Jupyter Notebook 教程（15篇）
+├── *.ipynb                     Jupyter Notebook 教程（20篇）
 ├── 人脸识别.py                 抢票人脸识别方案
 └── 刷机/                       各机型刷机教程
 ```
