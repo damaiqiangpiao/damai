@@ -7,28 +7,23 @@
 
 ## 2026-08-05
 
-### 🔥 本周值得关注
+### 🆕 GitHub 新项目
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [getmaxun/maxun](https://github.com/getmaxun/maxun) | 无代码网页抓取平台，可替代手写爬虫 | ⭐17k |
-| [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) | Zygisk模块，隐藏应用列表，过检测利器 | ⭐2.7k |
-| [hxreborn/biometric-app-lock](https://github.com/hxreborn/biometric-app-lock) | Xposed模块，生物识别锁定App | ⭐33 |
-| [gallzeraadelivery/device-spoof](https://github.com/gallzeraadelivery/device-spoof) | LSPosed 设备指纹伪装模块，抢票防封号 | 🆕 |
-| [raz123/bandctl](https://github.com/raz123/bandctl) | KernelSU 模块，高通基带频段控制 | 🆕 |
-
-### 💡 工具速递
-
-- **Maxun** — 开源无代码爬虫平台，TypeScript 写的，支持定时任务、数据导出。抢票场景可以用来做余票监控的轻量替代方案。
-- **HMA-OSS** — 隐藏应用列表的 Zygisk 版本，比原版 HMA 更稳定，配合 Shamiko 使用效果更好。大麦检测 ROOT 时会扫描应用列表，这个能挡。
-- **Device Spoof** — 刚冒出来的 LSPosed 模块，可以伪装 Build 信息、设备指纹。对于大麦新版设备指纹检测可能有奇效，值得关注。
-
+| [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) | A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide M | ⭐2701 |
+| [reversenseorg/dexcalibur](https://github.com/reversenseorg/dexcalibur) | Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary  | ⭐1167 |
+| [okhsunrog/vpnhide](https://github.com/okhsunrog/vpnhide) | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) | ⭐498 |
+| [Xposed-Modules-Repo/com.wowsoftware.hidemyandroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid) | Android anti-detect module with profile isolation and spoofing | ⭐75 |
+| [uonou/mmrl-repo](https://github.com/uonou/mmrl-repo) | 基于MMRL (Magisk Module Repository Loader)的模块仓库。 | ⭐36 |
 ### 📰 行业动态
 
-- **大麦 8月风控升级**：新增设备指纹 + 行为轨迹双重验证，单纯改机型已经不够了。
-- **猫眼**：部分热门场次启用人脸识别 + 动态二维码，黄牛党传统手段逐步失效。
-- **Playwright 替代 Selenium 成趋势**：Node.js 生态的 Playwright 比 Selenium 快 3-5 倍，GitHub 上爬虫类项目大量迁移。
-- **KernelSU 生态壮大**：越来越多模块从 Magisk 迁移到 KernelSU，内核级隐藏能力更强。
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- jadx 1.5 发布，反编译速度提升40%
+- r0env 逆向环境更新至 v3.0，预装更多工具
+### 💡 今日 Tips
+
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ---
 
