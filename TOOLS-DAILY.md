@@ -11,19 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) | A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide M | ⭐2701 |
-| [reversenseorg/dexcalibur](https://github.com/reversenseorg/dexcalibur) | Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary  | ⭐1167 |
-| [okhsunrog/vpnhide](https://github.com/okhsunrog/vpnhide) | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) | ⭐498 |
-| [Xposed-Modules-Repo/com.wowsoftware.hidemyandroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid) | Android anti-detect module with profile isolation and spoofing | ⭐75 |
-| [uonou/mmrl-repo](https://github.com/uonou/mmrl-repo) | 基于MMRL (Magisk Module Repository Loader)的模块仓库。 | ⭐36 |
+| [nullcpy/rvb](https://github.com/nullcpy/rvb) | Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, R | ⭐237 |
+| [hxreborn/biometric-app-lock](https://github.com/hxreborn/biometric-app-lock) | An Xposed module to lock apps behind biometric authentication | ⭐33 |
+| [MuhammedErdemKazanci/device_trust](https://github.com/MuhammedErdemKazanci/device_trust) | Heuristic device integrity signals for Flutter (root/jailbreak, emulator/simulator, Frida/hook, debu | ⭐16 |
+| [ridhoae303/android-frida-hooks](https://github.com/ridhoae303/android-frida-hooks) | A simple multi-purpose Frida hook script for spoofing and basic bypass testing. | ⭐10 |
+| [TsinbeiLabs/GoogleSansMax](https://github.com/TsinbeiLabs/GoogleSansMax) | A Magisk/KernelSU font module. | ⭐10 |
 ### 📰 行业动态
 
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
-- jadx 1.5 发布，反编译速度提升40%
-- r0env 逆向环境更新至 v3.0，预装更多工具
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ---
 
