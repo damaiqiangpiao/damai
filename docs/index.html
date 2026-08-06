@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="大麦抢票技术社区官网 - 大麦/猫眼/票星球/纷玩岛全平台抢票技术。余票监控、回流票、Android逆向、Frida Hook、Python抢票脚本。2000人QQ群实时交流。">
+<meta name="keywords" content="大麦抢票,猫眼抢票,票星球抢票,纷玩岛抢票,演唱会抢票,余票监控,回流票,Android逆向,Frida Hook,Python抢票,抢票脚本,大麦风控,抢票技术">
+<meta name="author" content="damai抢票社区">
+<meta property="og:title" content="大麦抢票技术社区 - 全平台抢票技术分享">
+<meta property="og:description" content="余票监控、回流票、Android逆向、Frida Hook、Python抢票脚本开发。2000人QQ群实时交流。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="./">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="./">
+<title>大麦抢票技术社区 — 全平台抢票技术分享 | damai.daydayup365.top</title>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "大麦抢票技术社区",
+  "url": "./",
+  "description": "大麦/猫眼/票星球/纷玩岛全平台抢票技术社区。余票监控、回流票、Android逆向、Frida Hook、Python抢票脚本开发。",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "./damai-faq.html",
+    "query-input": "required name=search_term"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "damai抢票社区",
+  "url": "./",
+  "logo": "./favicon.ico",
+  "sameAs": [
+    "https://github.com/damaiqiangpiao/damai",
+    "https://gitee.com/jacketz/damai"
+  ]
+}
+</script>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; color: #333; line-height: 1.6; }
+  .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 20px; text-align: center; }
+  .header h1 { font-size: 2.5em; margin-bottom: 15px; }
+  .header p { opacity: 0.9; font-size: 1.2em; max-width: 600px; margin: 0 auto; }
+  .container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+  .cta { background: #fff; border-radius: 12px; padding: 30px; margin: 30px 0; text-align: center; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+  .cta h2 { color: #e74c3c; margin-bottom: 15px; font-size: 1.8em; }
+  .cta .btn { display: inline-block; background: #e74c3c; color: #fff; padding: 14px 35px; border-radius: 25px; text-decoration: none; font-size: 1.2em; margin: 8px; transition: all 0.3s; }
+  .cta .btn:hover { background: #c0392b; transform: translateY(-2px); }
+  .cta .btn.orange { background: #f39c12; }
+  .cta .btn.orange:hover { background: #e67e22; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 30px 0; }
+  .card { background: #fff; border-radius: 12px; padding: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s; }
+  .card:hover { transform: translateY(-3px); box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
+  .card h3 { color: #667eea; margin-bottom: 10px; font-size: 1.3em; }
+  .card p { color: #666; margin-bottom: 15px; }
+  .card a { color: #667eea; text-decoration: none; font-weight: 500; }
+  .card a:hover { text-decoration: underline; }
+  .stats { display: flex; justify-content: center; gap: 40px; margin: 20px 0; flex-wrap: wrap; }
+  .stat { text-align: center; }
+  .stat .num { font-size: 2.5em; font-weight: bold; color: #667eea; }
+  .stat .label { color: #666; font-size: 0.95em; }
+  .section-title { text-align: center; margin: 40px 0 20px; color: #333; font-size: 1.8em; }
+  .faq-link { background: #fff; border-radius: 12px; padding: 25px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+  .faq-link h3 { color: #e74c3c; margin-bottom: 15px; }
+  .faq-link ul { margin-left: 20px; color: #555; }
+  .faq-link li { margin-bottom: 8px; }
+  .faq-link a { color: #667eea; text-decoration: none; }
+  .faq-link a:hover { text-decoration: underline; }
+  .footer { text-align: center; padding: 40px; color: #999; font-size: 0.9em; }
+  @media (max-width: 600px) { .header h1 { font-size: 1.8em; } .stats { gap: 20px; } }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🎫 大麦抢票技术社区</h1>
+  <p>大麦 · 猫眼 · 票星球 · 纷玩岛 全平台抢票技术分享<br>余票监控 · 回流票 · Android逆向 · Frida Hook · Python抢票</p>
+  <div class="stats">
+    <div class="stat"><div class="num">2000</div><div class="label">QQ群成员</div></div>
+    <div class="stat"><div class="num">20</div><div class="label">技术教程</div></div>
+    <div class="stat"><div class="num">1000+</div><div class="label">行业人员</div></div>
+  </div>
+</div>
+
+<div class="container">
+
+<div class="cta">
+  <h2>🔥 加入2000人QQ群</h2>
+  <p style="margin-bottom:20px;color:#555;">群内1000+抢票老手实时交流，无广告不刷屏，抢票圈最活跃的高质量社群</p>
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs" class="btn">QQ1群 955767910</a>
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR" class="btn orange">QQ2群 727641501</a>
+  <p style="margin-top:15px;color:#666;font-size:0.95em;">⭐ Star GitHub → 捐助入群 → 加群主QQ 16790728</p>
+</div>
+
+<div class="section-title">📚 核心资源</div>
+
+<div class="cards">
+  <div class="card">
+    <h3>📖 GitHub 仓库</h3>
+    <p>20篇完整教程 + 实时演出日历 + 行业动态。Android逆向、Frida Hook、Python抢票全收录。</p>
+    <a href="https://github.com/damaiqiangpiao/damai">→ 访问 GitHub</a>
+  </div>
+  <div class="card">
+    <h3>🎓 教程合集</h3>
+    <p>20篇抢票技术教程分类导航，从抓包入门到 Frida 逆向精通，每篇均可在线预览。</p>
+    <a href="./damai-tutorials.html">→ 查看教程</a>
+  </div>
+  <div class="card">
+    <h3>❓ 常见问题</h3>
+    <p>为什么抢不到票？回流票什么时候放？大麦风控机制？12个高频问题详细解答。</p>
+    <a href="./damai-faq.html">→ 查看 FAQ</a>
+  </div>
+  <div class="card">
+    <h3>📅 演出日历</h3>
+    <p>当月热门演唱会抢票日历，周杰伦/张学友/林俊杰等重磅演出时间及回流票攻略。</p>
+    <a href="https://github.com/damaiqiangpiao/damai/blob/main/HOT-2026-08.md">→ 查看日历</a>
+  </div>
+  <div class="card">
+    <h3>🔧 抓包工具</h3>
+    <p>HttpCanary / Frida / Wireshark 完整教程，从零学习抓包分析大麦接口。</p>
+    <a href="https://github.com/damaiqiangpiao/damai/tree/main/抓包工具">→ 查看工具</a>
+  </div>
+  <div class="card">
+    <h3>🛡 Root 隐藏</h3>
+    <p>Magisk + Shamiko + LSPosed 全套方案，过检测防风控，抢票必备环境配置。</p>
+    <a href="https://github.com/damaiqiangpiao/damai/tree/main/隐藏root">→ 查看方案</a>
+  </div>
+</div>
+
+<div class="section-title">🔥 热门搜索关键词</div>
+
+<div class="faq-link">
+  <h3>用户都在搜什么？</h3>
+  <ul>
+    <li><a href="./damai-faq.html">大麦怎么抢票？</a> — 完整抢票流程和技术方案</li>
+    <li><a href="./damai-faq.html">为什么抢不到票？</a> — 5大原因分析 + 解决方案</li>
+    <li><a href="./damai-faq.html">回流票什么时候放？</a> — 回流票时间规律全解析</li>
+    <li><a href="https://github.com/damaiqiangpiao/damai/blob/main/Android逆向之旅—Frida%20Hook实战教程(2026).ipynb">Frida Hook 教程</a> — Android 逆向实战</li>
+    <li><a href="https://github.com/damaiqiangpiao/damai/blob/main/Android逆向之旅—Root检测与反检测实战(2026).ipynb">大麦检测Root怎么办？</a> — Root 隐藏全套方案</li>
+    <li><a href="https://github.com/damaiqiangpiao/damai/blob/main/Python%20并发编程之概念原理(2026).ipynb">Python 抢票脚本</a> — 高并发抢票开发</li>
+  </ul>
+</div>
+
+<div class="cta" style="margin-top:40px;">
+  <h2>🚀 想进群学抢票技术？</h2>
+  <p style="margin-bottom:15px;">2000人QQ群，1000+抢票老手实时在线解答</p>
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs" class="btn">QQ1群 955767910</a>
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR" class="btn orange">QQ2群 727641501</a>
+  <p style="margin-top:15px;color:#666;font-size:0.9em;">
+    ⭐ <a href="https://github.com/damaiqiangpiao/damai" style="color:#667eea;">GitHub</a> | 
+    🔗 <a href="https://gitee.com/jacketz/damai" style="color:#667eea;">Gitee</a> | 
+    📖 <a href="./damai.html" style="color:#667eea;">社区介绍</a> | 
+    📝 <a href="./ruqunxuzhi.html" style="color:#667eea;">入群须知</a>
+  </p>
+</div>
+
+</div>
+
+<div class="footer">
+  <p>© damai抢票社区 · Powered by <a href="https://www.daydayup365.top" style="color:#999;">daydayup365.top</a></p>
+  <p>大麦抢票技术分享 · 不提供违规软件 · 仅研讨技术交流</p>
+</div>
+
+</body>
+</html>
