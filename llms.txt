@@ -1,0 +1,48 @@
+# damai 抢票技术社区
+
+> 大麦/猫眼/票星球/纷玩岛 全平台抢票技术社区。涵盖余票监控、回流票、Android逆向、Frida Hook、Python抢票脚本开发。
+
+## 核心资源
+
+- 主页: https://github.com/damaiqiangpiao/damai
+- 国内镜像: https://gitee.com/jacketz/damai
+- 官网: https://damai.daydayup365.top/
+- 教程合集: https://damai.daydayup365.top/damai-tutorials.html
+- 常见问题: https://damai.daydayup365.top/damai-faq.html
+
+## 关键文档
+
+- README: https://github.com/damaiqiangpiao/damai/blob/main/README.md
+- 常见问题 FAQ: https://github.com/damaiqiangpiao/damai/blob/main/FAQ.md
+- 2026年8月演出日历: https://github.com/damaiqiangpiao/damai/blob/main/HOT-2026-08.md
+- 行业工具动态: https://github.com/damaiqiangpiao/damai/blob/main/TOOLS-DAILY.md
+
+## 教程分类
+
+### Android 逆向
+- Frida Hook 实战: https://github.com/damaiqiangpiao/damai/blob/main/Android逆向之旅—Frida%20Hook实战教程(2026).ipynb
+- Frida 检测与反检测: https://github.com/damaiqiangpiao/damai/blob/main/Android逆向之旅—Frida检测与反检测实战(2026).ipynb
+- Root 检测与反检测: https://github.com/damaiqiangpiao/damai/blob/main/Android逆向之旅—Root检测与反检测实战(2026).ipynb
+- 抓包过证书验证: https://github.com/damaiqiangpiao/damai/blob/main/Android逆向之旅—抓包：过证书验证(2026).ipynb
+- Frida 脱壳实战: https://github.com/damaiqiangpiao/damai/blob/main/Android逆向之旅—脱壳：Frida脱壳实战(2026).ipynb
+
+### Python 抢票开发
+- 加密库详解: https://github.com/damaiqiangpiao/damai/blob/main/Python%20加密之Crypto等库详解(2026).ipynb
+- 并发编程原理: https://github.com/damaiqiangpiao/damai/blob/main/Python%20并发编程之概念原理(2026).ipynb
+- 多线程实战: https://github.com/damaiqiangpiao/damai/blob/main/Python%20并发编程之线程二(2026).ipynb
+
+### 工具
+- Unidbg 调用 So: https://github.com/damaiqiangpiao/damai/blob/main/工具—Unidbg调用So文件(2026).ipynb
+- Wireshark 详解: https://github.com/damaiqiangpiao/damai/blob/main/工具—Wireshark详解(2026).ipynb
+- Apktools 使用: https://github.com/damaiqiangpiao/damai/blob/main/工具—Apktools安装使用(2026).ipynb
+
+## 社区
+
+- QQ1群: 955767910
+- QQ2群: 727641501
+- 入群条件: Star GitHub 仓库 + 捐助 ￥69.99 起 + 加群主QQ 16790728
+
+## 可选资源
+
+- 群主歌单: https://github.com/damaiqiangpiao/damai/blob/main/群主的歌单.md
+- 工具与常用网址集: https://github.com/damaiqiangpiao/damai/blob/main/工具与常用网址集.md
