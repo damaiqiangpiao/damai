@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-05
+> 最后更新：2026-08-07
 
 ---
+
+## 2026-08-07
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [okhsunrog/vpnhide](https://github.com/okhsunrog/vpnhide) | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) | ⭐499 |
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐312 |
+| [Xposed-Modules-Repo/com.wowsoftware.hidemyandroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid) | Android anti-detect module with profile isolation and spoofing | ⭐77 |
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐32 |
+| [mrx7014/SpoofingCollection](https://github.com/mrx7014/SpoofingCollection) | A collection of Magisk root modules and LSPosed (Xposed) modules for spoofing Android device fingerp | ⭐11 |
+### 📰 行业动态
+
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+### 💡 今日 Tips
+
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-08-05
 
