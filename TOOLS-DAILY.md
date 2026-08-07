@@ -11,19 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [okhsunrog/vpnhide](https://github.com/okhsunrog/vpnhide) | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) | ⭐499 |
-| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐312 |
-| [Xposed-Modules-Repo/com.wowsoftware.hidemyandroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid) | Android anti-detect module with profile isolation and spoofing | ⭐77 |
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐32 |
-| [mrx7014/SpoofingCollection](https://github.com/mrx7014/SpoofingCollection) | A collection of Magisk root modules and LSPosed (Xposed) modules for spoofing Android device fingerp | ⭐11 |
+| [Arora-Sir/DarQ-Reborn](https://github.com/Arora-Sir/DarQ-Reborn) | Selectable per-app Force Dark theme enabler for Android 10+ using Shizuku or Root. Features an LSPos | ⭐66 |
+| [uonou/mmrl-repo](https://github.com/uonou/mmrl-repo) | 基于MMRL (Magisk Module Repository Loader)的模块仓库。 | ⭐36 |
+| [OnyxZygisk/OnyxZygisk](https://github.com/OnyxZygisk/OnyxZygisk) | Zygote injection via ptrace - Zygisk API for APatch/KernelSU/Magisk, with FN (Functional Node) modul | ⭐8 |
+| [ibrahemalnayefku/G-News-Control](https://github.com/ibrahemalnayefku/G-News-Control) | 📰 Control your Google news feed easily with G-News Control, a Magisk & KernelSU module to enable or  | ⭐4 |
+| [genguzzz/MaaMeowLockScreenPatch](https://github.com/genguzzz/MaaMeowLockScreenPatch) | LSPosed module: run MAA-Meow scheduled tasks on lock screen / doze | ⭐3 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- r0env 逆向环境更新至 v3.0，预装更多工具
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-08-05
 
