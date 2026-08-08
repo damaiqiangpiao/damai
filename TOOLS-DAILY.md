@@ -7,23 +7,14 @@
 
 ## 2026-08-08
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [okhsunrog/vpnhide](https://github.com/okhsunrog/vpnhide) | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) | ⭐502 |
-| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐315 |
-| [Xposed-Modules-Repo/com.wowsoftware.hidemyandroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid) | Android anti-detect module with profile isolation and spoofing | ⭐78 |
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
-| [mhmdsatria/phantom-frida](https://github.com/mhmdsatria/phantom-frida) | Build a stealthy Frida server from source, applying robust patches to evade detection and enhance se | ⭐1 |
 ### 📰 行业动态
 
-- jadx 1.5 发布，反编译速度提升40%
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- r0env 逆向环境更新至 v3.0，预装更多工具
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 ### 💡 今日 Tips
 
-> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
+> Android 15 对无障碍服务限制更严，自动点击方案需适配
 
 ## 2026-08-07
 
