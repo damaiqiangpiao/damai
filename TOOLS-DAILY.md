@@ -7,14 +7,23 @@
 
 ## 2026-08-08
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) | A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide M | ⭐2738 |
+| [okhsunrog/vpnhide](https://github.com/okhsunrog/vpnhide) | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) | ⭐502 |
+| [Xposed-Modules-Repo/com.wowsoftware.hidemyandroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid) | Android anti-detect module with profile isolation and spoofing | ⭐79 |
+| [Delusions6515/Sub-Store-Module](https://github.com/Delusions6515/Sub-Store-Module) | Sub-Store for Android (Magisk / KernelSU / APatch 模块) | ⭐13 |
+| [mhmdsatria/phantom-frida](https://github.com/mhmdsatria/phantom-frida) | Build a stealthy Frida server from source, applying robust patches to evade detection and enhance se | ⭐1 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-08-07
 
