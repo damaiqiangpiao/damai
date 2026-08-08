@@ -24,6 +24,14 @@
 2. 💰 微信/支付宝捐助（备注你的实名）
 3. 📩 加群主 QQ：**16790728**（备注格式：`已star，wx/zfb付款账号xxxx`）
 
+**捐助渠道**（本社区只接受微信、支付宝实名制收款，诚信运营）：
+
+| 支付宝 | 微信 | QQ |
+|---|---|---|
+| <img src="https://www.daydayup365.top/github/alipay1-min.jpg" width="180" alt="支付宝捐助入群" /> | <img src="https://www.daydayup365.top/github/pay-wx1-min2.jpg" width="180" alt="微信捐助入群" /> | <img src="https://www.daydayup365.top/github/qq-pay-min.jpg" width="180" alt="QQ捐助入群" /> |
+
+> 💗 爱心捐助 C 通道：￥99.99 以上（备注：爱心捐助，社区长青）
+
 > ⚠️ 备注格式必须准确，否则不审批。一笔捐助对应一个入群资格。  
 > 📌 群内讨论抢票相关业务、软件、账号、风控及技术。  
 > 📌 单独技术咨询：￥1099 / 0.5 小时（需提前 2 天预约）
@@ -32,14 +40,68 @@
 |---|---|
 | [955767910](https://qm.qq.com/cgi-bin/qm/qr?k=sHz9_gjlbZB3juKuC5BS3RX-AEGLb7Qw&jump_from=webapi&authKey=tAkcB7P3ek4fFMvdqhFIB0lQRzq6bEgdvH7TF4qh3Vbkemj8+/7/FeIxVsqRpSPs) | [727641501](https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR) |
 
-![群活跃截图](http://www.daydayup365.top/github/chat_mini.jpg)
-![群共享文件](http://www.daydayup365.top/github/group1.png)
-
 > 💡 "你看到抢票行业的 QQ 群要么是死群，要么刷屏广告。本群都不会发生。"  
 > 💡 "买了谁谁谁的软件抢不到票——**如果早点进群，不会有损失。**"
 
 扫码入群：
-![QQ2群扫码](http://www.daydayup365.top/github/qq2qun.png)
+
+<img src="https://www.daydayup365.top/github/qq2qun.png" width="200" alt="QQ2群扫码入群二维码" />
+
+---
+
+## 📸 群内实况：从 2024 到 2026，一直都在
+
+> 本社区自 2024 年运营至今，**两年多持续更新**。以下为历年群内真实截图（按时间倒序），
+> 涵盖群活跃度、共享资料、各平台抢票实况。图片均为群内成员实时反馈，未做修饰。
+
+### 🗂 群共享文件（2026 持续更新中）
+
+<img src="https://www.daydayup365.top/github/group1.png" width="420" alt="QQ群共享文件列表-抢票工具与逆向资料" />
+
+### 💬 群聊活跃情况
+
+| 2026-01-13 群活跃 | 技术讨论深度 |
+|---|---|
+| <img src="https://www.daydayup365.top/github/chat_mini.jpg" width="220" alt="2026年群聊活跃情况截图" /> | <img src="https://www.daydayup365.top/github/jishushen-min.jpg" width="220" alt="群内技术讨论-技术很深" /> |
+
+| 老版本软件怎么办 | 什么软件没用 |
+|---|---|
+| <img src="https://www.daydayup365.top/github/oldver_chat-min.jpg" width="220" alt="群内讨论-老版本抢票软件处理" /> | <img src="https://www.daydayup365.top/github/badsoft_chat-min.jpg" width="220" alt="群内讨论-哪些抢票软件没用" /> |
+
+> 积极发言可以得到群红包奖励，维护健康的群氛围。
+
+### 📈 群人数增长记录
+
+<img src="https://www.daydayup365.top/github/qq1-nums20250330.png" width="220" alt="QQ1群人数增长记录-已升级2000人群" />
+
+---
+
+## 🎯 历年抢票实况（2024 → 2026 时间线）
+
+### 2026 年
+
+| 日期 | 演出 | 实况 |
+|---|---|---|
+| 2026-06-06 | 汪苏泷「明日世界」世界巡回演唱会 | <img src="https://www.daydayup365.top/github/20260711m.jpg" width="200" alt="汪苏泷明日世界世界巡回演唱会抢票" /> |
+| 2026-06-01 | 陶喆 Soul Power II Plus 上海演唱会 | <img src="https://www.daydayup365.top/github/20260530m.jpg" width="200" alt="陶喆Soul Power II Plus上海演唱会抢票" /> |
+
+### 2025 年
+
+| 日期 | 演出 / 平台 | 实况 |
+|---|---|---|
+| 2025-10-16 | 周杰伦 上海演唱会嘉年华（大麦） | <img src="https://www.daydayup365.top/github/zhoujielun2025.jpg" width="200" alt="周杰伦上海演唱会嘉年华抢票大麦" /> |
+| 2025-10-13 | 刀郎「山歌响起的地方」 | <img src="https://www.daydayup365.top/github/shange202510.jpg" width="200" alt="刀郎山歌响起的地方抢票" /> |
+| 2025-05-30 | 巢票 / 赛演文旅 | <img src="https://www.daydayup365.top/github/chaop2025.jpg" width="200" alt="巢票赛演文旅演出抢票情况" /> |
+| 2025-03-13 | 票星球 | <img src="https://www.daydayup365.top/github/pxq2025.jpg" width="200" alt="票星球抢票截图" /> |
+| 2025-03-10 | 携程 | <img src="https://www.daydayup365.top/github/xc2025.jpg" width="200" alt="携程抢票情况" /> |
+
+### 2024 年
+
+| 日期 | 平台 | 实况 |
+|---|---|---|
+| 2024-04-30 | 票星球 | <img src="https://www.daydayup365.top/github/pxq-0330.jpg" width="200" alt="票星球抢票效果" /> |
+| 2024-04-30 | B站 bilibili 会员购 | <img src="https://www.daydayup365.top/github/bizhan-0330.jpg" width="200" alt="B站bilibili哔哩哔哩抢票效果" /> |
+| 2024-04-30 | 美团 | <img src="https://www.daydayup365.top/github/meituan-0330.jpg" width="200" alt="美团抢票效果" /> |
 
 ---
 
@@ -131,16 +193,37 @@
 
 > 搞接口过程中可能出现的情况：当前人数过多、滑块验证、风控弹窗等，请检查参数及账号状态。
 
-![大麦风控弹窗](https://github.com/damaiqiangpiao/damai/blob/main/multi_phones-min1.gif)
+---
+
+## 🎬 效果演示
+
+> 以下为余票监控与抢票工具的实际运行效果截图。
+
+| 演出 | 效果 |
+|---|---|
+| **大麦 · 邓紫棋演唱会**（2025-08-20） | <img src="https://www.daydayup365.top/github/damaidengziqi-0320-min.jpg" width="300" alt="大麦邓紫棋演唱会抢票效果" /> |
+| **大麦 · 张杰演唱会**（2025-08-20） | <img src="https://www.daydayup365.top/github/damai-qiangpiao-0320-min.png" width="300" alt="大麦张杰演唱会抢票效果" /> |
+| **林俊杰演唱会**（2025-08-20） | <img src="https://www.daydayup365.top/github/JJlinjunjie1-min.jpg" width="300" alt="JJ林俊杰演唱会门票抢票" /> |
+| **秀动 · 许嵩演唱会**（2025-08-20） | <img src="https://www.daydayup365.top/github/xiudong-xusong1-min.jpg" width="300" alt="秀动许嵩演唱会抢票" /> |
+
+### 📡 余票监控效果
+
+| 场景 | 效果 |
+|---|---|
+| **邓紫棋演唱会**余票监控（2025-08） | <img src="https://www.daydayup365.top/github/dzq-yupiao-min.jpg" width="300" alt="邓紫棋演唱会余票监控告警" /> |
+| **郎朗演奏会**余票监控 | <img src="https://www.daydayup365.top/github/yupiao-min.jpg" width="300" alt="郎朗演出余票监控效果" /> |
+| **林俊杰 JJ20** 杭州/成都站 余票监控告警 | <img src="https://www.daydayup365.top/github/jj20-min.jpg" width="300" alt="林俊杰JJ20演唱会余票监控告警" /> |
+| **周杰伦 Jay Chou** 演唱会 余票监控告警 | <img src="https://www.daydayup365.top/github/damai-zhoujielun1-min.png" width="300" alt="周杰伦演唱会大麦余票监控告警" /> |
 
 ---
 
 ## 🔐 大麦风控滑块及弹窗
 
-大麦抢票过程中，可能出现的各种风控情况：滑块验证、弹窗拦截、风控级别判定。
+大麦抢票过程中，可能出现的各种风控情况：滑块验证、弹窗拦截、风控级别判定。局部 code，不解释。
 
-![风控代码1](http://www.daydayup365.top/github/tech-code1-bbox-min.png)
-![风控代码2](http://www.daydayup365.top/github/tech-code2-min.png)
+<img src="https://www.daydayup365.top/github/tech-code1-bbox-min.png" width="500" alt="大麦风控bbox滑块处理代码" />
+
+<img src="https://www.daydayup365.top/github/tech-code2-min.png" width="500" alt="大麦风控处理代码片段" />
 
 ---
 
@@ -177,6 +260,8 @@ damai/
 > **口号：做最活跃的抢票社区。**  
 > 运营不易，请大家珍惜社群 🙏  
 > 感谢 [daydayup365.top](http://www.daydayup365.top) 公益社区提供国内直连入口。
+
+<img src="https://www.daydayup365.top/github/yunyingbuyi.jpg" width="500" alt="社区运营不易-请珍惜社群" />
 
 ---
 
