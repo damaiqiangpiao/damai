@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-07
+> 最后更新：2026-08-08
 
 ---
+
+## 2026-08-08
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [okhsunrog/vpnhide](https://github.com/okhsunrog/vpnhide) | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) | ⭐502 |
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐315 |
+| [Xposed-Modules-Repo/com.wowsoftware.hidemyandroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid) | Android anti-detect module with profile isolation and spoofing | ⭐78 |
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
+| [mhmdsatria/phantom-frida](https://github.com/mhmdsatria/phantom-frida) | Build a stealthy Frida server from source, applying robust patches to evade detection and enhance se | ⭐1 |
+### 📰 行业动态
+
+- jadx 1.5 发布，反编译速度提升40%
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- r0env 逆向环境更新至 v3.0，预装更多工具
+### 💡 今日 Tips
+
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-08-07
 
