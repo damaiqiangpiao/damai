@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-08
+> 最后更新：2026-08-09
 
 ---
+
+## 2026-08-09
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [beymans-code/pixel-taskbar-enabler](https://github.com/beymans-code/pixel-taskbar-enabler) | An Xposed/LSPosed/Vector module that enables the tablet-style taskbar on Pixel phones running the na | ⭐2 |
+| [irvinprecocious663/com.wowsoftware.hidemyandroid](https://github.com/irvinprecocious663/com.wowsoftware.hidemyandroid) | Protect your privacy by masking device identifiers and environment data on rooted Android devices us | ⭐1 |
+| [lee-muriithi-kingori/Rox2](https://github.com/lee-muriithi-kingori/Rox2) | Root hider for Magisk/KernelSU/APatch. Default-deny allowlist, Zygisk native layer. No fake attestat | ⭐1 |
+### 📰 行业动态
+
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+### 💡 今日 Tips
+
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-08-08
 
