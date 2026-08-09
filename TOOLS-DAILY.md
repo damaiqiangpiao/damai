@@ -11,15 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [HMQYHM/HyperOSKeyboardFix](https://github.com/HMQYHM/HyperOSKeyboardFix) | 让 HyperOS 3 白名单应用完整接收实体键盘快捷键，支持自动切换输入法与键盘宏。An LSPosed module for physical keyboard shortcuts, automa | ⭐3 |
+| [beymans-code/pixel-taskbar-enabler](https://github.com/beymans-code/pixel-taskbar-enabler) | An Xposed/LSPosed/Vector module that enables the tablet-style taskbar on Pixel phones running the na | ⭐2 |
+| [irvinprecocious663/com.wowsoftware.hidemyandroid](https://github.com/irvinprecocious663/com.wowsoftware.hidemyandroid) | Protect your privacy by masking device identifiers and environment data on rooted Android devices us | ⭐1 |
+| [lee-muriithi-kingori/Rox2](https://github.com/lee-muriithi-kingori/Rox2) | Root hider for Magisk/KernelSU/APatch. Default-deny allowlist, Zygisk native layer. No fake attestat | ⭐1 |
 ### 📰 行业动态
 
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-08-08
 
