@@ -11,17 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [beymans-code/pixel-taskbar-enabler](https://github.com/beymans-code/pixel-taskbar-enabler) | An Xposed/LSPosed/Vector module that enables the tablet-style taskbar on Pixel phones running the na | ⭐2 |
-| [irvinprecocious663/com.wowsoftware.hidemyandroid](https://github.com/irvinprecocious663/com.wowsoftware.hidemyandroid) | Protect your privacy by masking device identifiers and environment data on rooted Android devices us | ⭐1 |
-| [lee-muriithi-kingori/Rox2](https://github.com/lee-muriithi-kingori/Rox2) | Root hider for Magisk/KernelSU/APatch. Default-deny allowlist, Zygisk native layer. No fake attestat | ⭐1 |
+| [HMQYHM/HyperOSKeyboardFix](https://github.com/HMQYHM/HyperOSKeyboardFix) | 让 HyperOS 3 白名单应用完整接收实体键盘快捷键，支持自动切换输入法与键盘宏。An LSPosed module for physical keyboard shortcuts, automa | ⭐3 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-08-08
 
