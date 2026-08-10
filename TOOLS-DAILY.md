@@ -11,16 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐316 |
-| [rube200/RandomBootanimationModule](https://github.com/rube200/RandomBootanimationModule) | Random boot animation on each reboot for KernelSU Next. WebUI + bundled defaults. | ⭐1 |
+| [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) | Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides | ⭐4295 |
+| [lllucccian/Deekseep](https://github.com/lllucccian/Deekseep) | Deekseep LSPosed: multi-API Xposed module for DeepSeek Android; Mainland 2.2.2/2.3.0 and Google Play | ⭐74 |
+| [shengqiangdd/ModuForge](https://github.com/shengqiangdd/ModuForge) | AI-powered Android Magisk/KernelSU/APatch module development platform | ⭐1 |
 ### 📰 行业动态
 
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- jadx 1.5 发布，反编译速度提升40%
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-08-09
 
