@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-10
+> 最后更新：2026-08-11
 
 ---
+
+## 2026-08-11
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [TakotsuboChen/ala-mobile-tool](https://github.com/TakotsuboChen/ala-mobile-tool) | LSPosed module for Ala Mobile | ⭐2 |
+| [NothingFumo/TapAchieveUnlocker](https://github.com/NothingFumo/TapAchieveUnlocker) | Android Xposed/LSPosed module to unlock all TapTap SDK achievements in Unity games via runtime hooki | ⭐1 |
+### 📰 行业动态
+
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+### 💡 今日 Tips
+
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-08-10
 
