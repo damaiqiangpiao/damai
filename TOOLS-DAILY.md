@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-09
+> 最后更新：2026-08-10
 
 ---
+
+## 2026-08-10
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐316 |
+| [rube200/RandomBootanimationModule](https://github.com/rube200/RandomBootanimationModule) | Random boot animation on each reboot for KernelSU Next. WebUI + bundled defaults. | ⭐1 |
+### 📰 行业动态
+
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+### 💡 今日 Tips
+
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-08-09
 
