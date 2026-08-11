@@ -11,15 +11,14 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [TakotsuboChen/ala-mobile-tool](https://github.com/TakotsuboChen/ala-mobile-tool) | LSPosed module for Ala Mobile | ⭐2 |
+| [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch) | LSPosed module to get Samsung apps/features working again in your rooted Galaxy device. | ⭐1480 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-08-10
 
