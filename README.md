@@ -6,7 +6,7 @@
 [![QQ2群](https://img.shields.io/badge/QQ2%E7%BE%A4-727641501-orange?logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR)
 [![Stars](https://img.shields.io/github/stars/damaiqiangpiao/damai?style=social)](https://github.com/damaiqiangpiao/damai)
 
-[国内直连入口](http://www.daydayup365.top/github/damai.html) · [入群须知](http://www.daydayup365.top/github/ruqunxuzhi.html) · [FAQ常见问题](./FAQ.md) · [CSDN博客](https://blog.csdn.net/damaiqiangpiao)
+[国内直连入口](https://damai.daydayup365.top/) · [入群须知](http://www.daydayup365.top/github/ruqunxuzhi.html) · [FAQ常见问题](./FAQ.md) · [CSDN博客](https://blog.csdn.net/damaiqiangpiao)
 
 ---
 
