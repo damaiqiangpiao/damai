@@ -7,20 +7,13 @@
 
 ## 2026-08-11
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [TakotsuboChen/ala-mobile-tool](https://github.com/TakotsuboChen/ala-mobile-tool) | LSPosed module for Ala Mobile | ⭐2 |
-| [NothingFumo/TapAchieveUnlocker](https://github.com/NothingFumo/TapAchieveUnlocker) | Android Xposed/LSPosed module to unlock all TapTap SDK achievements in Unity games via runtime hooki | ⭐1 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Wireshark 4.4 新增 QUIC 协议深度解析
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-08-10
 
