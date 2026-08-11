@@ -28,7 +28,7 @@
 
 | 支付宝 | 微信 | QQ |
 |---|---|---|
-| <img src="https://www.daydayup365.top/github/alipay1-min.jpg" width="180" alt="支付宝捐助入群" /> | <img src="https://www.daydayup365.top/github/pay-wx1-min2.jpg" width="180" alt="微信捐助入群" /> | <img src="https://www.daydayup365.top/github/qq-pay-min.jpg" width="180" alt="QQ捐助入群" /> |
+| <img src="https://www.daydayup365.top/github/zfb12.jpg" width="180" alt="支付宝捐助入群" /> | <img src="https://www.daydayup365.top/github/wx12.png" width="180" alt="微信捐助入群" /> | <img src="https://www.daydayup365.top/github/qq-pay-min.jpg" width="180" alt="QQ捐助入群" /> |
 
 > 💗 爱心捐助 C 通道：￥99.99 以上（备注：爱心捐助，社区长青）
 
