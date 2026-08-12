@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) | Xposed module to remove sponsored listings and ads from the Google Play Store | ⭐57 |
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
-| [Jon2G/AA_keyboard_unlock](https://github.com/Jon2G/AA_keyboard_unlock) | LSPosed module that unlocks the Android Auto on-screen keyboard while driving by spoofing stopped/pa | ⭐12 |
+| [AraafRoyall/Telegram-Speed-Hook](https://github.com/AraafRoyall/Telegram-Speed-Hook) | Xposed Module which Increase Telegram Download Speed to Extreme | ⭐157 |
+| [TakotsuboChen/ala-mobile-tool](https://github.com/TakotsuboChen/ala-mobile-tool) | LSPosed module for Ala Mobile | ⭐2 |
 ### 📰 行业动态
 
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> Android 15 对无障碍服务限制更严，自动点击方案需适配
 
 ## 2026-08-11
 
