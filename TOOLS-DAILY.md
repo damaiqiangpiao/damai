@@ -11,16 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [AraafRoyall/Telegram-Speed-Hook](https://github.com/AraafRoyall/Telegram-Speed-Hook) | Xposed Module which Increase Telegram Download Speed to Extreme | ⭐157 |
-| [TakotsuboChen/ala-mobile-tool](https://github.com/TakotsuboChen/ala-mobile-tool) | LSPosed module for Ala Mobile | ⭐2 |
+| [h3nnes/nsg-tweaks](https://github.com/h3nnes/nsg-tweaks) | Enhancing Network Signal Guru field testing Android app with an LSPosed module | ⭐11 |
+| [HMQYHM/HyperOSKeyboardFix](https://github.com/HMQYHM/HyperOSKeyboardFix) | 澎湃OS实体键盘快捷键接管与混合宏工具 · An LSPosed module for physical keyboard shortcuts and mixed keyboard/mouse mac | ⭐5 |
+| [MudArAa/SmartGovControl](https://github.com/MudArAa/SmartGovControl) | Smart CPU Governor module for KernelSU / APatch | ⭐1 |
 ### 📰 行业动态
 
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-08-11
 
