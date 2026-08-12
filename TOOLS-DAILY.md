@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-11
+> 最后更新：2026-08-12
 
 ---
+
+## 2026-08-12
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) | Xposed module to remove sponsored listings and ads from the Google Play Store | ⭐57 |
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
+| [Jon2G/AA_keyboard_unlock](https://github.com/Jon2G/AA_keyboard_unlock) | LSPosed module that unlocks the Android Auto on-screen keyboard while driving by spoofing stopped/pa | ⭐12 |
+### 📰 行业动态
+
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+### 💡 今日 Tips
+
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-08-11
 
