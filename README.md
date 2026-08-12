@@ -6,7 +6,7 @@
 [![QQ2群](https://img.shields.io/badge/QQ2%E7%BE%A4-727641501-orange?logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?k=v7MLNsD5sV2t1kSdydGeHzw5G_-xunmv&jump_from=webapi&authKey=t+ve0T3qbRG3lxyJXcCLSi/ulyop8gxGBsFDlZiPVoefjhcIG83BV3xJdXWP/WYR)
 [![Stars](https://img.shields.io/github/stars/damaiqiangpiao/damai?style=social)](https://github.com/damaiqiangpiao/damai)
 
-[国内直连入口](https://damai.daydayup365.top/) · [入群须知](http://www.daydayup365.top/github/ruqunxuzhi.html) · [FAQ常见问题](./FAQ.md) · [CSDN博客](https://blog.csdn.net/damaiqiangpiao)
+[国内直连入口](https://damai.daydayup365.top/) · [入群须知](http://www.daydayup365.top/github/ruqunxuzhi.html) · [FAQ常见问题](./FAQ.md) · [📡 演出监控](https://ticket.daydayup365.top/h5/index.html) · [CSDN博客](https://blog.csdn.net/damaiqiangpiao)
 
 ---
 
@@ -116,6 +116,7 @@
 | [📱 ADB 工具](./adb相关/) | ADB 驱动、常用命令 | 安卓调试 |
 | [🧰 工具合集](./工具与常用网址集.md) | Android 逆向工具链汇总 | 所有开发者 |
 | [🛠 行业工具动态](./TOOLS-DAILY.md) | 抢票/逆向相关新工具和行业动态（不定时更新） | 关注行业 |
+| [📡 演出监控提醒](https://ticket.daydayup365.top/h5/index.html) | 大麦/猫眼/票星球/纷玩岛多平台开票日历，开抢前自动提醒，回流票实时追踪 | 抢票实战 |
 | [📅 演出日历](./HOT-2026-08.md) | 当月热门演唱会抢票日历 | 抢票实战 |
 | [❓ 常见问题](./FAQ.md) | 抢票 FAQ：回流票/风控/平台对比/入群 | 新手必读 |
 | [🎵 群主的歌单](./群主的歌单.md) | 群主推荐歌单 | 摸鱼听歌 |
@@ -176,6 +177,17 @@
 
 > 📅 **[2026年8月热门演出抢票日历 →](./HOT-2026-08.md)**  
 > 🔥 周杰伦深圳站(8.15) · 张学友广州(8.22) · 林俊杰鸟巢终场(8.23) · 陈奕迅上海(8.09) · 时代少年团南京(8.29)
+
+### 📡 演出开票监控 · 抢票提醒
+
+> 不想手动蹲点刷票、错过秒罄的门票？用 **[演出监控工具 →](https://ticket.daydayup365.top/h5/index.html)** 自动监控全网开票时间：
+
+- 🗓 **多平台开票日历**：大麦 / 猫眼 / 票星球 / 纷玩岛 等平台演出开票时间一目了然
+- 🔔 **开抢前智能提醒**：自定义提前 5 分钟等提醒时机，开抢前主动通知，不再错过
+- 📊 **实时余票 / 回流监控**：开票后余票与回流票动态实时追踪
+- 👤 **我的提醒统一管理**：手机端随时查看已添加的提醒，免费使用
+
+👉 **[立即使用演出监控工具（免费）](https://ticket.daydayup365.top/h5/index.html)**
 
 ---
 
