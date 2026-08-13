@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-12
+> 最后更新：2026-08-13
 
 ---
+
+## 2026-08-13
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐318 |
+| [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) | LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google | ⭐65 |
+| [Bouteillepleine/DuckUSB](https://github.com/Bouteillepleine/DuckUSB) | LSPosed module: makes scoped apps read USB debugging / wireless debugging / Developer Options as OFF | ⭐22 |
+| [hhhbwc/pico4-power-mode](https://github.com/hhhbwc/pico4-power-mode) | LSPosed module that unlocks the hidden "High Performance" power mode in PICO 4 settings. | ⭐1 |
+### 📰 行业动态
+
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+### 💡 今日 Tips
+
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-08-12
 
