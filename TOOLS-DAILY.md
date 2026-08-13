@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [AlirezaParsi/COPG](https://github.com/AlirezaParsi/COPG) | Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models | ⭐364 |
+| [Stashboy/CMReborn](https://github.com/Stashboy/CMReborn) | CM Reborn LSPosed module for Google Messages private archive workflow | ⭐3 |
+| [TakotsuboChen/ala-mobile-tool](https://github.com/TakotsuboChen/ala-mobile-tool) | LSPosed module for Ala Mobile | ⭐2 |
 ### 📰 行业动态
 
-- jadx 1.5 发布，反编译速度提升40%
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-08-12
 
