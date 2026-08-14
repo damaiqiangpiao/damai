@@ -7,14 +7,19 @@
 
 ## 2026-08-14
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [hxreborn/punch-hole-download-progress](https://github.com/hxreborn/punch-hole-download-progress) | Xposed module that shows download progress as a ring around the camera cutout. | ⭐225 |
 ### 📰 行业动态
 
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-08-13
 
