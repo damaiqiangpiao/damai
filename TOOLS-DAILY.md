@@ -7,19 +7,14 @@
 
 ## 2026-08-14
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
 ### 📰 行业动态
 
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- 票星球上线预约抢票机制，提前锁定抢票资格
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-08-13
 
