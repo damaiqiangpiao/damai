@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-13
+> 最后更新：2026-08-14
 
 ---
+
+## 2026-08-14
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
+### 📰 行业动态
+
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-08-13
 
