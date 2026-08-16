@@ -11,16 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
-| [Jon2G/AA_keyboard_unlock](https://github.com/Jon2G/AA_keyboard_unlock) | LSPosed module that unlocks the Android Auto on-screen keyboard while driving by spoofing stopped/pa | ⭐14 |
+| [hxreborn/playstore-adblock](https://github.com/hxreborn/playstore-adblock) | LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google | ⭐70 |
 ### 📰 行业动态
 
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-08-14
 
