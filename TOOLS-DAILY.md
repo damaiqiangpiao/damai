@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-14
+> 最后更新：2026-08-16
 
 ---
+
+## 2026-08-16
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
+| [Jon2G/AA_keyboard_unlock](https://github.com/Jon2G/AA_keyboard_unlock) | LSPosed module that unlocks the Android Auto on-screen keyboard while driving by spoofing stopped/pa | ⭐14 |
+### 📰 行业动态
+
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+### 💡 今日 Tips
+
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-08-14
 
