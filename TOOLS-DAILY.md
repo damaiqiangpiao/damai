@@ -11,18 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
-| [Bouteillepleine/DuckUSB](https://github.com/Bouteillepleine/DuckUSB) | LSPosed module: makes scoped apps read USB debugging / wireless debugging / Developer Options as OFF | ⭐26 |
-| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
-| [zelect0r/zamr](https://github.com/zelect0r/zamr) | Android root modules for Magisk, KernelSU, APatch and MMRL | ⭐1 |
+| [reversenseorg/dexcalibur](https://github.com/reversenseorg/dexcalibur) | Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary  | ⭐1168 |
+| [CommandPrompt-Wang/BetterZUIKey](https://github.com/CommandPrompt-Wang/BetterZUIKey) | An LSPosed module for overriding keyboard shortcuts on Lenovo ZUXOS devices / 面向联想 ZUXOS 设备的 LSPosed | ⭐4 |
 ### 📰 行业动态
 
+- Frida 16.5 发布，Gadget 模式稳定性提升
 - 纷玩岛App新增回流票监控功能，余票提醒更及时
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- Wireshark 4.4 新增 QUIC 协议深度解析
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-08-16
 
