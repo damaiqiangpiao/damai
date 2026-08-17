@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-16
+> 最后更新：2026-08-17
 
 ---
+
+## 2026-08-17
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐33 |
+| [Bouteillepleine/DuckUSB](https://github.com/Bouteillepleine/DuckUSB) | LSPosed module: makes scoped apps read USB debugging / wireless debugging / Developer Options as OFF | ⭐26 |
+| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
+| [zelect0r/zamr](https://github.com/zelect0r/zamr) | Android root modules for Magisk, KernelSU, APatch and MMRL | ⭐1 |
+### 📰 行业动态
+
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Wireshark 4.4 新增 QUIC 协议深度解析
+### 💡 今日 Tips
+
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-08-16
 
