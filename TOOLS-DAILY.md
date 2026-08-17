@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [reversenseorg/dexcalibur](https://github.com/reversenseorg/dexcalibur) | Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary  | ⭐1168 |
-| [CommandPrompt-Wang/BetterZUIKey](https://github.com/CommandPrompt-Wang/BetterZUIKey) | An LSPosed module for overriding keyboard shortcuts on Lenovo ZUXOS devices / 面向联想 ZUXOS 设备的 LSPosed | ⭐4 |
+| [LyonHyrik/RhythmicTouch](https://github.com/LyonHyrik/RhythmicTouch) | RhythmicTouch 是一款 LSPosed 模块，可在音乐播放时提供触觉震动反馈。RhythmicTouch is an LSPosed module that provides haptic | ⭐3 |
+| [zelect0r/zamr](https://github.com/zelect0r/zamr) | Android root modules for Magisk, KernelSU, APatch and MMRL | ⭐1 |
 ### 📰 行业动态
 
 - Frida 16.5 发布，Gadget 模式稳定性提升
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-08-16
 
