@@ -11,16 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐34 |
-| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
+| [reversenseorg/dexcalibur](https://github.com/reversenseorg/dexcalibur) | Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary  | ⭐1168 |
+| [AlirezaParsi/COPG](https://github.com/AlirezaParsi/COPG) | Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models | ⭐373 |
+| [fvffv/samsung-feature-extension](https://github.com/fvffv/samsung-feature-extension) | LSPosed module that extends Samsung features, including My Files WebDAV, Expert RAW, NFC options, Bi | ⭐18 |
+| [NoobDigital/react-native-shieldscan](https://github.com/NoobDigital/react-native-shieldscan) | Instant device integrity + screen protection for React Native. Detect root/jailbreak, Frida, debugge | ⭐7 |
+| [ShaggyLorean/x-attestation-fix](https://github.com/ShaggyLorean/x-attestation-fix) | LSPosed module: fixes X (Twitter) Android attestation on devices with broken TEE Remote Key Provisio | ⭐6 |
 ### 📰 行业动态
 
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-08-17
 
