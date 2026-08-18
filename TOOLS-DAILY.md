@@ -11,19 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [reversenseorg/dexcalibur](https://github.com/reversenseorg/dexcalibur) | Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary  | ⭐1168 |
-| [Ai686Leo/aria2-for-module](https://github.com/Ai686Leo/aria2-for-module) | 用root模块管理器（Magisk/KernelSU/APatch）运行aria2和ariang。             Running aria2 and ariang with root mod | ⭐19 |
-| [samson910022/pixelify-google-photos-modern](https://github.com/samson910022/pixelify-google-photos-modern) | Pixelify Photos — Xposed module to enable Pixel-exclusive features in Google Photos (libxposed Moder | ⭐14 |
-| [NoobDigital/react-native-shieldscan](https://github.com/NoobDigital/react-native-shieldscan) | Instant device integrity + screen protection for React Native. Detect root/jailbreak, Frida, debugge | ⭐7 |
-| [Xposed-Modules-Repo/com.lyon.rhythmictouch](https://github.com/Xposed-Modules-Repo/com.lyon.rhythmictouch) | RhythmicTouch 是一款 LSPosed 模块，可在音乐播放时提供触觉震动反馈。RhythmicTouch is an LSPosed module that provides haptic | ⭐1 |
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐34 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Wireshark 4.4 新增 QUIC 协议深度解析
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-08-17
 
