@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐34 |
-| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
-| [ahe-meow/lspilot-enhancer-public](https://github.com/ahe-meow/lspilot-enhancer-public) | LSPosed module for enhancing Pilot app behavior | ⭐1 |
+| [SoClear/OneUIX](https://github.com/SoClear/OneUIX) | Samsung One UI LSPosed Module | ⭐172 |
+| [Xposed-Modules-Repo/com.lyon.rhythmictouch](https://github.com/Xposed-Modules-Repo/com.lyon.rhythmictouch) | RhythmicTouch 是一款 LSPosed 模块，可在音乐播放时提供触觉震动反馈。RhythmicTouch is an LSPosed module that provides haptic | ⭐1 |
 ### 📰 行业动态
 
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-08-18
 
