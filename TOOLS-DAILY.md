@@ -7,14 +7,21 @@
 
 ## 2026-08-19
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐34 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
+| [ahe-meow/lspilot-enhancer-public](https://github.com/ahe-meow/lspilot-enhancer-public) | LSPosed module for enhancing Pilot app behavior | ⭐1 |
 ### 📰 行业动态
 
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 - Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Frida 16.5 发布，Gadget 模式稳定性提升
 - 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-08-18
 
