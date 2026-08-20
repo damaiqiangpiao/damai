@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐325 |
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐34 |
+| [zilewang7/HyperOS4SmallWindowInputFilter](https://github.com/zilewang7/HyperOS4SmallWindowInputFilter) | LSPosed module that restores the old HyperOS two-finger small-window gesture on HyperOS 4 / Android  | ⭐1 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-08-19
 
