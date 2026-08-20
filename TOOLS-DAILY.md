@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [zilewang7/HyperOS4SmallWindowInputFilter](https://github.com/zilewang7/HyperOS4SmallWindowInputFilter) | LSPosed module that restores the old HyperOS two-finger small-window gesture on HyperOS 4 / Android  | ⭐1 |
-| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
+| [0xdad0/ssl-kill-switch-lsposed](https://github.com/0xdad0/ssl-kill-switch-lsposed) | LSPosed module for disabling SSL certificate pinning on Android. Covers Java-layer pinning (OkHttp,  | ⭐21 |
+| [cpholguera/frooky](https://github.com/cpholguera/frooky) | Frida-powered hook runner based on JSON hook files. | ⭐18 |
 ### 📰 行业动态
 
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-08-19
 
