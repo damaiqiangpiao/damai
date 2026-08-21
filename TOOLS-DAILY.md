@@ -11,17 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐34 |
-| [niwenshuai/BackgroundKillGuard](https://github.com/niwenshuai/BackgroundKillGuard) | Android 16 Oplus LSPosed module for vendor background-kill control and LMKD soft priority | ⭐2 |
-| [zilewang7/HyperOS4SmallWindowInputFilter](https://github.com/zilewang7/HyperOS4SmallWindowInputFilter) | LSPosed module that restores the old HyperOS two-finger small-window gesture on HyperOS 4 / Android  | ⭐2 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- r0env 逆向环境更新至 v3.0，预装更多工具
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> Android 15 对无障碍服务限制更严，自动点击方案需适配
 
 ## 2026-08-20
 
