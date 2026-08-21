@@ -11,15 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐34 |
+| [samson910022/pixelify-google-photos-modern](https://github.com/samson910022/pixelify-google-photos-modern) | Pixelify Photos — Xposed module to enable Pixel-exclusive features in Google Photos (libxposed Moder | ⭐20 |
+| [amarinne/zalo-patch](https://github.com/amarinne/zalo-patch) | Zalo customization module for LSPosed. | ⭐3 |
 ### 📰 行业动态
 
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 - Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-08-20
 
