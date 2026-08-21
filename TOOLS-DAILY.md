@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-20
+> 最后更新：2026-08-21
 
 ---
+
+## 2026-08-21
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [SSMG4/SSR](https://github.com/SSMG4/SSR) | SSR is my own custom Magisk Modules Repository! Submissions are greatly appreciated :D | ⭐34 |
+| [niwenshuai/BackgroundKillGuard](https://github.com/niwenshuai/BackgroundKillGuard) | Android 16 Oplus LSPosed module for vendor background-kill control and LMKD soft priority | ⭐2 |
+| [zilewang7/HyperOS4SmallWindowInputFilter](https://github.com/zilewang7/HyperOS4SmallWindowInputFilter) | LSPosed module that restores the old HyperOS two-finger small-window gesture on HyperOS 4 / Android  | ⭐2 |
+### 📰 行业动态
+
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+### 💡 今日 Tips
+
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-08-20
 
