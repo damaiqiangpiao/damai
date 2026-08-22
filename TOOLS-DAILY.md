@@ -11,17 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Alaa91H/Morphe-LSPosed](https://github.com/Alaa91H/Morphe-LSPosed) | ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed) | ⭐2 |
-| [Vickylines/Pixel2DFaceUnlock](https://github.com/Vickylines/Pixel2DFaceUnlock) | LSPosed 2D face unlock module for Google Pixel / AOSP Android 10-16 (Simplified Chinese) | ⭐2 |
-| [micspn20/Akamai-BMP-RSA-AES-](https://github.com/micspn20/Akamai-BMP-RSA-AES-) | Frida script that monitors the libakamaibmp.so Android library. It waits for the library to load, lo | ⭐1 |
+| [2b-zipper/Knot](https://github.com/2b-zipper/Knot) | Knot - Xposed module for LINE | ⭐113 |
+| [Xposed-Modules-Repo/com.tianqianguai.reweibo](https://github.com/Xposed-Modules-Repo/com.tianqianguai.reweibo) | 微博轻享版禁止自动刷新、浏览位置记忆、新启动后自动加载至上次浏览位置、去广告、反向时间线、阅读位置恢复 / Weibo Lite LSPosed/Xposed module for ad remova | ⭐12 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 - LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 ### 💡 今日 Tips
 
-> 同一设备频繁切换账号会触发风控，建议一机一号
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-08-21
 
