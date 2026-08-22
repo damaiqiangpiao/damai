@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-21
+> 最后更新：2026-08-22
 
 ---
+
+## 2026-08-22
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Alaa91H/Morphe-LSPosed](https://github.com/Alaa91H/Morphe-LSPosed) | ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed) | ⭐2 |
+| [Vickylines/Pixel2DFaceUnlock](https://github.com/Vickylines/Pixel2DFaceUnlock) | LSPosed 2D face unlock module for Google Pixel / AOSP Android 10-16 (Simplified Chinese) | ⭐2 |
+| [micspn20/Akamai-BMP-RSA-AES-](https://github.com/micspn20/Akamai-BMP-RSA-AES-) | Frida script that monitors the libakamaibmp.so Android library. It waits for the library to load, lo | ⭐1 |
+### 📰 行业动态
+
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+### 💡 今日 Tips
+
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-08-21
 
