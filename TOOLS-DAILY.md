@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [2b-zipper/Knot](https://github.com/2b-zipper/Knot) | Knot - Xposed module for LINE | ⭐113 |
-| [Xposed-Modules-Repo/com.tianqianguai.reweibo](https://github.com/Xposed-Modules-Repo/com.tianqianguai.reweibo) | 微博轻享版禁止自动刷新、浏览位置记忆、新启动后自动加载至上次浏览位置、去广告、反向时间线、阅读位置恢复 / Weibo Lite LSPosed/Xposed module for ad remova | ⭐12 |
-| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
+| [krishna3163/best-root-apps-for-android](https://github.com/krishna3163/best-root-apps-for-android) | Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system tools, privacy uti | ⭐2 |
+| [micspn20/Akamai-BMP-RSA-AES-](https://github.com/micspn20/Akamai-BMP-RSA-AES-) | Frida script that monitors the libakamaibmp.so Android library. It waits for the library to load, lo | ⭐1 |
 ### 📰 行业动态
 
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 - Charles 5.0 发布，新增 HTTP/3 抓包支持
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-08-21
 
