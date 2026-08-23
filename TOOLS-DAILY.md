@@ -11,15 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [amarinne/spicy-ex](https://github.com/amarinne/spicy-ex) | Spicy EX — native lyrics for Spotify (LSPosed / LSPatch module) | ⭐19 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- jadx 1.5 发布，反编译速度提升40%
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-08-22
 
