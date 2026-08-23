@@ -11,15 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
+| [741afb7/KPatch-Next-Module-EXP](https://github.com/741afb7/KPatch-Next-Module-EXP) | An experimental unofficial fork of KPatch-Next-Module, Standalone implementation of KPM support for  | ⭐17 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
 ### 💡 今日 Tips
 
-> 同一设备频繁切换账号会触发风控，建议一机一号
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-08-22
 
