@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-22
+> 最后更新：2026-08-23
 
 ---
+
+## 2026-08-23
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [amarinne/spicy-ex](https://github.com/amarinne/spicy-ex) | Spicy EX — native lyrics for Spotify (LSPosed / LSPatch module) | ⭐19 |
+### 📰 行业动态
+
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- jadx 1.5 发布，反编译速度提升40%
+### 💡 今日 Tips
+
+> Android 15 对无障碍服务限制更严，自动点击方案需适配
 
 ## 2026-08-22
 
