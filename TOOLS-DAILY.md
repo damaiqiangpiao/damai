@@ -7,20 +7,14 @@
 
 ## 2026-08-24
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [ukriu/HyperUnlocked](https://github.com/ukriu/HyperUnlocked) | A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices. | ⭐223 |
-| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-08-23
 
