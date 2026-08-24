@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
-| [guocheng1378/MiclawApiBridge](https://github.com/guocheng1378/MiclawApiBridge) | Xposed module: expose Xiaomi Super AI (com.aios.osbot) as local OpenAI-compatible HTTP API | ⭐6 |
-| [guocheng1378/miclaw-api](https://github.com/guocheng1378/miclaw-api) | Miclaw → OpenAI-compatible HTTP API bridge (KSU module) | ⭐3 |
+| [ukriu/HyperUnlocked](https://github.com/ukriu/HyperUnlocked) | A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices. | ⭐223 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-08-23
 
