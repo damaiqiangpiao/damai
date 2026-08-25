@@ -11,17 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) | A module to easily execute AdGuardHome on Android | ⭐1366 |
-| [2b-zipper/Knot](https://github.com/2b-zipper/Knot) | Knot - Xposed module for LINE | ⭐114 |
-| [yakidango-official/GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT) | Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading | ⭐3 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- jadx 1.5 发布，反编译速度提升40%
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-08-24
 
