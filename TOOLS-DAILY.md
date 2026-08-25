@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-24
+> 最后更新：2026-08-25
 
 ---
+
+## 2026-08-25
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) | A module to easily execute AdGuardHome on Android | ⭐1366 |
+| [2b-zipper/Knot](https://github.com/2b-zipper/Knot) | Knot - Xposed module for LINE | ⭐114 |
+| [yakidango-official/GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT) | Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading | ⭐3 |
+### 📰 行业动态
+
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+### 💡 今日 Tips
+
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-08-24
 
