@@ -11,15 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [nighthawkk/AudioServer-Voip-Recorder](https://github.com/nighthawkk/AudioServer-Voip-Recorder) | 🔬 An advanced Android research tool for real-time VoIP audio capture (Uplink/Downlink) by dynamicall | ⭐1 |
+| [zilewang7/HyperOS4SmallWindowInputFilter](https://github.com/zilewang7/HyperOS4SmallWindowInputFilter) | LSPosed module that restores the old HyperOS two-finger small-window gesture on HyperOS 4 / Android  | ⭐2 |
 ### 📰 行业动态
 
 - Frida 16.5 发布，Gadget 模式稳定性提升
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 - MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-08-25
 
