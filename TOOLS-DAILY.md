@@ -11,17 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐328 |
-| [gilbsgilbs/LocationIndicatorWhitelist](https://github.com/gilbsgilbs/LocationIndicatorWhitelist) | An XPosed / LSPosed module that prevents applications from spamming the annoying location notificati | ⭐52 |
-| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
+| [nighthawkk/AudioServer-Voip-Recorder](https://github.com/nighthawkk/AudioServer-Voip-Recorder) | 🔬 An advanced Android research tool for real-time VoIP audio capture (Uplink/Downlink) by dynamicall | ⭐1 |
 ### 📰 行业动态
 
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
 - MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- 票星球上线预约抢票机制，提前锁定抢票资格
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-08-25
 
