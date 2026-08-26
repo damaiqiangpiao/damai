@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-25
+> 最后更新：2026-08-26
 
 ---
+
+## 2026-08-26
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐328 |
+| [gilbsgilbs/LocationIndicatorWhitelist](https://github.com/gilbsgilbs/LocationIndicatorWhitelist) | An XPosed / LSPosed module that prevents applications from spamming the annoying location notificati | ⭐52 |
+| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
+### 📰 行业动态
+
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-08-25
 
