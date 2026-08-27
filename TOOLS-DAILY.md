@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-26
+> 最后更新：2026-08-27
 
 ---
+
+## 2026-08-27
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [hxreborn/cleanshare](https://github.com/hxreborn/cleanshare) | Xposed module that removes Direct Share's suggested contact/conversation shortcuts from Android's Sh | ⭐108 |
+| [yakidango-official/GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT) | Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading | ⭐3 |
+| [nighthawkk/AudioServer-Voip-Recorder](https://github.com/nighthawkk/AudioServer-Voip-Recorder) | 🔬 An advanced Android research tool for real-time VoIP audio capture (Uplink/Downlink) by dynamicall | ⭐2 |
+### 📰 行业动态
+
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+### 💡 今日 Tips
+
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-08-26
 
