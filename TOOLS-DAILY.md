@@ -7,14 +7,20 @@
 
 ## 2026-08-27
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [nighthawkk/AudioServer-Voip-Recorder](https://github.com/nighthawkk/AudioServer-Voip-Recorder) | 🔬 An advanced Android research tool for real-time VoIP audio capture (Uplink/Downlink) by dynamicall | ⭐2 |
+| [rushiranpise/xposed-modules](https://github.com/rushiranpise/xposed-modules) |  | ⭐1 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- r0env 逆向环境更新至 v3.0，预装更多工具
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 - 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Wireshark 4.4 新增 QUIC 协议深度解析
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-08-26
 
