@@ -7,14 +7,22 @@
 
 ## 2026-08-28
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) | A KernelSU module to debloat system apps with WebUI Interface | ⭐245 |
+| [yakidango-official/GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT) | Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading | ⭐3 |
+| [yakidango-official/hotreboot](https://github.com/yakidango-official/hotreboot) | KernelSU hot-reboot module: restart zygote and rebuild ZygiskNext/LSPosed injection | ⭐1 |
+| [serkenn/hide-virt-apex-su](https://github.com/serkenn/hide-virt-apex-su) | KernelSU/Magisk module: detaches the su-only tmpfs that temporary-root exploits stack over /apex/com | ⭐1 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> Android 15 对无障碍服务限制更严，自动点击方案需适配
 
 ## 2026-08-27
 
