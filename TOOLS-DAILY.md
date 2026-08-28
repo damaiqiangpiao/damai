@@ -11,18 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) | A KernelSU module to debloat system apps with WebUI Interface | ⭐245 |
-| [yakidango-official/GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT) | Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading | ⭐3 |
-| [yakidango-official/hotreboot](https://github.com/yakidango-official/hotreboot) | KernelSU hot-reboot module: restart zygote and rebuild ZygiskNext/LSPosed injection | ⭐1 |
-| [serkenn/hide-virt-apex-su](https://github.com/serkenn/hide-virt-apex-su) | KernelSU/Magisk module: detaches the su-only tmpfs that temporary-root exploits stack over /apex/com | ⭐1 |
+| [amarinne/spicy-ex](https://github.com/amarinne/spicy-ex) | Spicy EX — native lyrics for Spotify (LSPosed / LSPatch module) | ⭐22 |
+| [jettwado6-sketch/shizuku-modules](https://github.com/jettwado6-sketch/shizuku-modules) | Discover and track Android apps powered by Shizuku, updated daily from GitHub. | ⭐1 |
+| [mengwuzhuanshou/LineTamer](https://github.com/mengwuzhuanshou/LineTamer) | AI-generated LSPosed module for LINE 26.11.0 - hide ads/tabs/home feed, dark mask, trilingual UI | ⭐1 |
 ### 📰 行业动态
 
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- jadx 1.5 发布，反编译速度提升40%
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-08-27
 
