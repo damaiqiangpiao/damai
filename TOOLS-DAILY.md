@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-28
+> 最后更新：2026-08-29
 
 ---
+
+## 2026-08-29
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐34 |
+| [Xposed-Modules-Repo/com.tianqianguai.reweibo](https://github.com/Xposed-Modules-Repo/com.tianqianguai.reweibo) | 微博轻享版禁止自动刷新、浏览位置记忆、新启动后自动加载至上次浏览位置、去广告、反向时间线、阅读位置恢复 / Weibo Lite LSPosed/Xposed module for ad remova | ⭐14 |
+| [ringmembranouslabyrinth195/HyperChanger](https://github.com/ringmembranouslabyrinth195/HyperChanger) | Customize Xiaomi HyperOS 4 System UI, lock screen, and camera settings with this root-only LSPosed m | ⭐1 |
+| [Lumince/Quest-Settings-Patcher](https://github.com/Lumince/Quest-Settings-Patcher) | Lsposed/Vector module for patching Settings/VrShell/SystemUX | ⭐1 |
+| [serkenn/hide-virt-apex-su](https://github.com/serkenn/hide-virt-apex-su) | KernelSU/Magisk module: detaches the su-only tmpfs that temporary-root exploits stack over /apex/com | ⭐1 |
+### 📰 行业动态
+
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- r0env 逆向环境更新至 v3.0，预装更多工具
+### 💡 今日 Tips
+
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-08-28
 
