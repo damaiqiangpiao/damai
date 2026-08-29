@@ -7,14 +7,21 @@
 
 ## 2026-08-29
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [DuhMatt/Fxxk-MiBrowser](https://github.com/DuhMatt/Fxxk-MiBrowser) | 修复 HyperOS / MIUI 强制使用小米浏览器打开网页链接的问题，改为调用系统默认浏览器。LSPosed module to redirect forced Xiaomi Browser li | ⭐28 |
+| [ENDDREAM-ZM/Lowlife](https://github.com/ENDDREAM-ZM/Lowlife) | A KernelSU module designed for temporary root environment, providing basic environment hiding capabi | ⭐1 |
+| [serkenn/hide-virt-apex-su](https://github.com/serkenn/hide-virt-apex-su) | KernelSU/Magisk module: detaches the su-only tmpfs that temporary-root exploits stack over /apex/com | ⭐1 |
 ### 📰 行业动态
 
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-08-28
 
