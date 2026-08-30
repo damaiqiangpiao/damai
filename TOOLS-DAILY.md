@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [KernelSU-Next/KPatch-Next](https://github.com/KernelSU-Next/KPatch-Next) | Standalone implementation of KPM support for Magisk/KernelSU | ⭐157 |
+| [k19x/OmniHook](https://github.com/k19x/OmniHook) | O Gerenciador Fr1da (OmniHook) é uma interface gráfica para o Frida que permite instrumentação em di | ⭐3 |
+| [Vickylines/Pixel4xl-2DFaceUnlock](https://github.com/Vickylines/Pixel4xl-2DFaceUnlock) | LSPosed 2D face unlock module for Google Pixel4xl / AOSP Android 10-16 (Simplified Chinese) | ⭐2 |
 ### 📰 行业动态
 
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- jadx 1.5 发布，反编译速度提升40%
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-08-29
 
