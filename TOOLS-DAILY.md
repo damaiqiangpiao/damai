@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-29
+> 最后更新：2026-08-30
 
 ---
+
+## 2026-08-30
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | Automated builds of YouTube & YT Music (ReVanced Extended (anddea) & Morphe + Yandex VoT) for NonRoo | ⭐436 |
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐332 |
+| [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) | A KernelSU module to debloat system apps with WebUI Interface | ⭐248 |
+| [k19x/OmniHook](https://github.com/k19x/OmniHook) | O Gerenciador Fr1da (OmniHook) é uma interface gráfica para o Frida que permite instrumentação em di | ⭐3 |
+### 📰 行业动态
+
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+### 💡 今日 Tips
+
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-08-29
 
