@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-30
+> 最后更新：2026-08-31
 
 ---
+
+## 2026-08-31
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐333 |
+| [MentallyOverwhelmed/statnavshift-lsposed](https://github.com/MentallyOverwhelmed/statnavshift-lsposed) | LSPosed module for status bar and navigation bar burn in protection. Useful for OLED screens. | ⭐5 |
+| [ayane-04/wathemer](https://github.com/ayane-04/wathemer) | WhatsApp theming module for rooted android devices running LSPosed/Vector and Android 12 or above. | ⭐4 |
+### 📰 行业动态
+
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+### 💡 今日 Tips
+
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-08-30
 
