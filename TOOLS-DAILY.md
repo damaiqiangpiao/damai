@@ -11,16 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [2erTwo6/Dropbear-SSH-Android-Module](https://github.com/2erTwo6/Dropbear-SSH-Android-Module) | 在安卓系统上通过KernelSU / Magisk模块原生运行SSH服务端，支持SFTP。在HyperOS 3.0上测试通过；Native SSH/SFTP Server for Android vi | ⭐6 |
-| [pbzin/XiaomiMarketBypass](https://github.com/pbzin/XiaomiMarketBypass) | LSPosed module for running Xiaomi Market on AOSP/crDroid ROMs. | ⭐1 |
+| [CommandPrompt-Wang/BetterZUIKey](https://github.com/CommandPrompt-Wang/BetterZUIKey) | An LSPosed module for overriding keyboard shortcuts on Lenovo ZUXOS devices / 面向联想 ZUXOS 设备的 LSPosed | ⭐4 |
 ### 📰 行业动态
 
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-08-30
 
