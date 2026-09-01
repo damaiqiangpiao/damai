@@ -11,15 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [2erTwo6/Dropbear-SSH-Android-Module](https://github.com/2erTwo6/Dropbear-SSH-Android-Module) | 在安卓系统上通过KernelSU / Magisk模块原生运行SSH服务端，支持SFTP。在HyperOS 3.0上测试通过；Native SSH/SFTP Server for Android vi | ⭐6 |
+| [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | Automated builds of YouTube & YT Music (ReVanced Extended (anddea) & Morphe + Yandex VoT) for NonRoo | ⭐440 |
+| [2b-zipper/Knot](https://github.com/2b-zipper/Knot) | Knot - Xposed module for LINE | ⭐116 |
+| [mengwuzhuanshou/BiliTamer](https://github.com/mengwuzhuanshou/BiliTamer) | BiliTamer - AI-generated LSPosed enhancement module for the international Bilibili app (com.bilibili | ⭐5 |
 ### 📰 行业动态
 
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- jadx 1.5 发布，反编译速度提升40%
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-08-31
 
