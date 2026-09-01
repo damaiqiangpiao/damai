@@ -11,18 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | Automated builds of YouTube & YT Music (ReVanced Extended (anddea) & Morphe + Yandex VoT) for NonRoo | ⭐439 |
-| [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder) | An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly. | ⭐271 |
-| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐34 |
-| [ringmembranouslabyrinth195/HyperChanger](https://github.com/ringmembranouslabyrinth195/HyperChanger) | Customize Xiaomi HyperOS 4 System UI, lock screen, and camera settings with this root-only LSPosed m | ⭐1 |
+| [2erTwo6/Dropbear-SSH-Android-Module](https://github.com/2erTwo6/Dropbear-SSH-Android-Module) | 在安卓系统上通过KernelSU / Magisk模块原生运行SSH服务端，支持SFTP。在HyperOS 3.0上测试通过；Native SSH/SFTP Server for Android vi | ⭐6 |
 ### 📰 行业动态
 
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- jadx 1.5 发布，反编译速度提升40%
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-08-31
 
