@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-08-31
+> 最后更新：2026-09-01
 
 ---
+
+## 2026-09-01
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | Automated builds of YouTube & YT Music (ReVanced Extended (anddea) & Morphe + Yandex VoT) for NonRoo | ⭐439 |
+| [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder) | An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly. | ⭐271 |
+| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐34 |
+| [ringmembranouslabyrinth195/HyperChanger](https://github.com/ringmembranouslabyrinth195/HyperChanger) | Customize Xiaomi HyperOS 4 System UI, lock screen, and camera settings with this root-only LSPosed m | ⭐1 |
+### 📰 行业动态
+
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+### 💡 今日 Tips
+
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-08-31
 
