@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-01
+> 最后更新：2026-09-02
 
 ---
+
+## 2026-09-02
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
+| [Bouteillepleine/NoMount-Suite](https://github.com/Bouteillepleine/NoMount-Suite) | NoMount Suite — mountless module loading for Android on the Prism VFS engine. No overlayfs, no tmpfs | ⭐2 |
+### 📰 行业动态
+
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-09-01
 
