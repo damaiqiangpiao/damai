@@ -11,16 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
-| [Bouteillepleine/NoMount-Suite](https://github.com/Bouteillepleine/NoMount-Suite) | NoMount Suite — mountless module loading for Android on the Prism VFS engine. No overlayfs, no tmpfs | ⭐2 |
+| [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) | ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed) | ⭐2921 |
+| [hxreborn/cleanshare](https://github.com/hxreborn/cleanshare) | Xposed module that removes Direct Share's suggested contact/conversation shortcuts from Android's Sh | ⭐113 |
+| [ylw6669/ChroStar](https://github.com/ylw6669/ChroStar) | LSPosed module: Chrome launches straight to homepage, download enhancements (bypass warnings, auto-i | ⭐1 |
 ### 📰 行业动态
 
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- 票星球上线预约抢票机制，提前锁定抢票资格
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- jadx 1.5 发布，反编译速度提升40%
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-09-01
 
