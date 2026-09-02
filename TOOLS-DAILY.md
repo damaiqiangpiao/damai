@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) | ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed) | ⭐2921 |
-| [hxreborn/cleanshare](https://github.com/hxreborn/cleanshare) | Xposed module that removes Direct Share's suggested contact/conversation shortcuts from Android's Sh | ⭐113 |
-| [ylw6669/ChroStar](https://github.com/ylw6669/ChroStar) | LSPosed module: Chrome launches straight to homepage, download enhancements (bypass warnings, auto-i | ⭐1 |
+| [ys1231/MoveCertificate](https://github.com/ys1231/MoveCertificate) | 支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/ | ⭐1961 |
+| [hxreborn/biometric-bypass](https://github.com/hxreborn/biometric-bypass) | A simple Xposed module based on LSPosed's Modern Xposed API, that fast-forwards face unlock by skipp | ⭐139 |
 ### 📰 行业动态
 
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 - jadx 1.5 发布，反编译速度提升40%
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-09-01
 
