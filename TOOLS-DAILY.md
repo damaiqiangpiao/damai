@@ -11,19 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) | ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed) | ⭐2923 |
-| [ShivamXD6/Simple-Flag-Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) | ⚡Simple Flag Secure Magisk Module ⚡ to Disable Secure Flag and allow taking screenshots/screen recor | ⭐105 |
-| [ayane-04/wathemer](https://github.com/ayane-04/wathemer) | WhatsApp theming module for rooted android devices running LSPosed/Vector and Android 12 or above. | ⭐7 |
-| [Pranay7030/CYBERBORG-DROID-V4](https://github.com/Pranay7030/CYBERBORG-DROID-V4) | CYBERBORG-DROID-V4 [PHANTOM PROTOCOL] - Elite Android Offensive Framework | Core Module of CYBERBORG | ⭐1 |
-| [nauraafii/ytrvx-module](https://github.com/nauraafii/ytrvx-module) | Personal fork for automated Android patch builds and GitHub Releases. | ⭐1 |
+| [MoRanYue/NoDhcpHostname](https://github.com/MoRanYue/NoDhcpHostname) | An LSPosed module that prevents Android NetworkStack from sending the device hostname in DHCP reques | ⭐9 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Frida 16.5 发布，Gadget 模式稳定性提升
 - IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-09-02
 
