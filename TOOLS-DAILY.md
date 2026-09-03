@@ -11,18 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐338 |
-| [Xposed-Modules-Repo/com.tianqianguai.reweibo](https://github.com/Xposed-Modules-Repo/com.tianqianguai.reweibo) | 微博轻享版禁止自动刷新、浏览位置记忆、新启动后自动加载至上次浏览位置、去广告、反向时间线、阅读位置恢复 / Weibo Lite LSPosed/Xposed module for ad remova | ⭐14 |
-| [MoRanYue/NoDhcpHostname](https://github.com/MoRanYue/NoDhcpHostname) | An LSPosed module that prevents Android NetworkStack from sending the device hostname in DHCP reques | ⭐9 |
-| [O-kai/Xiaomi-HyperOs-pickup-code-grabber](https://github.com/O-kai/Xiaomi-HyperOs-pickup-code-grabber) | 这是一个小米HyperOS操作系统上抓取 ▷▶快递取件码◀◁ 并且放到 ▷▶待办事项◀◁ 里的的lsposed框架模块。This is an LSPosed framework module for  | ⭐1 |
+| [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) | ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed) | ⭐2923 |
+| [ShivamXD6/Simple-Flag-Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) | ⚡Simple Flag Secure Magisk Module ⚡ to Disable Secure Flag and allow taking screenshots/screen recor | ⭐105 |
+| [ayane-04/wathemer](https://github.com/ayane-04/wathemer) | WhatsApp theming module for rooted android devices running LSPosed/Vector and Android 12 or above. | ⭐7 |
+| [Pranay7030/CYBERBORG-DROID-V4](https://github.com/Pranay7030/CYBERBORG-DROID-V4) | CYBERBORG-DROID-V4 [PHANTOM PROTOCOL] - Elite Android Offensive Framework | Core Module of CYBERBORG | ⭐1 |
+| [nauraafii/ytrvx-module](https://github.com/nauraafii/ytrvx-module) | Personal fork for automated Android patch builds and GitHub Releases. | ⭐1 |
 ### 📰 行业动态
 
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- jadx 1.5 发布，反编译速度提升40%
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-09-02
 
