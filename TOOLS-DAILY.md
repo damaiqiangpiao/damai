@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-02
+> 最后更新：2026-09-03
 
 ---
+
+## 2026-09-03
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐338 |
+| [Xposed-Modules-Repo/com.tianqianguai.reweibo](https://github.com/Xposed-Modules-Repo/com.tianqianguai.reweibo) | 微博轻享版禁止自动刷新、浏览位置记忆、新启动后自动加载至上次浏览位置、去广告、反向时间线、阅读位置恢复 / Weibo Lite LSPosed/Xposed module for ad remova | ⭐14 |
+| [MoRanYue/NoDhcpHostname](https://github.com/MoRanYue/NoDhcpHostname) | An LSPosed module that prevents Android NetworkStack from sending the device hostname in DHCP reques | ⭐9 |
+| [O-kai/Xiaomi-HyperOs-pickup-code-grabber](https://github.com/O-kai/Xiaomi-HyperOs-pickup-code-grabber) | 这是一个小米HyperOS操作系统上抓取 ▷▶快递取件码◀◁ 并且放到 ▷▶待办事项◀◁ 里的的lsposed框架模块。This is an LSPosed framework module for  | ⭐1 |
+### 📰 行业动态
+
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- jadx 1.5 发布，反编译速度提升40%
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+### 💡 今日 Tips
+
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-09-02
 
