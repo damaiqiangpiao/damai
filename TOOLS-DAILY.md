@@ -7,14 +7,22 @@
 
 ## 2026-09-04
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [elohim-etz/morphe-builder](https://github.com/elohim-etz/morphe-builder) | A Magisk/KernelSU module and Apk builder for Morphe patches | ⭐41 |
+| [JinShichang/X-ADBlockModule](https://github.com/JinShichang/X-ADBlockModule) | LSPosed 模块：屏蔽 X App 中文区黄色广告/垃圾机器人帖子（不碰官方商业广告） | ⭐2 |
+| [Pranay7030/CYBERBORG-DROID-V4](https://github.com/Pranay7030/CYBERBORG-DROID-V4) | CYBERBORG-DROID-V4 [PHANTOM PROTOCOL] - Elite Android Offensive Framework | Core Module of CYBERBORG | ⭐1 |
+| [ylw6669/ChroStar](https://github.com/ylw6669/ChroStar) | LSPosed module: Chrome launches straight to homepage, download enhancements (bypass warnings, auto-i | ⭐1 |
 ### 📰 行业动态
 
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-09-03
 
