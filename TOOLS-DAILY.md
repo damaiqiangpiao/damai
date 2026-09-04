@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
+- Frida 16.5 发布，Gadget 模式稳定性提升
 - LSPosed 1.10 发布，Android 15 兼容性大幅改善
 - KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-09-03
 
