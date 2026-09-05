@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [O-kai/Xiaomi-HyperOs-pickup-code-grabber](https://github.com/O-kai/Xiaomi-HyperOs-pickup-code-grabber) | 这是一个小米HyperOS操作系统上抓取 ▷▶快递取件码◀◁ 并且放到 ▷▶待办事项◀◁ 里的的lsposed框架模块。This is an LSPosed framework module for  | ⭐5 |
-| [MiToverG422/ColorOS-Global-TangoBridge](https://github.com/MiToverG422/ColorOS-Global-TangoBridge) | A KernelSU module bringing ARM32 app compatibility to supported 64-bit-only ColorOS Global devices. | ⭐2 |
+| [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE) | BRENE - A SuSFS/KernelSU module for SuSFS patched kernels | ⭐342 |
+| [snowwolf725/KernelSU_LKM_For_Oneplus12](https://github.com/snowwolf725/KernelSU_LKM_For_Oneplus12) | KernelSU LKM module for Oneplus12 | ⭐19 |
 ### 📰 行业动态
 
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
 - MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-09-04
 
