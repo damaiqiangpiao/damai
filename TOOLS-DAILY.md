@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-04
+> 最后更新：2026-09-05
 
 ---
+
+## 2026-09-05
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [O-kai/Xiaomi-HyperOs-pickup-code-grabber](https://github.com/O-kai/Xiaomi-HyperOs-pickup-code-grabber) | 这是一个小米HyperOS操作系统上抓取 ▷▶快递取件码◀◁ 并且放到 ▷▶待办事项◀◁ 里的的lsposed框架模块。This is an LSPosed framework module for  | ⭐5 |
+| [MiToverG422/ColorOS-Global-TangoBridge](https://github.com/MiToverG422/ColorOS-Global-TangoBridge) | A KernelSU module bringing ARM32 app compatibility to supported 64-bit-only ColorOS Global devices. | ⭐2 |
+### 📰 行业动态
+
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+### 💡 今日 Tips
+
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-09-04
 
