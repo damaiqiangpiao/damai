@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-05
+> 最后更新：2026-09-06
 
 ---
+
+## 2026-09-06
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [MrxSiN/ThreadsHideAds](https://github.com/MrxSiN/ThreadsHideAds) | A focused LSPosed module for removing sponsored feed items from Threads | ⭐12 |
+| [Yuta-forgotten/Pixel9Pro-Control](https://github.com/Yuta-forgotten/Pixel9Pro-Control) | Pixel 9 Pro thermal throttling & CPU scheduling control module for APatch / KernelSU | ⭐7 |
+| [MrxSiN/TwitterHideAds](https://github.com/MrxSiN/TwitterHideAds) | A focused LSPosed module that removes promoted posts from the X Android timeline before they are ren | ⭐4 |
+| [GJR787878/DeviceResetSpoofer](https://github.com/GJR787878/DeviceResetSpoofer) | 清除应用数据后自动生成全新设备识别码的 LSPosed 模块 | LSPosed module that auto-generates a new device identity after clea | ⭐2 |
+| [FaaRamadhann/Magisk-Python](https://github.com/FaaRamadhann/Magisk-Python) | Modul Magisk untuk menginstall Python 3 lengkap dengan pip ke perangkat Android. Menyediakan interpr | ⭐2 |
+### 📰 行业动态
+
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+### 💡 今日 Tips
+
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-09-05
 
