@@ -7,23 +7,14 @@
 
 ## 2026-09-06
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [MrxSiN/ThreadsHideAds](https://github.com/MrxSiN/ThreadsHideAds) | A focused LSPosed module for removing sponsored feed items from Threads | ⭐12 |
-| [Yuta-forgotten/Pixel9Pro-Control](https://github.com/Yuta-forgotten/Pixel9Pro-Control) | Pixel 9 Pro thermal throttling & CPU scheduling control module for APatch / KernelSU | ⭐7 |
-| [MrxSiN/TwitterHideAds](https://github.com/MrxSiN/TwitterHideAds) | A focused LSPosed module that removes promoted posts from the X Android timeline before they are ren | ⭐4 |
-| [GJR787878/DeviceResetSpoofer](https://github.com/GJR787878/DeviceResetSpoofer) | 清除应用数据后自动生成全新设备识别码的 LSPosed 模块 | LSPosed module that auto-generates a new device identity after clea | ⭐2 |
-| [FaaRamadhann/Magisk-Python](https://github.com/FaaRamadhann/Magisk-Python) | Modul Magisk untuk menginstall Python 3 lengkap dengan pip ke perangkat Android. Menyediakan interpr | ⭐2 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- jadx 1.5 发布，反编译速度提升40%
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-09-05
 
