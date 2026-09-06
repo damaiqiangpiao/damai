@@ -7,14 +7,20 @@
 
 ## 2026-09-06
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [MiToverG422/ColorOS-Global-TangoBridge](https://github.com/MiToverG422/ColorOS-Global-TangoBridge) | A KernelSU module bringing ARM32 app compatibility to supported 64-bit-only ColorOS Global devices. | ⭐2 |
+| [ahe-meow/lspilot-enhancer-public](https://github.com/ahe-meow/lspilot-enhancer-public) | LSPosed module for enhancing Pilot app behavior | ⭐1 |
 ### 📰 行业动态
 
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- jadx 1.5 发布，反编译速度提升40%
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-09-05
 
