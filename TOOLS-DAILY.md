@@ -11,16 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [MiToverG422/ColorOS-Global-TangoBridge](https://github.com/MiToverG422/ColorOS-Global-TangoBridge) | A KernelSU module bringing ARM32 app compatibility to supported 64-bit-only ColorOS Global devices. | ⭐2 |
-| [ahe-meow/lspilot-enhancer-public](https://github.com/ahe-meow/lspilot-enhancer-public) | LSPosed module for enhancing Pilot app behavior | ⭐1 |
+| [evoker0/AlwaysStrong](https://github.com/evoker0/AlwaysStrong) | Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundl | ⭐476 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- jadx 1.5 发布，反编译速度提升40%
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-09-05
 
