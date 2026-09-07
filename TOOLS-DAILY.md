@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [pbzin/XiaomiMarketBypass](https://github.com/pbzin/XiaomiMarketBypass) | LSPosed module for running Xiaomi Market on AOSP/crDroid ROMs. | ⭐2 |
+| [hxreborn/revanced-magisk-module](https://github.com/hxreborn/revanced-magisk-module) | ReVanced builder. | ⭐11 |
+| [bileizhen/XBlocker](https://github.com/bileizhen/XBlocker) | LSPosed module filtering spam replies in the Android X client (Miuix + Compose UI) | ⭐5 |
 ### 📰 行业动态
 
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-09-06
 
