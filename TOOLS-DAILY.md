@@ -11,16 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [ringmembranouslabyrinth195/HyperChanger](https://github.com/ringmembranouslabyrinth195/HyperChanger) | Customize Xiaomi HyperOS 4 System UI, lock screen, and camera settings with this root-only LSPosed m | ⭐1 |
-| [bileizhen/XBlocker](https://github.com/bileizhen/XBlocker) | LSPosed module filtering spam replies in the Android X client (Miuix + Compose UI) | ⭐1 |
+| [pbzin/XiaomiMarketBypass](https://github.com/pbzin/XiaomiMarketBypass) | LSPosed module for running Xiaomi Market on AOSP/crDroid ROMs. | ⭐2 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 - 票星球上线预约抢票机制，提前锁定抢票资格
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-09-06
 
