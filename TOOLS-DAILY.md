@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-06
+> 最后更新：2026-09-07
 
 ---
+
+## 2026-09-07
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [ringmembranouslabyrinth195/HyperChanger](https://github.com/ringmembranouslabyrinth195/HyperChanger) | Customize Xiaomi HyperOS 4 System UI, lock screen, and camera settings with this root-only LSPosed m | ⭐1 |
+| [bileizhen/XBlocker](https://github.com/bileizhen/XBlocker) | LSPosed module filtering spam replies in the Android X client (Miuix + Compose UI) | ⭐1 |
+### 📰 行业动态
+
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-09-06
 
