@@ -11,16 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) | An addon root hiding service for KernelSU | ⭐2558 |
-| [Shen-Zhen-Misaka-Network-Co-Ltd/heartwith-mihealth-module](https://github.com/Shen-Zhen-Misaka-Network-Co-Ltd/heartwith-mihealth-module) | Heartwith LSPosed and NPatch module for Xiaomi Health | ⭐4 |
+| [Bouteillepleine/NoMount-Suite](https://github.com/Bouteillepleine/NoMount-Suite) | NoMount Suite — mountless module loading for Android on the Prism VFS engine. No overlayfs, no tmpfs | ⭐4 |
 ### 📰 行业动态
 
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- r0env 逆向环境更新至 v3.0，预装更多工具
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- jadx 1.5 发布，反编译速度提升40%
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-09-07
 
