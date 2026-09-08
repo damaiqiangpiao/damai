@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Bouteillepleine/NoMount-Suite](https://github.com/Bouteillepleine/NoMount-Suite) | NoMount Suite — mountless module loading for Android on the Prism VFS engine. No overlayfs, no tmpfs | ⭐4 |
-| [hxreborn/PixelInjector](https://github.com/hxreborn/PixelInjector) | Opinionated Xposed module of some tweaks, specially for Pixel phones so I can avoid having twenty mo | ⭐3 |
-| [Night114514/dnscrypt-proxy-root](https://github.com/Night114514/dnscrypt-proxy-root) | Magisk/KernelSU/APatch module for dnscrypt-proxy with auto-update and WebUI.這是一個 100% 人工智慧專案,請謹慎使用 T | ⭐3 |
+| [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) | An addon root hiding service for KernelSU | ⭐2558 |
+| [Shen-Zhen-Misaka-Network-Co-Ltd/heartwith-mihealth-module](https://github.com/Shen-Zhen-Misaka-Network-Co-Ltd/heartwith-mihealth-module) | Heartwith LSPosed and NPatch module for Xiaomi Health | ⭐4 |
 ### 📰 行业动态
 
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-09-07
 
