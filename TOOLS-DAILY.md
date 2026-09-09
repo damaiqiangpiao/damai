@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-08
+> 最后更新：2026-09-09
 
 ---
+
+## 2026-09-09
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [wxz2672554287/Lenovo-Tab-UltraHDR-Fix](https://github.com/wxz2672554287/Lenovo-Tab-UltraHDR-Fix) | LSPosed module + companion app: restore UltraHDR image boost on Lenovo TB710FU after the Android 16  | ⭐3 |
+### 📰 行业动态
+
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+### 💡 今日 Tips
+
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-09-08
 
