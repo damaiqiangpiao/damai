@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-09
+> 最后更新：2026-09-10
 
 ---
+
+## 2026-09-10
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [arthghori/Flutter-Proxy-Unlocker](https://github.com/arthghori/Flutter-Proxy-Unlocker) | A Frida-based tool for intercepting HTTPS/TLS traffic in Flutter apps on Android and IOS. Supports a | ⭐6 |
+| [1013503897/traceless-frida](https://github.com/1013503897/traceless-frida) | Frida frontend for kernel-level traceless inline hooking on Android ARM64 via shpte KPM | ⭐4 |
+| [ringmembranouslabyrinth195/HyperChanger](https://github.com/ringmembranouslabyrinth195/HyperChanger) | Customize Xiaomi HyperOS 4 System UI, lock screen, and camera settings with this root-only LSPosed m | ⭐1 |
+### 📰 行业动态
+
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+### 💡 今日 Tips
+
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-09-09
 
