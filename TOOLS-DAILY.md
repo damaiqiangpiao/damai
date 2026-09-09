@@ -11,15 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [wxz2672554287/Lenovo-Tab-UltraHDR-Fix](https://github.com/wxz2672554287/Lenovo-Tab-UltraHDR-Fix) | LSPosed module + companion app: restore UltraHDR image boost on Lenovo TB710FU after the Android 16  | ⭐3 |
+| [ColdP/HyperChanger](https://github.com/ColdP/HyperChanger) | Official HyperChanger: The original LSPosed module for Xiaomi HyperOS 4 customization. Tweak Control | ⭐170 |
+| [Drizzy07x/Supercharger_Pixel_9_Series](https://github.com/Drizzy07x/Supercharger_Pixel_9_Series) | Systemless performance, thermal, and maintenance module for the Pixel 9 series (Tensor G4). Magisk,  | ⭐12 |
+| [Night114514/dnscrypt-proxy-root](https://github.com/Night114514/dnscrypt-proxy-root) | Magisk/KernelSU/APatch module for dnscrypt-proxy with auto-update and WebUI.這是一個 100% 人工智慧專案,請謹慎使用 T | ⭐3 |
+| [ceigt/GeoLocation](https://github.com/ceigt/GeoLocation) | Independent Android 11+ LSPosed location testing module derived from the last public LocusMimic sour | ⭐1 |
+| [hidemyemulator/hidemyemulator](https://github.com/hidemyemulator/hidemyemulator) | LSPosed module that makes an Android emulator look like a real phone. Hides emulator traces from the | ⭐1 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-09-08
 
