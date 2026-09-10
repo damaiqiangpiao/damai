@@ -7,19 +7,14 @@
 
 ## 2026-09-10
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [kvmy666/iosEmojis-Font-module](https://github.com/kvmy666/iosEmojis-Font-module) | iOS 18.4 SF Pro • SF Arabic • Geeza Pro • Cocon • Apple Emoji — KernelSU & Magisk systemless font mo | ⭐3 |
 ### 📰 行业动态
 
 - MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- jadx 1.5 发布，反编译速度提升40%
 - r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-09-09
 
