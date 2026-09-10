@@ -7,14 +7,21 @@
 
 ## 2026-09-10
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [CreditTone/hooker](https://github.com/CreditTone/hooker) | 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, u | ⭐5303 |
+| [1013503897/traceless-frida](https://github.com/1013503897/traceless-frida) | Frida frontend for kernel-level traceless inline hooking on Android ARM64 via shpte KPM | ⭐4 |
+| [5h4d0wn1k/mobsek](https://github.com/5h4d0wn1k/mobsek) | Mobile app security suite - offline APK/AXML/DEX, Mach-O, X.509 analysis, Frida hooks, deterministic | ⭐1 |
 ### 📰 行业动态
 
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- jadx 1.5 发布，反编译速度提升40%
-- r0env 逆向环境更新至 v3.0，预装更多工具
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-09-09
 
