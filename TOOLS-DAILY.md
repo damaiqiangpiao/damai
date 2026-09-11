@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Lumince/Quest-Settings-Patcher](https://github.com/Lumince/Quest-Settings-Patcher) | Lsposed/Vector module for patching Settings/VrShell/SystemUX | ⭐3 |
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modu | ⭐363 |
+| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐34 |
 ### 📰 行业动态
 
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 票星球上线预约抢票机制，提前锁定抢票资格
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-09-10
 
