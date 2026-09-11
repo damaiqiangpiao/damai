@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modu | ⭐363 |
-| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐34 |
+| [JavSaia/AndroidDuo](https://github.com/JavSaia/AndroidDuo) | LSPosed module that recreates the iPhone Duo fold effect on Android | ⭐1 |
+| [inforcqb/oneplus-susfs4ksu-lkm](https://github.com/inforcqb/oneplus-susfs4ksu-lkm) | SUSFS ported to a loadable kernel module (LKM) for GKI/CFI devices, loaded via KernelSU ksud | ⭐1 |
 ### 📰 行业动态
 
 - 纷玩岛App新增回流票监控功能，余票提醒更及时
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-09-10
 
