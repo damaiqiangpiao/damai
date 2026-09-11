@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-10
+> 最后更新：2026-09-11
 
 ---
+
+## 2026-09-11
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Lumince/Quest-Settings-Patcher](https://github.com/Lumince/Quest-Settings-Patcher) | Lsposed/Vector module for patching Settings/VrShell/SystemUX | ⭐3 |
+### 📰 行业动态
+
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-09-10
 
