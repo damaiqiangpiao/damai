@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Ai686Leo/aria2-for-module](https://github.com/Ai686Leo/aria2-for-module) | 用root模块管理器（Magisk/KernelSU/APatch）运行aria2和ariang。             Running aria2 and ariang with root mod | ⭐19 |
-| [Xposed-Modules-Repo/com.tianqianguai.reweibo](https://github.com/Xposed-Modules-Repo/com.tianqianguai.reweibo) | 微博轻享版禁止自动刷新、浏览位置记忆、新启动后自动加载至上次浏览位置、去广告、反向时间线、阅读位置恢复 / Weibo Lite LSPosed/Xposed module for ad remova | ⭐18 |
+| [miner7222/GAP](https://github.com/miner7222/GAP) | LSPosed module to unlock the Ultra HD Vision on Lenovo Y700 4th/5th Gen | ⭐5 |
+| [ringmembranouslabyrinth195/HyperChanger](https://github.com/ringmembranouslabyrinth195/HyperChanger) | Customize Xiaomi HyperOS 4 System UI, lock screen, and camera settings with this root-only LSPosed m | ⭐1 |
 ### 📰 行业动态
 
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-09-11
 
