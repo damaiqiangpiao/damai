@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-11
+> 最后更新：2026-09-12
 
 ---
+
+## 2026-09-12
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modu | ⭐364 |
+| [Juby210/SwiftBackupPrem](https://github.com/Juby210/SwiftBackupPrem) | Swift Backup Premium LSPosed module | ⭐211 |
+| [Lumince/Quest-Settings-Patcher](https://github.com/Lumince/Quest-Settings-Patcher) | Lsposed/Vector module for patching Settings/VrShell/SystemUX | ⭐3 |
+| [nauraafii/ytrvx-module](https://github.com/nauraafii/ytrvx-module) | Personal fork for automated Android patch builds and GitHub Releases. | ⭐1 |
+### 📰 行业动态
+
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+### 💡 今日 Tips
+
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-09-11
 
