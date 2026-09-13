@@ -11,15 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) | An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and D | ⭐1442 |
+| [KotobaWakusei/NicoEnhance](https://github.com/KotobaWakusei/NicoEnhance) | Nico增强模块 - niconico LSPosed enhancement module | ⭐1 |
+| [Victorious93/rootforge-os](https://github.com/Victorious93/rootforge-os) | RootForge OS: A hardened Debian-based distro for Android root module development (Magisk, KernelSU). | ⭐1 |
+| [Xposed-Modules-Repo/net.wowsoftware.hidemyemulator](https://github.com/Xposed-Modules-Repo/net.wowsoftware.hidemyemulator) | Hide My Emulator | ⭐1 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-09-12
 
