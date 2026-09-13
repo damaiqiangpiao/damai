@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-12
+> 最后更新：2026-09-13
 
 ---
+
+## 2026-09-13
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) | An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and D | ⭐1442 |
+### 📰 行业动态
+
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+### 💡 今日 Tips
+
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-09-12
 
