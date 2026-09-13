@@ -7,21 +7,14 @@
 
 ## 2026-09-13
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [KotobaWakusei/NicoEnhance](https://github.com/KotobaWakusei/NicoEnhance) | Nico增强模块 - niconico LSPosed enhancement module | ⭐1 |
-| [Victorious93/rootforge-os](https://github.com/Victorious93/rootforge-os) | RootForge OS: A hardened Debian-based distro for Android root module development (Magisk, KernelSU). | ⭐1 |
-| [Xposed-Modules-Repo/net.wowsoftware.hidemyemulator](https://github.com/Xposed-Modules-Repo/net.wowsoftware.hidemyemulator) | Hide My Emulator | ⭐1 |
 ### 📰 行业动态
 
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
 - Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-09-12
 
