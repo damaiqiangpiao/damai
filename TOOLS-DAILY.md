@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
 - 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-09-14
 
