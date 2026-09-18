@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-09-17
 
