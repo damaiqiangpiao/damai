@@ -11,17 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [BH4GMI/lsposed-location-replay](https://github.com/BH4GMI/lsposed-location-replay) | LSPosed module that records the real positioning environment of a place and replays it to scoped app | ⭐1 |
-| [m4mental/gboard-RGB-studio](https://github.com/m4mental/gboard-RGB-studio) | Gboard RGB Studio is an advanced LSPosed module and real-time companion control app that injects dyn | ⭐1 |
-| [snowzlmbot/AdGuardHome-Android-Module](https://github.com/snowzlmbot/AdGuardHome-Android-Module) | A modular AdGuard Home Android module for Magisk and KernelSU with isolated workers, reversible adap | ⭐1 |
+| [Xposed-Modules-Repo/net.wowsoftware.hidemyemulator](https://github.com/Xposed-Modules-Repo/net.wowsoftware.hidemyemulator) | LSPosed module that makes an Android emulator look like a real phone. Hides emulator traces from the | ⭐6 |
+| [index-login/MobileRE-Skill](https://github.com/index-login/MobileRE-Skill) | Kilo MobileRE Skill — Layered Hook Framework with Anti-Detection Pipeline。AI Agent 驱动的 Android 逆向分析S | ⭐4 |
+| [WajahatNaeem056/JerryManager](https://github.com/WajahatNaeem056/JerryManager) | Built to improve Play Integrity compatibility and hide root detection | ⭐4 |
+| [ahe-meow/lspilot-enhancer-public](https://github.com/ahe-meow/lspilot-enhancer-public) | LSPosed module for enhancing Pilot app behavior | ⭐2 |
+| [mob1254/Revhook](https://github.com/mob1254/Revhook) | Revhook：面向 Android 的 Xposed / LSPosed / Frida Hook 调试工具 | ⭐1 |
 ### 📰 行业动态
 
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-09-19
 
