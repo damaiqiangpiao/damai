@@ -11,15 +11,13 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Xposed-Modules-Repo/net.wowsoftware.hidemyemulator](https://github.com/Xposed-Modules-Repo/net.wowsoftware.hidemyemulator) | LSPosed module that makes an Android emulator look like a real phone. Hides emulator traces from the | ⭐6 |
-| [WajahatNaeem056/JerryManager](https://github.com/WajahatNaeem056/JerryManager) | Built to improve Play Integrity compatibility and hide root detection | ⭐4 |
-| [aksb/CallerID_Module](https://github.com/aksb/CallerID_Module) | 这是一个来电悬浮窗/骚扰电话标识/归属地查询/骚扰拦截功能的的LSPosed模块 | ⭐2 |
-| [mob1254/Revhook](https://github.com/mob1254/Revhook) | Revhook：面向 Android 的 Xposed / LSPosed / Frida Hook 调试工具 | ⭐1 |
-| [who-lee/Rebler](https://github.com/who-lee/Rebler) | Root hider for Magisk/KernelSU/APatch. Default-deny allowlist, Zygisk native layer. No fake attestat | ⭐1 |
+| [BH4GMI/lsposed-location-replay](https://github.com/BH4GMI/lsposed-location-replay) | LSPosed module that records the real positioning environment of a place and replays it to scoped app | ⭐1 |
+| [m4mental/gboard-RGB-studio](https://github.com/m4mental/gboard-RGB-studio) | Gboard RGB Studio is an advanced LSPosed module and real-time companion control app that injects dyn | ⭐1 |
+| [snowzlmbot/AdGuardHome-Android-Module](https://github.com/snowzlmbot/AdGuardHome-Android-Module) | A modular AdGuard Home Android module for Magisk and KernelSU with isolated workers, reversible adap | ⭐1 |
 ### 📰 行业动态
 
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 - IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
