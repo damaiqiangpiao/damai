@@ -11,15 +11,18 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [fcmfcm1999/EdgeX](https://github.com/fcmfcm1999/EdgeX) | Android 15+ LSPosed/Xposed edge gesture module for system-wide shortcuts, hardware key remapping, ap | ⭐239 |
+| [loss-and-quick/Kasumi-Proxy](https://github.com/loss-and-quick/Kasumi-Proxy) | System-level transparent proxy for rooted Android (Magisk/KernelSU/APatch module) and Linux/Windows  | ⭐3 |
+| [arjun7n9s/Parallax](https://github.com/arjun7n9s/Parallax) | Agentic Android malware analysis - 8 specialized agents debate each APK (banking trojans like SharkB | ⭐1 |
+| [uraniam9/lune-bridge](https://github.com/uraniam9/lune-bridge) | Magisk / KernelSU / APatch module. Candlelight warmth to 1700K with a properly refitted colour ramp, | ⭐1 |
+| [who-lee/Rebler](https://github.com/who-lee/Rebler) | Root hider for Magisk/KernelSU/APatch. Default-deny allowlist, Zygisk native layer. No fake attestat | ⭐1 |
 ### 📰 行业动态
 
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- jadx 1.5 发布，反编译速度提升40%
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 - GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-09-20
 
