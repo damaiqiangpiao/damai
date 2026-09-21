@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-20
+> 最后更新：2026-09-21
 
 ---
+
+## 2026-09-21
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder) | An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly. | ⭐273 |
+| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
+| [justsoso17/cmhook](https://github.com/justsoso17/cmhook) | LSPosed module for NetEase CloudMusic 9.5.96: protocol observer, home-feed cleanup, anti-revoke ledg | ⭐3 |
+| [arjun7n9s/Parallax](https://github.com/arjun7n9s/Parallax) | Agentic Android malware analysis - 8 specialized agents debate each APK (banking trojans like SharkB | ⭐1 |
+| [who-lee/Rebler](https://github.com/who-lee/Rebler) | Root hider for Magisk/KernelSU/APatch. Default-deny allowlist, Zygisk native layer. No fake attestat | ⭐1 |
+### 📰 行业动态
+
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+### 💡 今日 Tips
+
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-09-20
 
