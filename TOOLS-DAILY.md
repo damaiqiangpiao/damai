@@ -11,24 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder) | An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly. | ⭐273 |
-| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
-| [justsoso17/cmhook](https://github.com/justsoso17/cmhook) | LSPosed module for NetEase CloudMusic 9.5.96: protocol observer, home-feed cleanup, anti-revoke ledg | ⭐3 |
-| [arjun7n9s/Parallax](https://github.com/arjun7n9s/Parallax) | Agentic Android malware analysis - 8 specialized agents debate each APK (banking trojans like SharkB | ⭐1 |
-| [who-lee/Rebler](https://github.com/who-lee/Rebler) | Root hider for Magisk/KernelSU/APatch. Default-deny allowlist, Zygisk native layer. No fake attestat | ⭐1 |
-| [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | Suitable for Android APK reverse engineering analysis | ⭐476 |
-| [allelloo/Frida0xKit](https://github.com/allelloo/Frida0xKit) | A modular toolkit for Android runtime instrumentation, reverse engineering, and Frida-based analysis | ⭐21 |
-| [Veridiff/Veridiff](https://github.com/Veridiff/Veridiff) | Dynamic branch-divergence finder for native code — traces two Frida executions to find diverging instruction | ⭐4 |
-| [ejfkdev/avdroot](https://github.com/ejfkdev/avdroot) | Root an Android Studio emulator by patching its ramdisk with Magisk — in pure Go | ⭐3 |
-| [Guys222/ProcessKeepAlive](https://github.com/Guys222/ProcessKeepAlive) | 基于 LSPosed 的 Android 后台保活模块，注入 system_server，让目标应用常驻后台 | ⭐3 |
+| [fcmfcm1999/EdgeX](https://github.com/fcmfcm1999/EdgeX) | Android 15+ LSPosed/Xposed edge gesture module for system-wide shortcuts, hardware key remapping, ap | ⭐239 |
 ### 📰 行业动态
 
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- jadx 1.5 发布，反编译速度提升40%
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-09-20
 
