@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [PolarisSdesu/Better-AM](https://github.com/PolarisSdesu/Better-AM) | LSPosed module that adds backdrop liquid-glass navigation and a mini player to Apple Music on Androi | ⭐1 |
+| [Yuta-forgotten/Pixel9Pro-Control](https://github.com/Yuta-forgotten/Pixel9Pro-Control) | Pixel 9 Pro thermal throttling & CPU scheduling control module for APatch / KernelSU | ⭐7 |
+| [bmjubairdadu/kernel-loder](https://github.com/bmjubairdadu/kernel-loder) | Universal Android kernel module (.ko) loader - any device, any model, old & new kernels. Root (Magis | ⭐1 |
 ### 📰 行业动态
 
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-09-21
 
