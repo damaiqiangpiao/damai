@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-21
+> 最后更新：2026-09-22
 
 ---
+
+## 2026-09-22
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [PolarisSdesu/Better-AM](https://github.com/PolarisSdesu/Better-AM) | LSPosed module that adds backdrop liquid-glass navigation and a mini player to Apple Music on Androi | ⭐1 |
+### 📰 行业动态
+
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+### 💡 今日 Tips
+
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-09-21
 
