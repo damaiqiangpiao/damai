@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Yuta-forgotten/Pixel9Pro-Control](https://github.com/Yuta-forgotten/Pixel9Pro-Control) | Pixel 9 Pro thermal throttling & CPU scheduling control module for APatch / KernelSU | ⭐7 |
-| [bmjubairdadu/kernel-loder](https://github.com/bmjubairdadu/kernel-loder) | Universal Android kernel module (.ko) loader - any device, any model, old & new kernels. Root (Magis | ⭐1 |
+| [justsoso17/cmhook](https://github.com/justsoso17/cmhook) | LSPosed module for NetEase CloudMusic 9.5.96: protocol observer, home-feed cleanup, anti-revoke ledg | ⭐8 |
+| [mirsella/aod-battery-saver-override](https://github.com/mirsella/aod-battery-saver-override) | KernelSU / Magisk module that keeps Always On Display available while Battery Saver is enabled. | ⭐6 |
 ### 📰 行业动态
 
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- jadx 1.5 发布，反编译速度提升40%
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> Android 15 对无障碍服务限制更严，自动点击方案需适配
 
 ## 2026-09-21
 
