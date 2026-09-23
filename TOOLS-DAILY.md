@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-22
+> 最后更新：2026-09-23
 
 ---
+
+## 2026-09-23
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [5h4d0wn1k/m5-frida-gen](https://github.com/5h4d0wn1k/m5-frida-gen) | Frida hook generator - produces interception scripts for Android/iOS instrumentation and RE. | ⭐3 |
+| [sandri-kun/NusantaraHook-Lsposed](https://github.com/sandri-kun/NusantaraHook-Lsposed) | Module xposed/Lsposed | ⭐2 |
+### 📰 行业动态
+
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- jadx 1.5 发布，反编译速度提升40%
+### 💡 今日 Tips
+
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-09-22
 
