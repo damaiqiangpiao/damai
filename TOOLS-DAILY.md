@@ -7,14 +7,21 @@
 
 ## 2026-09-23
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [dyokism/DexForge](https://github.com/dyokism/DexForge) | Smart ART/Dalvik cache optimization module. | ⭐11 |
+| [5h4d0wn1k/m5-frida-gen](https://github.com/5h4d0wn1k/m5-frida-gen) | Frida hook generator - produces interception scripts for Android/iOS instrumentation and RE. | ⭐3 |
+| [KotobaWakusei/NicoEnhance](https://github.com/KotobaWakusei/NicoEnhance) | Nico增强模块 - niconico LSPosed enhancement module | ⭐2 |
 ### 📰 行业动态
 
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-09-22
 
