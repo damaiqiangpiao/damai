@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [YeFeng233/lsp-majsoul-unlock](https://github.com/YeFeng233/lsp-majsoul-unlock) | MajsoulMax Android LSPosed / Xposed hook module | ⭐1 |
+| [radito/SecurityRiskAndroid](https://github.com/radito/SecurityRiskAndroid) | Android JNI runtime-risk detector for root, hooks, Frida, suspicious memory mappings, ART/Zygote sid | ⭐12 |
+| [hxreborn/PixelInjector](https://github.com/hxreborn/PixelInjector) | Opinionated Xposed module of some tweaks, specially for Pixel phones so I can avoid having twenty mo | ⭐10 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 - Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 票星球上线预约抢票机制，提前锁定抢票资格
 ### 💡 今日 Tips
 
-> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-09-23
 
