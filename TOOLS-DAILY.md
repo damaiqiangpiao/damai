@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-23
+> 最后更新：2026-09-24
 
 ---
+
+## 2026-09-24
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [YeFeng233/lsp-majsoul-unlock](https://github.com/YeFeng233/lsp-majsoul-unlock) | MajsoulMax Android LSPosed / Xposed hook module | ⭐1 |
+### 📰 行业动态
+
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-09-23
 
