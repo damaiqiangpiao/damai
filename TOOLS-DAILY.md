@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [radito/SecurityRiskAndroid](https://github.com/radito/SecurityRiskAndroid) | Android JNI runtime-risk detector for root, hooks, Frida, suspicious memory mappings, ART/Zygote sid | ⭐12 |
-| [hxreborn/PixelInjector](https://github.com/hxreborn/PixelInjector) | Opinionated Xposed module of some tweaks, specially for Pixel phones so I can avoid having twenty mo | ⭐10 |
+| [CHS-Haple/CombinedStatus](https://github.com/CHS-Haple/CombinedStatus) | An LSPosed module for HyperOS that combines battery, mobile network, and Wi-Fi status into one statu | ⭐1 |
+| [uraniam9/lost-xposed](https://github.com/uraniam9/lost-xposed) | The settings Android keeps to itself. An LSPosed module for a status bar clock you compose, per-app  | ⭐1 |
 ### 📰 行业动态
 
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-09-23
 
