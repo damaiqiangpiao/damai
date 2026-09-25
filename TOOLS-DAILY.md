@@ -7,14 +7,19 @@
 
 ## 2026-09-25
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [radito/SecurityRiskAndroid](https://github.com/radito/SecurityRiskAndroid) | Android JNI runtime-risk detector for root, hooks, Frida, suspicious memory mappings, ART/Zygote sid | ⭐12 |
 ### 📰 行业动态
 
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-09-24
 
