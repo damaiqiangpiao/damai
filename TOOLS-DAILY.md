@@ -11,15 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [radito/SecurityRiskAndroid](https://github.com/radito/SecurityRiskAndroid) | Android JNI runtime-risk detector for root, hooks, Frida, suspicious memory mappings, ART/Zygote sid | ⭐12 |
+| [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) | ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed) | ⭐3007 |
+| [imhugo22/integrity-purge](https://github.com/imhugo22/integrity-purge) | Fast Magisk/KernelSU action module to wipe GMS, Play Store, and Wallet state for Play Integrity re-a | ⭐3 |
+| [yjpyydslove/TgEnhance](https://github.com/yjpyydslove/TgEnhance) | Telegram client enhancement module based on LSPosed / Xposed | ⭐1 |
 ### 📰 行业动态
 
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Wireshark 4.4 新增 QUIC 协议深度解析
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-09-24
 
