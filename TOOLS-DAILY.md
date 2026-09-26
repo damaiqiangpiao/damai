@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [MrxSiN/ThreadsHideAds](https://github.com/MrxSiN/ThreadsHideAds) | A focused Xposed module for removing sponsored feed items from Threads, for LSPosed or LSPatch | ⭐15 |
+| [radito/SecurityRiskAndroid](https://github.com/radito/SecurityRiskAndroid) | Android JNI runtime-risk detector for root, hooks, Frida, suspicious memory mappings, ART/Zygote sid | ⭐12 |
+| [MrxSiN/GmailHideAds](https://github.com/MrxSiN/GmailHideAds) | A focused Xposed module for removing sponsored rows from the Gmail Android app | ⭐5 |
 ### 📰 行业动态
 
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
 - r0env 逆向环境更新至 v3.0，预装更多工具
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-09-25
 
