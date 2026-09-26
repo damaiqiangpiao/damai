@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-25
+> 最后更新：2026-09-26
 
 ---
+
+## 2026-09-26
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Bouteillepleine/DuckUSB](https://github.com/Bouteillepleine/DuckUSB) | LSPosed module: makes scoped apps read USB debugging / wireless debugging / Developer Options as OFF | ⭐49 |
+| [KepalaLuweng/LuwengSense](https://github.com/KepalaLuweng/LuwengSense) | LuwengSense is a lightweight Magisk/KernelSU module that boosts GPS accuracy, signal quality, ping s | ⭐15 |
+| [radito/SecurityRiskAndroid](https://github.com/radito/SecurityRiskAndroid) | Android JNI runtime-risk detector for root, hooks, Frida, suspicious memory mappings, ART/Zygote sid | ⭐12 |
+| [Jerrey-liang/MonoIcon](https://github.com/Jerrey-liang/MonoIcon) | 把 HyperOS 应用图标重绘成单色 Material You 主题图标的 LSPosed 模块 · An LSPosed module that redraws HyperOS app icons | ⭐1 |
+### 📰 行业动态
+
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- jadx 1.5 发布，反编译速度提升40%
+### 💡 今日 Tips
+
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-09-25
 
