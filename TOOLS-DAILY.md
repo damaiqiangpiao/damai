@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [ShivamXD6/Simple-Flag-Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) | 👀 Lightweight root module that disables FLAG_SECURE, enabling screenshots & screen recording in rest | ⭐119 |
-| [YeFeng233/lsp-majsoul-unlock](https://github.com/YeFeng233/lsp-majsoul-unlock) | MajsoulMax Android LSPosed / Xposed hook module | ⭐1 |
+| [MiaM1ku/Miband-OPlusBridge](https://github.com/MiaM1ku/Miband-OPlusBridge) | LSPosed module: Xiaomi Band 11 on ColorOS device center and OPPO Health | ⭐1 |
+| [youyao666/SukiSU-KPM-Module](https://github.com/youyao666/SukiSU-KPM-Module) | KPM (KernelPatch Module) support as a loadable kernelsu.ko - full loader ported from KernelPatch, no | ⭐1 |
 ### 📰 行业动态
 
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- r0env 逆向环境更新至 v3.0，预装更多工具
 - IDA Pro 9.0 新增 AI 辅助反编译功能
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-09-26
 
