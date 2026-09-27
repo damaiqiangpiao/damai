@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-26
+> 最后更新：2026-09-27
 
 ---
+
+## 2026-09-27
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Lumince/Quest-Settings-Patcher](https://github.com/Lumince/Quest-Settings-Patcher) | Lsposed/Vector module for patching Settings/VrShell/SystemUX | ⭐5 |
+### 📰 行业动态
+
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+### 💡 今日 Tips
+
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-09-26
 
