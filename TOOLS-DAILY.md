@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Lumince/Quest-Settings-Patcher](https://github.com/Lumince/Quest-Settings-Patcher) | Lsposed/Vector module for patching Settings/VrShell/SystemUX | ⭐5 |
+| [ShivamXD6/Simple-Flag-Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) | 👀 Lightweight root module that disables FLAG_SECURE, enabling screenshots & screen recording in rest | ⭐119 |
+| [YeFeng233/lsp-majsoul-unlock](https://github.com/YeFeng233/lsp-majsoul-unlock) | MajsoulMax Android LSPosed / Xposed hook module | ⭐1 |
 ### 📰 行业动态
 
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-09-26
 
