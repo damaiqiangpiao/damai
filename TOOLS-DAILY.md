@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-27
+> 最后更新：2026-09-28
 
 ---
+
+## 2026-09-28
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐371 |
+| [ShivamXD6/Simple-Flag-Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) | 👀 Lightweight root module that disables FLAG_SECURE, enabling screenshots & screen recording in rest | ⭐119 |
+| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
+### 📰 行业动态
+
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+### 💡 今日 Tips
+
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-09-27
 
