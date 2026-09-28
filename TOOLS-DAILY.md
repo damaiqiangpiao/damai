@@ -11,15 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [iflyabd/nowifi-adb](https://github.com/iflyabd/nowifi-adb) | LSPosed module: enable Android Wireless Debugging with no WiFi and no hotspot (GPL-3.0 fork) | ⭐2 |
+| [ShivamXD6/Simple-Flag-Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) | 👀 Lightweight root module that disables FLAG_SECURE, enabling screenshots & screen recording in rest | ⭐119 |
+| [eltavine/Duck-ToolBox](https://github.com/eltavine/Duck-ToolBox) | KernelSU Module | ⭐49 |
+| [ev3rlin/ReVanced-Extended](https://github.com/ev3rlin/ReVanced-Extended) | ReVanced Extended (anddea) YouTube and YouTube Music builder. Suitable for both root and non-root us | ⭐12 |
+| [deserthouse/OptIcon](https://github.com/deserthouse/OptIcon) | Make every notification icon easy on the eyes — an LSPosed module that fixes and restyles non-compli | ⭐1 |
+| [nauraafii/ytrvx-module](https://github.com/nauraafii/ytrvx-module) | Personal fork for automated Android patch builds and GitHub Releases. | ⭐1 |
 ### 📰 行业动态
 
 - Wireshark 4.4 新增 QUIC 协议深度解析
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-09-27
 
