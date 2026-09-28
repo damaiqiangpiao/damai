@@ -11,6 +11,10 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
+| [damaiqiangpiao/damai](https://github.com/damaiqiangpiao/damai) | 大麦/猫眼/票星球抢票技术社区，Android 逆向 + Frida hook 票务监控 | ⭐526 |
+| [MagicModule/VectorXposed-it](https://github.com/MagicModule/VectorXposed-it) | Vector-it — 高性能 Android ART hooking 框架（Zygisk + LSPlant） | ⭐13 |
+| [briannewsboy-cell/damai](https://github.com/briannewsboy-cell/damai) | 监控大麦网演唱会开票状态，开票时发送邮件 + 微信通知（仅读取状态，不自动购票） | ⭐4 |
+| [mortis-zhy/damai-mcp](https://github.com/mortis-zhy/damai-mcp) | Android UI 自动化 MCP server，用于抢票（大麦/猫眼/飞猪） | ⭐0 |
 | [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐371 |
 | [ShivamXD6/Simple-Flag-Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) | 👀 Lightweight root module that disables FLAG_SECURE, enabling screenshots & screen recording in rest | ⭐119 |
 | [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
