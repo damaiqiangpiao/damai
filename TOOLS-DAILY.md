@@ -11,21 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [damaiqiangpiao/damai](https://github.com/damaiqiangpiao/damai) | 大麦/猫眼/票星球抢票技术社区，Android 逆向 + Frida hook 票务监控 | ⭐526 |
-| [MagicModule/VectorXposed-it](https://github.com/MagicModule/VectorXposed-it) | Vector-it — 高性能 Android ART hooking 框架（Zygisk + LSPlant） | ⭐13 |
-| [briannewsboy-cell/damai](https://github.com/briannewsboy-cell/damai) | 监控大麦网演唱会开票状态，开票时发送邮件 + 微信通知（仅读取状态，不自动购票） | ⭐4 |
-| [mortis-zhy/damai-mcp](https://github.com/mortis-zhy/damai-mcp) | Android UI 自动化 MCP server，用于抢票（大麦/猫眼/飞猪） | ⭐0 |
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐371 |
-| [ShivamXD6/Simple-Flag-Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) | 👀 Lightweight root module that disables FLAG_SECURE, enabling screenshots & screen recording in rest | ⭐119 |
-| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
+| [iflyabd/nowifi-adb](https://github.com/iflyabd/nowifi-adb) | LSPosed module: enable Android Wireless Debugging with no WiFi and no hotspot (GPL-3.0 fork) | ⭐2 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-09-27
 
