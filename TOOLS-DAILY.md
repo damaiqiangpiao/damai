@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-09-28
+> 最后更新：2026-09-29
 
 ---
+
+## 2026-09-29
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
+| [kyarameru0/KanadeDX-Oniimai](https://github.com/kyarameru0/KanadeDX-Oniimai) | LSPosed API 102 module for KanadeDX and Oniimai controllers | AI-generated code | ⭐3 |
+### 📰 行业动态
+
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-09-28
 
