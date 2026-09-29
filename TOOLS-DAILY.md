@@ -7,14 +7,19 @@
 
 ## 2026-09-29
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [CHS-Haple/Guiyuan](https://github.com/CHS-Haple/Guiyuan) | An LSPosed module for HyperOS that combines battery, mobile network, and Wi-Fi status into one statu | ⭐2 |
 ### 📰 行业动态
 
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 - 票星球上线预约抢票机制，提前锁定抢票资格
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-09-28
 
