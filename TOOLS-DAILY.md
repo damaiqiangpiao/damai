@@ -11,16 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐34 |
-| [lswlc33/edge_download_change](https://github.com/lswlc33/edge_download_change) | edge_download_change — LSPosed module: hand Edge for Android's downloads to the system downloader (o | ⭐1 |
+| [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) | A KernelSU module to debloat system apps with WebUI Interface | ⭐256 |
+| [Yuta-forgotten/Pixel9Pro-Control](https://github.com/Yuta-forgotten/Pixel9Pro-Control) | Pixel 9 Pro thermal throttling & CPU scheduling control module for APatch / KernelSU | ⭐7 |
+| [official-Arvind/CameraTools](https://github.com/official-Arvind/CameraTools) | An Xposed module that enables hidden camera features (like 50MP Normal mode, 4K60FPS) on Xiaomi devi | ⭐3 |
 ### 📰 行业动态
 
 - Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- jadx 1.5 发布，反编译速度提升40%
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-09-29
 
