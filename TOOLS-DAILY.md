@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [VoreulCH/HonorInstallerPurify](https://github.com/VoreulCH/HonorInstallerPurify) | 荣耀安装器净化 - 跳过 MagicOS 安装器联网安全检测与指纹 / LSPosed module to skip Honor MagicOS PackageInstaller online sec | ⭐2 |
+| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐34 |
+| [lswlc33/edge_download_change](https://github.com/lswlc33/edge_download_change) | edge_download_change — LSPosed module: hand Edge for Android's downloads to the system downloader (o | ⭐1 |
 ### 📰 行业动态
 
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 - 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- Wireshark 4.4 新增 QUIC 协议深度解析
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-09-29
 
