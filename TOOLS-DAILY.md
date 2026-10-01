@@ -7,14 +7,20 @@
 
 ## 2026-10-01
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐372 |
+| [saadnahid7/SmaliPatcherReborn](https://github.com/saadnahid7/SmaliPatcherReborn) | On-device Magisk/KernelSU/APatch module + desktop app that patches services.jar for Android 10-17 (m | ⭐1 |
 ### 📰 行业动态
 
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- Wireshark 4.4 新增 QUIC 协议深度解析
 ### 💡 今日 Tips
 
-> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-09-30
 
