@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐372 |
-| [saadnahid7/SmaliPatcherReborn](https://github.com/saadnahid7/SmaliPatcherReborn) | On-device Magisk/KernelSU/APatch module + desktop app that patches services.jar for Android 10-17 (m | ⭐1 |
+| [lswlc33/edge_download_change](https://github.com/lswlc33/edge_download_change) | edge_download_change — LSPosed module: hand Edge for Android's downloads to the system downloader (o | ⭐1 |
+| [snowzlmbot/AdGuardHome-Android-Module](https://github.com/snowzlmbot/AdGuardHome-Android-Module) | A modular AdGuard Home Android module for Magisk and KernelSU with isolated workers, reversible adap | ⭐1 |
 ### 📰 行业动态
 
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 - 票星球上线预约抢票机制，提前锁定抢票资格
-- Wireshark 4.4 新增 QUIC 协议深度解析
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-09-30
 
