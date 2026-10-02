@@ -11,16 +11,18 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐372 |
-| [EXLOUD/Render-Switcher](https://github.com/EXLOUD/Render-Switcher) | Per-app HWUI renderer switcher (Vulkan / OpenGL) for Android. Magisk, KernelSU and APatch module wit | ⭐1 |
+| [antoniomalheirs/Sound_And_Emoji_IOS](https://github.com/antoniomalheirs/Sound_And_Emoji_IOS) | A KernelSU / KernelSU Next and Magisk-compatible module that replaces default Android system sounds  | ⭐24 |
+| [hu847266h/scene-unlock-toolkit](https://github.com/hu847266h/scene-unlock-toolkit) | Scene (N1 Alpha8) activation-chain research: LSPosed module (legacy stubs, verdict rewrite) + scene- | ⭐6 |
+| [YeFeng233/lsp-majsoul-unlock](https://github.com/YeFeng233/lsp-majsoul-unlock) | MajsoulMax Android LSPosed / Xposed hook module | ⭐1 |
+| [bmjubairdadu/kernel-loder](https://github.com/bmjubairdadu/kernel-loder) | Universal Android kernel module (.ko) loader - any device, any model, old & new kernels. Root (Magis | ⭐1 |
 ### 📰 行业动态
 
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- 票星球上线预约抢票机制，提前锁定抢票资格
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-10-01
 
