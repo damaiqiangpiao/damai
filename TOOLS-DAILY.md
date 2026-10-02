@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-01
+> 最后更新：2026-10-02
 
 ---
+
+## 2026-10-02
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐372 |
+| [EXLOUD/Render-Switcher](https://github.com/EXLOUD/Render-Switcher) | Per-app HWUI renderer switcher (Vulkan / OpenGL) for Android. Magisk, KernelSU and APatch module wit | ⭐1 |
+### 📰 行业动态
+
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-10-01
 
