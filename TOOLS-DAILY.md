@@ -11,18 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [antoniomalheirs/Sound_And_Emoji_IOS](https://github.com/antoniomalheirs/Sound_And_Emoji_IOS) | A KernelSU / KernelSU Next and Magisk-compatible module that replaces default Android system sounds  | ⭐24 |
-| [hu847266h/scene-unlock-toolkit](https://github.com/hu847266h/scene-unlock-toolkit) | Scene (N1 Alpha8) activation-chain research: LSPosed module (legacy stubs, verdict rewrite) + scene- | ⭐6 |
-| [YeFeng233/lsp-majsoul-unlock](https://github.com/YeFeng233/lsp-majsoul-unlock) | MajsoulMax Android LSPosed / Xposed hook module | ⭐1 |
-| [bmjubairdadu/kernel-loder](https://github.com/bmjubairdadu/kernel-loder) | Universal Android kernel module (.ko) loader - any device, any model, old & new kernels. Root (Magis | ⭐1 |
+| [VeryBaaad/ZygiskNextNext](https://github.com/VeryBaaad/ZygiskNextNext) | A from-scratch, standalone implementation of the Zygisk Next module | ⭐19 |
+| [vanquzie/TikProfileBanner](https://github.com/vanquzie/TikProfileBanner) | Small LSPosed module that turns on TikTok's profile banner feature. TikTok hides the "Add background | ⭐5 |
+| [Huai-Tian/DoNotComplain](https://github.com/Huai-Tian/DoNotComplain) | An LSPosed module that tricks custom apps into believing they have notification permission, so that  | ⭐1 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-10-01
 
