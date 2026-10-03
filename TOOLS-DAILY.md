@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-10-02
 
