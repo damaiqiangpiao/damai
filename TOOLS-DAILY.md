@@ -7,20 +7,14 @@
 
 ## 2026-10-03
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐34 |
-| [yfishyon/doumcp](https://github.com/yfishyon/doumcp) | DouMCP（抖M）- MCP-enabled LSPosed module for Douyin | 让 AI 通过 MCP 协议操控抖音 | ⭐6 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- r0env 逆向环境更新至 v3.0，预装更多工具
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-10-02
 
