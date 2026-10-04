@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-03
+> 最后更新：2026-10-04
 
 ---
+
+## 2026-10-04
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Ishanoshada/SecurityInspector](https://github.com/Ishanoshada/SecurityInspector) | Android RASP & environment inspection toolkit in Kotlin + Jetpack Compose. Detects Frida, root, LSPo | ⭐1 |
+### 📰 行业动态
+
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+### 💡 今日 Tips
+
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-10-03
 
