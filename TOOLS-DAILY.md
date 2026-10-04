@@ -11,16 +11,18 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [juren233/HyperLyrics-Enhanced](https://github.com/juren233/HyperLyrics-Enhanced) | 为小米 HyperOS 设备打造的超级岛/息屏歌词显示 Lsposed 模块，也提供安卓通用的 Apple Music 体验优化。| An LSPosed module that provides H | ⭐74 |
-| [shitianyaa/FriendlySchool](https://github.com/shitianyaa/FriendlySchool) | FriendlySchool — LSPosed module for ad removal and privacy protection in YiCampus, WakeUp and JMComi | ⭐2 |
+| [inforcqb/susfs4ksu-lkm](https://github.com/inforcqb/susfs4ksu-lkm) | SUSFS ported to a loadable kernel module (LKM) for GKI/CFI devices, loaded via KernelSU ksud | ⭐15 |
+| [Ishanoshada/SecurityInspector](https://github.com/Ishanoshada/SecurityInspector) | Android RASP & environment inspection toolkit in Kotlin + Jetpack Compose. Detects Frida, root, LSPo | ⭐1 |
+| [Tiimoo-debug/ZuxOS-Desktop-Plus](https://github.com/Tiimoo-debug/ZuxOS-Desktop-Plus) | LSPosed module that turns ZuxOS desktop mode on an external display into a real desktop: arrangeable | ⭐1 |
+| [bmjubairdadu/kernel-loder](https://github.com/bmjubairdadu/kernel-loder) | Universal Android kernel module (.ko) loader - any device, any model, old & new kernels. Root (Magis | ⭐1 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- r0env 逆向环境更新至 v3.0，预装更多工具
-- Frida 16.5 发布，Gadget 模式稳定性提升
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 同一设备频繁切换账号会触发风控，建议一机一号
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-10-03
 
