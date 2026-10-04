@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Ishanoshada/SecurityInspector](https://github.com/Ishanoshada/SecurityInspector) | Android RASP & environment inspection toolkit in Kotlin + Jetpack Compose. Detects Frida, root, LSPo | ⭐1 |
+| [juren233/HyperLyrics-Enhanced](https://github.com/juren233/HyperLyrics-Enhanced) | 为小米 HyperOS 设备打造的超级岛/息屏歌词显示 Lsposed 模块，也提供安卓通用的 Apple Music 体验优化。| An LSPosed module that provides H | ⭐74 |
+| [shitianyaa/FriendlySchool](https://github.com/shitianyaa/FriendlySchool) | FriendlySchool — LSPosed module for ad removal and privacy protection in YiCampus, WakeUp and JMComi | ⭐2 |
 ### 📰 行业动态
 
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-10-03
 
