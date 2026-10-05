@@ -14,6 +14,11 @@
 | [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐374 |
 | [EXLOUD/Render-Switcher](https://github.com/EXLOUD/Render-Switcher) | Per-app HWUI renderer switcher (Vulkan / OpenGL) for Android. Magisk, KernelSU and APatch module wit | ⭐5 |
 | [yapixel/gboard-termux-ime](https://github.com/yapixel/gboard-termux-ime) | LSPosed Gboard compatibility module for Chinese input in Termux | ⭐1 |
+| [mortis-zhy/damai-mcp](https://github.com/mortis-zhy/damai-mcp) | Android UI 自动化 MCP server，专为大麦/猫眼/飞猪抢票设计。详见 docs/POSTMORTEM.md | ⭐7 |
+| [zokieer/Facebook-SSL-Pinning-Bypass](https://github.com/zokieer/Facebook-SSL-Pinning-Bypass) | 基于 Frida 的 Facebook SSL Pinning 绕过脚本 | ⭐6 |
+| [L0NE-6/Magisk-DeviceSpoofer](https://github.com/L0NE-6/Magisk-DeviceSpoofer) | 全机型机型伪装 Magisk 模块合集，3548 机型 / 26 品牌，Android 1-17 适配，每日同步上游数据 | ⭐3 |
+| [manishyze/Aegis-APK-Hardener](https://github.com/manishyze/Aegis-APK-Hardener) | AI 驱动的 APK 安全加固与自动 patch 引擎，审计应用、脱壳、加固 | ⭐1 |
+| [WillieChan2015/damai-mcp-ts](https://github.com/WillieChan2015/damai-mcp-ts) | 大麦抢票 Android 模拟器 MCP，damai-mcp 的 TypeScript 移植版 | ⭐0 |
 ### 📰 行业动态
 
 - Wireshark 4.4 新增 QUIC 协议深度解析
