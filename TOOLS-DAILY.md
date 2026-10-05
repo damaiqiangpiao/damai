@@ -11,22 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐374 |
-| [EXLOUD/Render-Switcher](https://github.com/EXLOUD/Render-Switcher) | Per-app HWUI renderer switcher (Vulkan / OpenGL) for Android. Magisk, KernelSU and APatch module wit | ⭐5 |
-| [yapixel/gboard-termux-ime](https://github.com/yapixel/gboard-termux-ime) | LSPosed Gboard compatibility module for Chinese input in Termux | ⭐1 |
-| [mortis-zhy/damai-mcp](https://github.com/mortis-zhy/damai-mcp) | Android UI 自动化 MCP server，专为大麦/猫眼/飞猪抢票设计。详见 docs/POSTMORTEM.md | ⭐7 |
-| [zokieer/Facebook-SSL-Pinning-Bypass](https://github.com/zokieer/Facebook-SSL-Pinning-Bypass) | 基于 Frida 的 Facebook SSL Pinning 绕过脚本 | ⭐6 |
-| [L0NE-6/Magisk-DeviceSpoofer](https://github.com/L0NE-6/Magisk-DeviceSpoofer) | 全机型机型伪装 Magisk 模块合集，3548 机型 / 26 品牌，Android 1-17 适配，每日同步上游数据 | ⭐3 |
-| [manishyze/Aegis-APK-Hardener](https://github.com/manishyze/Aegis-APK-Hardener) | AI 驱动的 APK 安全加固与自动 patch 引擎，审计应用、脱壳、加固 | ⭐1 |
-| [WillieChan2015/damai-mcp-ts](https://github.com/WillieChan2015/damai-mcp-ts) | 大麦抢票 Android 模拟器 MCP，damai-mcp 的 TypeScript 移植版 | ⭐0 |
+| [juren233/HyperLyrics-Enhanced](https://github.com/juren233/HyperLyrics-Enhanced) | 为小米 HyperOS 设备打造的超级岛/息屏歌词显示 Lsposed 模块，也提供安卓通用的 Apple Music 体验优化。| An LSPosed module that provides H | ⭐76 |
 ### 📰 行业动态
 
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- jadx 1.5 发布，反编译速度提升40%
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-10-04
 
