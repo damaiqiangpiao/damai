@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-04
+> 最后更新：2026-10-05
 
 ---
+
+## 2026-10-05
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐374 |
+| [EXLOUD/Render-Switcher](https://github.com/EXLOUD/Render-Switcher) | Per-app HWUI renderer switcher (Vulkan / OpenGL) for Android. Magisk, KernelSU and APatch module wit | ⭐5 |
+| [yapixel/gboard-termux-ime](https://github.com/yapixel/gboard-termux-ime) | LSPosed Gboard compatibility module for Chinese input in Termux | ⭐1 |
+### 📰 行业动态
+
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- jadx 1.5 发布，反编译速度提升40%
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+### 💡 今日 Tips
+
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-10-04
 
