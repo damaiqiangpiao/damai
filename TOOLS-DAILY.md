@@ -11,15 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [juren233/HyperLyrics-Enhanced](https://github.com/juren233/HyperLyrics-Enhanced) | 为小米 HyperOS 设备打造的超级岛/息屏歌词显示 Lsposed 模块，也提供安卓通用的 Apple Music 体验优化。| An LSPosed module that provides H | ⭐76 |
+| [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder) | An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly. | ⭐280 |
+| [hxreborn/discover-ads-filter](https://github.com/hxreborn/discover-ads-filter) | Xposed module that removes ads, sponsored cards and clickbait from Google Discover. | ⭐47 |
+| [bmjubairdadu/kernel-loader](https://github.com/bmjubairdadu/kernel-loader) | Universal Android kernel module (.ko) loader - any device, any model, old & new kernels. Root (Magis | ⭐1 |
 ### 📰 行业动态
 
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- r0env 逆向环境更新至 v3.0，预装更多工具
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-10-04
 
