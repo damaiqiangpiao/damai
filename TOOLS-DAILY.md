@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-05
+> 最后更新：2026-10-06
 
 ---
+
+## 2026-10-06
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [sowmiksudo/n0proxy](https://github.com/sowmiksudo/n0proxy) | No-Proxy Traffic Analyzer: Inspect network traffic from any Android app without configuring Wi-Fi pr | ⭐14 |
+### 📰 行业动态
+
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+### 💡 今日 Tips
+
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-10-05
 
