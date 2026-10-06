@@ -11,15 +11,18 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [sowmiksudo/n0proxy](https://github.com/sowmiksudo/n0proxy) | No-Proxy Traffic Analyzer: Inspect network traffic from any Android app without configuring Wi-Fi pr | ⭐14 |
+| [wzxwhxcz/LSPFRIDA](https://github.com/wzxwhxcz/LSPFRIDA) | 在 App 内直接跑 Frida 脚本 —— 不用 frida-server，不用连电脑。内置 GumJS 引擎 + LSPlant Hook，手机端完成脚本编写/注入/调试全流程。 | ⭐8 |
+| [EXLOUD/Render-Switcher](https://github.com/EXLOUD/Render-Switcher) | Per-app HWUI renderer switcher (Vulkan / OpenGL) for Android. Magisk, KernelSU and APatch module wit | ⭐6 |
+| [RandGor/wearengine-bridge](https://github.com/RandGor/wearengine-bridge) | LSPosed/Vector module enabling Huawei WearEngine devicemanager access for custom-signed applications | ⭐1 |
+| [saadnahid7/SmaliPatcherReborn](https://github.com/saadnahid7/SmaliPatcherReborn) | On-device Magisk/KernelSU/APatch module + desktop app that patches services.jar for Android 10-17 (m | ⭐1 |
 ### 📰 行业动态
 
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-10-05
 
