@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [shitianyaa/FriendlySchool](https://github.com/shitianyaa/FriendlySchool) | FriendlySchool — LSPosed module for ad removal and privacy protection in YiCampus, WakeUp and JMComi | ⭐5 |
-| [Linoleic/MultiRoute](https://github.com/Linoleic/MultiRoute) | An LSPosed module that gives every app its own network channel. Assign each app to the link it shoul | ⭐1 |
-| [shitianyaa/PixelSuite-VolumeSteps](https://github.com/shitianyaa/PixelSuite-VolumeSteps) | KernelSU module: more (finer) media volume steps on Android. Companion to the Pixel Suite LSPosed mo | ⭐1 |
+| [WaEnhancerX/WaEnhancerX](https://github.com/WaEnhancerX/WaEnhancerX) | An advanced, open-source LSPosed module for WhatsApp. Features UI customization, aggressive Anti-Met | ⭐17 |
+| [wzxwhxcz/LSPFRIDA](https://github.com/wzxwhxcz/LSPFRIDA) | 在 App 内直接跑 Frida 脚本 —— 不用 frida-server，不用连电脑。内置 GumJS 引擎 + LSPlant Hook，手机端完成脚本编写/注入/调试全流程。 | ⭐8 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
 - 纷玩岛App新增回流票监控功能，余票提醒更及时
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- jadx 1.5 发布，反编译速度提升40%
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-10-06
 
