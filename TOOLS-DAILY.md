@@ -11,15 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [wzxwhxcz/LSPFRIDA](https://github.com/wzxwhxcz/LSPFRIDA) | 在 App 内直接跑 Frida 脚本 —— 不用 frida-server，不用连电脑。内置 GumJS 引擎 + LSPlant Hook，手机端完成脚本编写/注入/调试全流程。 | ⭐8 |
+| [shitianyaa/FriendlySchool](https://github.com/shitianyaa/FriendlySchool) | FriendlySchool — LSPosed module for ad removal and privacy protection in YiCampus, WakeUp and JMComi | ⭐5 |
+| [Linoleic/MultiRoute](https://github.com/Linoleic/MultiRoute) | An LSPosed module that gives every app its own network channel. Assign each app to the link it shoul | ⭐1 |
+| [shitianyaa/PixelSuite-VolumeSteps](https://github.com/shitianyaa/PixelSuite-VolumeSteps) | KernelSU module: more (finer) media volume steps on Android. Companion to the Pixel Suite LSPosed mo | ⭐1 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 - Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-10-06
 
