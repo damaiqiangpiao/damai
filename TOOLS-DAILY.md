@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- jadx 1.5 发布，反编译速度提升40%
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-10-07
 
