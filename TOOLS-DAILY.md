@@ -7,19 +7,11 @@
 
 ## 2026-10-08
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [m4mental/gboard-RGB-studio](https://github.com/m4mental/gboard-RGB-studio) | Gboard RGB Studio is an advanced LSPosed module and real-time companion control app that injects dyn | ⭐2 |
-| [ifoknr/NextSUSFS](https://github.com/ifoknr/NextSUSFS) | Kernel-level root hiding with SuSFS for the NEXT stack (NextWheel + NextZygisk). KernelSU module wit | ⭐2 |
-| [HyotmakFin/AppRotation](https://github.com/HyotmakFin/AppRotation) | An LSPosed module that locks the screen orientation of selected apps per-app. | ⭐1 |
-| [Victorious93/rootforge-os](https://github.com/Victorious93/rootforge-os) | RootForge OS: A hardened Debian-based distro for Android root module development (Magisk, KernelSU). | ⭐1 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- 票星球上线预约抢票机制，提前锁定抢票资格
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
 ### 💡 今日 Tips
 
 > 同一 WiFi 下多设备抢同一场次会被识别为群控
