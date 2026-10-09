@@ -7,19 +7,14 @@
 
 ## 2026-10-09
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [kyarameru0/KanadeDX-Oniimai](https://github.com/kyarameru0/KanadeDX-Oniimai) | LSPosed API 102 module for KanadeDX and Oniimai controllers | AI-generated code | ⭐4 |
 ### 📰 行业动态
 
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-10-08
 
