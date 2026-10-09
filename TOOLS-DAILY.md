@@ -11,16 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Lumince/Quest-UX-Patcher](https://github.com/Lumince/Quest-UX-Patcher) | Lsposed/Vector module for patching UI | ⭐5 |
-| [yingjfd/MagicOriG](https://github.com/yingjfd/MagicOriG) | LSPosed module for NickHCK YuanDao OriG in earbuds on MagicOS | ⭐1 |
+| [kyarameru0/KanadeDX-Oniimai](https://github.com/kyarameru0/KanadeDX-Oniimai) | LSPosed API 102 module for KanadeDX and Oniimai controllers | AI-generated code | ⭐4 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
 - IDA Pro 9.0 新增 AI 辅助反编译功能
-- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-10-08
 
