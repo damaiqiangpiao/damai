@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-08
+> 最后更新：2026-10-09
 
 ---
+
+## 2026-10-09
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Lumince/Quest-UX-Patcher](https://github.com/Lumince/Quest-UX-Patcher) | Lsposed/Vector module for patching UI | ⭐5 |
+| [yingjfd/MagicOriG](https://github.com/yingjfd/MagicOriG) | LSPosed module for NickHCK YuanDao OriG in earbuds on MagicOS | ⭐1 |
+### 📰 行业动态
+
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- r0env 逆向环境更新至 v3.0，预装更多工具
+### 💡 今日 Tips
+
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-10-08
 
