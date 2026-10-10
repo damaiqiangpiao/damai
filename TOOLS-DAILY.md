@@ -11,16 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Shikochin/Droidspaces-LKM](https://github.com/Shikochin/Droidspaces-LKM) | Target-specific PID and IPC namespace kernel module for Droidspaces, with KernelSU boot loading. | ⭐2 |
-| [qianyumeng0228/ShizuSU-Xposed](https://github.com/qianyumeng0228/ShizuSU-Xposed) | LSPosed module repository mirror for ShizuSU manager | ⭐1 |
+| [adaozi/HomeMode4Miui](https://github.com/adaozi/HomeMode4Miui) | LSPosed module: adds a fourth native launcher mode to com.miui.home (HyperOS) with GraceLauncher (Ko | ⭐1 |
+| [Vstory/NotifyGuard](https://github.com/Vstory/NotifyGuard) | LSPosed module: block unwanted notifications before they are enqueued (ColorOS system_server) | ⭐1 |
+| [SukiSU-Community/modules-repo](https://github.com/SukiSU-Community/modules-repo) | 社区共建的 KernelSU / SukiSU 模块索引（MMRL 格式） | ⭐1 |
 ### 📰 行业动态
 
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- r0env 逆向环境更新至 v3.0，预装更多工具
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Wireshark 4.4 新增 QUIC 协议深度解析
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-10-09
 
