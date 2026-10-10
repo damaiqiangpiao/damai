@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-09
+> 最后更新：2026-10-10
 
 ---
+
+## 2026-10-10
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Drsexo/Frosty](https://github.com/Drsexo/Frosty) | Advanced Magisk/KSU/APatch module to enhance battery saving and stop Google services drain. | ⭐251 |
+| [yingjfd/MagicOriG](https://github.com/yingjfd/MagicOriG) | LSPosed module for NickHCK YuanDao OriG in earbuds on MagicOS | ⭐1 |
+### 📰 行业动态
+
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+### 💡 今日 Tips
+
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-10-09
 
