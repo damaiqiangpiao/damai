@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Drsexo/Frosty](https://github.com/Drsexo/Frosty) | Advanced Magisk/KSU/APatch module to enhance battery saving and stop Google services drain. | ⭐251 |
-| [yingjfd/MagicOriG](https://github.com/yingjfd/MagicOriG) | LSPosed module for NickHCK YuanDao OriG in earbuds on MagicOS | ⭐1 |
+| [Shikochin/Droidspaces-LKM](https://github.com/Shikochin/Droidspaces-LKM) | Target-specific PID and IPC namespace kernel module for Droidspaces, with KernelSU boot loading. | ⭐2 |
+| [qianyumeng0228/ShizuSU-Xposed](https://github.com/qianyumeng0228/ShizuSU-Xposed) | LSPosed module repository mirror for ShizuSU manager | ⭐1 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-10-09
 
