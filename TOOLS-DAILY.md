@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-10
+> 最后更新：2026-10-11
 
 ---
+
+## 2026-10-11
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Ascen1ty/oslokrok](https://github.com/Ascen1ty/oslokrok) | A Vector/LSPosed module used to bypass PayPal's new root-detection. | ⭐15 |
+| [xUmutKx/BlackOut](https://github.com/xUmutKx/BlackOut) | Turn the grey surfaces of your apps into pure AMOLED black: root, accessibility layer or LSPosed mod | ⭐2 |
+### 📰 行业动态
+
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- r0env 逆向环境更新至 v3.0，预装更多工具
+### 💡 今日 Tips
+
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-10-10
 
