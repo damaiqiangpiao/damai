@@ -11,18 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [realdtn2/xiaomi-unlocking-rooting-guide](https://github.com/realdtn2/xiaomi-unlocking-rooting-guide) | Guide on Bootloader Unlock and Root for Xiaomi devices (HyperOS / HyperOS 2.0 / HyperOS 3.0) (Non-Ma | ⭐181 |
-| [ifoknr/NextSUSFS](https://github.com/ifoknr/NextSUSFS) | Kernel-level root hiding with SuSFS for the NEXT stack (NextWheel + NextZygisk). KernelSU module wit | ⭐3 |
-| [582856/DpinWindow](https://github.com/582856/DpinWindow) | Xiaomi tablet DP-in window preview and modern LSPosed module. | ⭐1 |
-| [aiyun0703/wekit-floating-titlebar-fix](https://github.com/aiyun0703/wekit-floating-titlebar-fix) | WeKit 修复悬浮标题栏：悬浮标题栏/悬浮输入框 bug 修复修改手册（原版→v3fix4） | ⭐1 |
+| [4uva4ek/galaxyxr-modules](https://github.com/4uva4ek/galaxyxr-modules) | Controller tracking and haptic fixes for Samsung Galaxy XR: whitening, timestamp precision, OpenXR v | ⭐1 |
 ### 📰 行业动态
 
-- jadx 1.5 发布，反编译速度提升40%
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Wireshark 4.4 新增 QUIC 协议深度解析
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-10-11
 
