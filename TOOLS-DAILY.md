@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-11
+> 最后更新：2026-10-12
 
 ---
+
+## 2026-10-12
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [realdtn2/xiaomi-unlocking-rooting-guide](https://github.com/realdtn2/xiaomi-unlocking-rooting-guide) | Guide on Bootloader Unlock and Root for Xiaomi devices (HyperOS / HyperOS 2.0 / HyperOS 3.0) (Non-Ma | ⭐181 |
+| [Lumince/Quest-UX-Patcher](https://github.com/Lumince/Quest-UX-Patcher) | Lsposed/Vector module for patching UI | ⭐5 |
+### 📰 行业动态
+
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+### 💡 今日 Tips
+
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-10-11
 
