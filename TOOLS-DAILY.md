@@ -7,20 +7,14 @@
 
 ## 2026-10-12
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [realdtn2/xiaomi-unlocking-rooting-guide](https://github.com/realdtn2/xiaomi-unlocking-rooting-guide) | Guide on Bootloader Unlock and Root for Xiaomi devices (HyperOS / HyperOS 2.0 / HyperOS 3.0) (Non-Ma | ⭐181 |
-| [Lumince/Quest-UX-Patcher](https://github.com/Lumince/Quest-UX-Patcher) | Lsposed/Vector module for patching UI | ⭐5 |
 ### 📰 行业动态
 
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-10-11
 
