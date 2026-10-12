@@ -11,19 +11,18 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [AlienWalker1995/App-Cracking](https://github.com/AlienWalker1995/App-Cracking) | Engine-agnostic Android app reverse-engineering pipeline: static, dynamic, and synthesis tiers | ⭐0 |
-| [armineyvazi/apkcheck](https://github.com/armineyvazi/apkcheck) | Smali-first Android 逆向 & 安全分诊：反编译→重打包→验证→观测，带 React UI、HTTP API、Frida hooks 与 MCP 工具 | ⭐0 |
-| [n00ner/android_debug_tool](https://github.com/n00ner/android_debug_tool) | LLM 优化的 Android JDWP/LLDB 调试器编排，整合 JADX、Apktool 与实时内存改写，AI 驱动逆向 | ⭐0 |
-| [qover12/permkeeper](https://github.com/qover12/permkeeper) | 清数据后自动恢复应用权限/通知/省电/自启动的 Zygisk 模块（Magisk/KernelSU/SukiSU），支持导出与批量恢复 | ⭐3 |
-| [Anattana-Labs/Stopify](https://github.com/Anattana-Labs/Stopify) | 逆向 Spotify Web Player 协议与 Dealer WebSocket 管道的原生 Android 客户端，免费账号直连 CDN 点播 | ⭐2 |
+| [realdtn2/xiaomi-unlocking-rooting-guide](https://github.com/realdtn2/xiaomi-unlocking-rooting-guide) | Guide on Bootloader Unlock and Root for Xiaomi devices (HyperOS / HyperOS 2.0 / HyperOS 3.0) (Non-Ma | ⭐181 |
+| [ifoknr/NextSUSFS](https://github.com/ifoknr/NextSUSFS) | Kernel-level root hiding with SuSFS for the NEXT stack (NextWheel + NextZygisk). KernelSU module wit | ⭐3 |
+| [582856/DpinWindow](https://github.com/582856/DpinWindow) | Xiaomi tablet DP-in window preview and modern LSPosed module. | ⭐1 |
+| [aiyun0703/wekit-floating-titlebar-fix](https://github.com/aiyun0703/wekit-floating-titlebar-fix) | WeKit 修复悬浮标题栏：悬浮标题栏/悬浮输入框 bug 修复修改手册（原版→v3fix4） | ⭐1 |
 ### 📰 行业动态
 
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- jadx 1.5 发布，反编译速度提升40%
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- IDA Pro 9.0 新增 AI 辅助反编译功能
 ### 💡 今日 Tips
 
-> 同一设备频繁切换账号会触发风控，建议一机一号
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-10-11
 
