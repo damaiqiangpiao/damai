@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 - Frida 16.5 发布，Gadget 模式稳定性提升
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> Android 15 对无障碍服务限制更严，自动点击方案需适配
 
 ## 2026-10-12
 
