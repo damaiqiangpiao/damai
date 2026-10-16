@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-10-15
 
