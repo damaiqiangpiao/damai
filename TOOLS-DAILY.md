@@ -7,24 +7,14 @@
 
 ## 2026-10-19
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [ReSo7200/molt-dex](https://github.com/ReSo7200/molt-dex) | Android 逆向 & 魔改技能集：apktool、adb、scrcpy、DexKit 与 Xposed API，围绕壳脱壳/OLLVM 还原组织 | ⭐20 |
-| [muhammadrizwan87/frida-hook-engine](https://github.com/muhammadrizwan87/frida-hook-engine) | 配置驱动的 Frida 插桩引擎，面向 Android 安全研究与逆向，零脚本编写 | ⭐7 |
-| [hasharmujahid/glasswing](https://github.com/hasharmujahid/glasswing) | 看穿 Flutter 的 TLS：静态 patch libflutter.so + Frida，绕过 BoringSSL SSL Pinning | ⭐6 |
-| [nitayart/jeeves](https://github.com/nitayart/jeeves) | 基于自有 JEB 的 Android 逆向工作台：反编译、xref、Frida 运行、流程图 | ⭐2 |
-| [TimeCyber/DexAndroid](https://github.com/TimeCyber/DexAndroid) | Android 逆向 MCP Server：与 Cursor/Codex 一键联动，加固壳脱壳 + 反编译 | ⭐1 |
-
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- 票星球上线预约抢票机制，提前锁定抢票资格
+- jadx 1.5 发布，反编译速度提升40%
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-10-18
 
