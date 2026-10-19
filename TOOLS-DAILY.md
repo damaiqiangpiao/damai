@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- jadx 1.5 发布，反编译速度提升40%
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> Android 15 对无障碍服务限制更严，自动点击方案需适配
 
 ## 2026-10-18
 
