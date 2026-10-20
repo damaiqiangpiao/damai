@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- Wireshark 4.4 新增 QUIC 协议深度解析
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- jadx 1.5 发布，反编译速度提升40%
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-10-19
 
