@@ -7,14 +7,23 @@
 
 ## 2026-10-20
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [K3V1991/Passing-SafetyNet-with-Magisk-Zygisk-and-DenyList](https://github.com/K3V1991/Passing-SafetyNet-with-Magisk-Zygisk-and-DenyList) | Passing SafetyNet with Magisk's Zygisk and DenyList | ⭐136 |
+| [K3V1991/How-to-fix-Netflix-Error-15001](https://github.com/K3V1991/How-to-fix-Netflix-Error-15001) | How to fix Netflix Error 15001 on Magisk rooted Phones | ⭐20 |
+| [hasharmujahid/glasswing](https://github.com/hasharmujahid/glasswing) | 🦋 Glasswing — See through Flutter's TLS. Bypass BoringSSL SSL pinning on Android: static libflutter. | ⭐17 |
+| [muhammadrizwan87/frida-hook-engine](https://github.com/muhammadrizwan87/frida-hook-engine) | Config-driven Frida instrumentation engine for Android security researchers and reverse engineers. Z | ⭐13 |
+| [sw1313/rk3588-playback-fix](https://github.com/sw1313/rk3588-playback-fix) | RK3588 播放、显示与游戏图形的可回退升级：Codec2/MPP、AFBC、十位 HDR、帧率匹配/QMS、Mali GPU/KMD/CSF 与播放器修复。Firmware-pinned Andr | ⭐1 |
 ### 📰 行业动态
 
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- jadx 1.5 发布，反编译速度提升40%
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-10-19
 
