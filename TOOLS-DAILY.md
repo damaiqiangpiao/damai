@@ -7,14 +7,20 @@
 
 ## 2026-10-21
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [juren233/HyperLyrics-Enhanced](https://github.com/juren233/HyperLyrics-Enhanced) | 为小米 HyperOS 设备打造的超级岛/息屏歌词显示 Lsposed 模块，也提供安卓通用的 Apple Music 体验优化。| An LSPosed module that provides H | ⭐93 |
+| [pavelc4/auriya](https://github.com/pavelc4/auriya) | Yet another universal Magisk/KSU module. This repository experimental project. | ⭐30 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-10-20
 
