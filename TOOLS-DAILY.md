@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-10-20
 
