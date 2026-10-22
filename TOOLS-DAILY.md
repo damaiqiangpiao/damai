@@ -7,23 +7,14 @@
 
 ## 2026-10-22
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [YuleBest/workbuddy2api-magisk](https://github.com/YuleBest/workbuddy2api-magisk) | WorkBuddy2API KernelSU module for Android arm64-v8a | ⭐3 |
-| [sampple-korea/dynamicisland](https://github.com/sampple-korea/dynamicisland) | A Dynamic Island for Samsung One UI (LSPosed module) | ⭐2 |
-| [nisu123f/HonorDuoBar](https://github.com/nisu123f/HonorDuoBar) | Honor Duo Bar - LSPosed module: merge Wi-Fi / mobile signal / battery into one status-bar glyph | ⭐2 |
-| [qianyumeng0228/ShizuSU-Xposed](https://github.com/qianyumeng0228/ShizuSU-Xposed) | LSPosed module repository mirror for ShizuSU manager | ⭐2 |
-| [TheWildJames/Wild_Tailscale](https://github.com/TheWildJames/Wild_Tailscale) | Magisk/KernelSU module for running Tailscale on rooted Android devices (fork of anasfanani/Magisk-Ta | ⭐1 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
 - Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-10-21
 
