@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [fixz232/Pseudo-SterSU](https://github.com/fixz232/Pseudo-SterSU) | SterSU 备用源码｜Unofficial KernelSU-based Android root solution for GKI/LKM, with app authorization, mod | ⭐3 |
-| [qianyumeng0228/ShizuSU-Xposed](https://github.com/qianyumeng0228/ShizuSU-Xposed) | LSPosed module repository mirror for ShizuSU manager | ⭐2 |
-| [Sharl210/AntiHookBypass](https://github.com/Sharl210/AntiHookBypass) | Android LSPosed module that conceals hook/injection traces at the runtime view layer — ART structure | ⭐1 |
+| [FaaRamadhann/Faa-YDL](https://github.com/FaaRamadhann/Faa-YDL) | Download MP3 & MP4 dari YouTube + scan QR. Web UI Termux, APK standalone, modul Magisk/KernelSU/APat | ⭐5 |
+| [nisu123f/HonorDuoBar](https://github.com/nisu123f/HonorDuoBar) | Honor Duo Bar - LSPosed module: merge Wi-Fi / mobile signal / battery into one status-bar glyph | ⭐3 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-10-22
 
