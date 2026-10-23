@@ -11,19 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐380 |
-| [rushiranpise/lsposed-modules-manager](https://github.com/rushiranpise/lsposed-modules-manager) | An Android client for the Xposed modules | ⭐8 |
-| [Artifical0/InstallerX-Revived-AOSP-Module](https://github.com/Artifical0/InstallerX-Revived-AOSP-Module) | Auto-synced Magisk/KernelSU module: InstallerX Revived as system PackageInstaller (AOSP layout) | ⭐8 |
-| [sampple-korea/dynamicisland](https://github.com/sampple-korea/dynamicisland) | A Dynamic Island for Samsung One UI (LSPosed module) | ⭐3 |
-| [ArduinoQuack/MetroBridge](https://github.com/ArduinoQuack/MetroBridge) | Gemini voice control for MetroList: local playlists, shuffle, queue-preserving Play next and native  | ⭐1 |
+| [fixz232/Pseudo-SterSU](https://github.com/fixz232/Pseudo-SterSU) | SterSU 备用源码｜Unofficial KernelSU-based Android root solution for GKI/LKM, with app authorization, mod | ⭐3 |
+| [qianyumeng0228/ShizuSU-Xposed](https://github.com/qianyumeng0228/ShizuSU-Xposed) | LSPosed module repository mirror for ShizuSU manager | ⭐2 |
+| [Sharl210/AntiHookBypass](https://github.com/Sharl210/AntiHookBypass) | Android LSPosed module that conceals hook/injection traces at the runtime view layer — ART structure | ⭐1 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- IDA Pro 9.0 新增 AI 辅助反编译功能
 - 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 ### 💡 今日 Tips
 
-> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-10-22
 
