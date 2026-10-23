@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-22
+> 最后更新：2026-10-23
 
 ---
+
+## 2026-10-23
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐380 |
+| [rushiranpise/lsposed-modules-manager](https://github.com/rushiranpise/lsposed-modules-manager) | An Android client for the Xposed modules | ⭐8 |
+| [Artifical0/InstallerX-Revived-AOSP-Module](https://github.com/Artifical0/InstallerX-Revived-AOSP-Module) | Auto-synced Magisk/KernelSU module: InstallerX Revived as system PackageInstaller (AOSP layout) | ⭐8 |
+| [sampple-korea/dynamicisland](https://github.com/sampple-korea/dynamicisland) | A Dynamic Island for Samsung One UI (LSPosed module) | ⭐3 |
+| [ArduinoQuack/MetroBridge](https://github.com/ArduinoQuack/MetroBridge) | Gemini voice control for MetroList: local playlists, shuffle, queue-preserving Play next and native  | ⭐1 |
+### 📰 行业动态
+
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+### 💡 今日 Tips
+
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-10-22
 
