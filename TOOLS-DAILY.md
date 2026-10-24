@@ -7,14 +7,21 @@
 
 ## 2026-10-24
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [sampple-korea/dynamicisland](https://github.com/sampple-korea/dynamicisland) | A Dynamic Island for Samsung One UI (LSPosed module) | ⭐9 |
+| [mrmtwoj/android-frida-bypass-suite](https://github.com/mrmtwoj/android-frida-bypass-suite) | Frida script for Android penetration testing: bypass root detection (Java + native libc), spoof SSL  | ⭐1 |
+| [Sharl210/AntiHookBypass](https://github.com/Sharl210/AntiHookBypass) | Android LSPosed module that conceals hook/injection traces at the runtime view layer — ART structure | ⭐1 |
 ### 📰 行业动态
 
-- jadx 1.5 发布，反编译速度提升40%
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-10-23
 
