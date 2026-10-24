@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-23
+> 最后更新：2026-10-24
 
 ---
+
+## 2026-10-24
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐381 |
+| [YeFeng233/lsp-majsoul-unlock](https://github.com/YeFeng233/lsp-majsoul-unlock) | MajsoulMax Android LSPosed / Xposed hook module | ⭐2 |
+| [mrmtwoj/android-frida-bypass-suite](https://github.com/mrmtwoj/android-frida-bypass-suite) | Frida script for Android penetration testing: bypass root detection (Java + native libc), spoof SSL  | ⭐1 |
+| [TheWildJames/Wild_Tailscale](https://github.com/TheWildJames/Wild_Tailscale) | Magisk/KernelSU module for running Tailscale on rooted Android devices (fork of anasfanani/Magisk-Ta | ⭐1 |
+### 📰 行业动态
+
+- jadx 1.5 发布，反编译速度提升40%
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Frida 16.5 发布，Gadget 模式稳定性提升
+### 💡 今日 Tips
+
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-10-23
 
