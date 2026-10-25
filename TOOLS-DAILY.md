@@ -7,22 +7,14 @@
 
 ## 2026-10-25
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [22cms/sing-for-android](https://github.com/22cms/sing-for-android) | An LSPosed module implementing real-time stem separation in Apple Music for Android.  inspired by Ap | ⭐17 |
-| [tophtab/lsp-store](https://github.com/tophtab/lsp-store) | LSPosed 模块的更新与浏览工具 · An updater and browser for LSPosed modules | ⭐9 |
-| [Lumince/Quest-UX-Patcher](https://github.com/Lumince/Quest-UX-Patcher) | Lsposed/Vector module for patching UI | ⭐6 |
-| [582856/DpinWindow](https://github.com/582856/DpinWindow) | Xiaomi tablet DP-in window preview and modern LSPosed module. | ⭐4 |
 ### 📰 行业动态
 
 - Frida 16.5 发布，Gadget 模式稳定性提升
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- jadx 1.5 发布，反编译速度提升40%
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-10-24
 
