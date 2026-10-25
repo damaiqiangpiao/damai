@@ -7,14 +7,22 @@
 
 ## 2026-10-25
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [fynks/awesome-temporary-root](https://github.com/fynks/awesome-temporary-root) | Temporary root on a locked Android bootloader - curated loaders, devices, and modules for DirtyFrag  | ⭐2 |
+| [Jakliuyuy/AndroidEnvironmentDetector](https://github.com/Jakliuyuy/AndroidEnvironmentDetector) | Android 深度环境安全检测工具 (Android Environment & Security Detector)，具备 Bootloader、Root (Magisk/KernelSU/APa | ⭐1 |
+| [SampleBlazkness/UidHide](https://github.com/SampleBlazkness/UidHide) | LSPosed 模块：按 HMA-OSS 的隐藏关系拦截 system_server 的 UID→包名反查。LSPosed module hiding UID→package lookups in s | ⭐1 |
+| [ylx9000/PianoMax](https://github.com/ylx9000/PianoMax) | Xiaomi Pad 8 Pro (piano / SM8750P) frequency scaling module for KernelSU, with a first-party WebUI. | ⭐1 |
 ### 📰 行业动态
 
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 - jadx 1.5 发布，反编译速度提升40%
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-10-24
 
