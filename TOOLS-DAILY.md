@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Dr-Essence/Nothing-Launcher-Plus](https://github.com/Dr-Essence/Nothing-Launcher-Plus) | LSPosed/Xposed module for Nothing Launcher (Nothing Phone, Nothing OS): custom app drawer folders, a | ⭐1 |
+| [RipperHybrid/AshLooper](https://github.com/RipperHybrid/AshLooper) | A module designed to prevent boot loops caused by problematic modules installed via KernelSU or Magi | ⭐210 |
+| [aksb/CallerID_Module](https://github.com/aksb/CallerID_Module) | 这是一个来电悬浮窗/骚扰电话标识/归属地查询/骚扰拦截功能的的LSPosed模块 | ⭐6 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- 纷玩岛App新增回流票监控功能，余票提醒更及时
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-10-25
 
