@@ -11,27 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [nanashili/rea-rust](https://github.com/nanashili/rea-rust) | Rust 移植的 REA：本地逆向工具，CLI/MCP 工作流 + 原生 Ghidra worker | ⭐65 |
-| [Wtrwx/vesper](https://github.com/Wtrwx/vesper) | iOS 逆向工程平台：MCP 工具 + agent skills，运行时检查/自动化/解密/调试/tweak 开发 | ⭐57 |
-| [samalyxx/appunpack](https://github.com/samalyxx/appunpack) | 本地 Android APK 反编译 CLI：JADX 还原 Java/资源，支持 split 分析，MCP 接入 AI agent | ⭐4 |
-| [antiyro/ukeystore](https://github.com/antiyro/ukeystore) | 原生 Android attestation 实现，内置于 Keystore2（Rust+C++），无需 Magisk/注入/外部模块 | ⭐2 |
-| [RPX4/android-so-reverse-engineering-tool](https://github.com/RPX4/android-so-reverse-engineering-tool) | .so 逆向工具包：双引擎字符串提取（radare2+纯 Python）、全/分段反汇编，Termux 可用 | ⭐1 |
-| [devilscrapes/luma-event-scraper-python](https://github.com/devilscrapes/luma-event-scraper-python) | Luma 活动票务爬虫：抓取 lu.ma 场次/分类页，输出含票价、时间、地点、人数的 pandas 数据 | ⭐0 |
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐381 |
-| [22cms/sing-for-android](https://github.com/22cms/sing-for-android) | An LSPosed module implementing real-time stem separation in Apple Music for Android.  inspired by Ap | ⭐16 |
-| [ylh440104/KernelSU-Tuner](https://github.com/ylh440104/KernelSU-Tuner) | Kernel-level tuning module for KernelSU: performance profiles, adaptive switching, charge limiting,  | ⭐9 |
-| [V0idream/DreamGlass](https://github.com/V0idream/DreamGlass) | DreamGlass for ColorOS 17: configurable liquid glass LSPosed module, API 37 capture support and on-d | ⭐2 |
-| [TheWildJames/Wild_Tailscale](https://github.com/TheWildJames/Wild_Tailscale) | Magisk/KernelSU module for running Tailscale on rooted Android devices (fork of anasfanani/Magisk-Ta | ⭐1 |
+| [Dr-Essence/Nothing-Launcher-Plus](https://github.com/Dr-Essence/Nothing-Launcher-Plus) | LSPosed/Xposed module for Nothing Launcher (Nothing Phone, Nothing OS): custom app drawer folders, a | ⭐1 |
 ### 📰 行业动态
 
-- REA 逆向工具持续升温，已有 Rust 移植版本，配合 MCP 可挂 AI agent 自动化逆向
-- 移动端逆向工具全面拥抱 MCP 协议，apk/ipa 反编译开始接入 AI 工作流
-- 麦当劳 MCP 创意开发大赛刷屏 GitHub Trending，官方 API 开放催生一批 MCP 应用
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
 - 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
-> 逆向工具开始内建 MCP，接 Claude/本地大模型能自动定位关键函数，比手动 Frida 快一个量级
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-10-25
 
