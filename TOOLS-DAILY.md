@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-25
+> 最后更新：2026-10-26
 
 ---
+
+## 2026-10-26
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐381 |
+| [22cms/sing-for-android](https://github.com/22cms/sing-for-android) | An LSPosed module implementing real-time stem separation in Apple Music for Android.  inspired by Ap | ⭐16 |
+| [ylh440104/KernelSU-Tuner](https://github.com/ylh440104/KernelSU-Tuner) | Kernel-level tuning module for KernelSU: performance profiles, adaptive switching, charge limiting,  | ⭐9 |
+| [V0idream/DreamGlass](https://github.com/V0idream/DreamGlass) | DreamGlass for ColorOS 17: configurable liquid glass LSPosed module, API 37 capture support and on-d | ⭐2 |
+| [TheWildJames/Wild_Tailscale](https://github.com/TheWildJames/Wild_Tailscale) | Magisk/KernelSU module for running Tailscale on rooted Android devices (fork of anasfanani/Magisk-Ta | ⭐1 |
+### 📰 行业动态
+
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+### 💡 今日 Tips
+
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-10-25
 
