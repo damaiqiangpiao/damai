@@ -7,21 +7,14 @@
 
 ## 2026-10-27
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [MSEDGE-CORE/GhostLock-HonorFne](https://github.com/MSEDGE-CORE/GhostLock-HonorFne) | Honor 70 (FNE-AN00) privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module lo | ⭐8 |
-| [Ralsei1337/dsha-island](https://github.com/Ralsei1337/dsha-island) | HyperOS 4 Super Island for DSHA — LSPosed module + no-root Lite companion | ⭐2 |
-| [Dr-Essence/Nothing-Launcher-Plus](https://github.com/Dr-Essence/Nothing-Launcher-Plus) | LSPosed/Xposed module for Nothing Launcher (Nothing Phone, Nothing OS): custom app drawer folders, a | ⭐1 |
 ### 📰 行业动态
 
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-10-26
 
