@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [MSEDGE-CORE/GhostLock-HonorFne](https://github.com/MSEDGE-CORE/GhostLock-HonorFne) | Honor 70 (FNE-AN00) privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module lo | ⭐8 |
-| [giuiu9527/Facet](https://github.com/giuiu9527/Facet) | LSPosed/Vector module for HyperOS 3: customize app names and icons in the launcher, recents, notific | ⭐1 |
-| [real-erm/rmx3834_GSI_fixes](https://github.com/real-erm/rmx3834_GSI_fixes) | Realme Note 50 (RMX3834 / UMS9230) GSI Hardware Fixes: VoLTE/VoWiFi, linear brightness, 90Hz, and Ma | ⭐1 |
+| [qianyumeng0228/ShizuSU-Xposed](https://github.com/qianyumeng0228/ShizuSU-Xposed) | LSPosed module repository mirror for ShizuSU manager | ⭐2 |
+| [Devola-Sun/Motorola-Tweak-Mod](https://github.com/Devola-Sun/Motorola-Tweak-Mod) | An LSPosed module for customizing and enhancing Motorola devices. | ⭐1 |
 ### 📰 行业动态
 
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- jadx 1.5 发布，反编译速度提升40%
 - 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- r0env 逆向环境更新至 v3.0，预装更多工具
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-10-27
 
