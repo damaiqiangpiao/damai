@@ -7,20 +7,14 @@
 
 ## 2026-10-28
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [qianyumeng0228/ShizuSU-Xposed](https://github.com/qianyumeng0228/ShizuSU-Xposed) | LSPosed module repository mirror for ShizuSU manager | ⭐2 |
-| [Devola-Sun/Motorola-Tweak-Mod](https://github.com/Devola-Sun/Motorola-Tweak-Mod) | An LSPosed module for customizing and enhancing Motorola devices. | ⭐1 |
 ### 📰 行业动态
 
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- jadx 1.5 发布，反编译速度提升40%
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-10-27
 
