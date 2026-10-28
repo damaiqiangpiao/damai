@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-27
+> 最后更新：2026-10-28
 
 ---
+
+## 2026-10-28
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [MSEDGE-CORE/GhostLock-HonorFne](https://github.com/MSEDGE-CORE/GhostLock-HonorFne) | Honor 70 (FNE-AN00) privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module lo | ⭐8 |
+| [giuiu9527/Facet](https://github.com/giuiu9527/Facet) | LSPosed/Vector module for HyperOS 3: customize app names and icons in the launcher, recents, notific | ⭐1 |
+| [real-erm/rmx3834_GSI_fixes](https://github.com/real-erm/rmx3834_GSI_fixes) | Realme Note 50 (RMX3834 / UMS9230) GSI Hardware Fixes: VoLTE/VoWiFi, linear brightness, 90Hz, and Ma | ⭐1 |
+### 📰 行业动态
+
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+### 💡 今日 Tips
+
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-10-27
 
