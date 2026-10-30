@@ -7,23 +7,14 @@
 
 ## 2026-10-30
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [antoniomalheirs/Sound_And_Emoji_IOS](https://github.com/antoniomalheirs/Sound_And_Emoji_IOS) | A KernelSU / KernelSU Next and Magisk-compatible module that replaces default Android system sounds  | ⭐26 |
-| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐15 |
-| [shitianyaa/FriendlySchool](https://github.com/shitianyaa/FriendlySchool) | FriendlySchool — LSPosed module for ad removal and privacy protection. | ⭐11 |
-| [Dr-Essence/Nothing-Launcher-Plus](https://github.com/Dr-Essence/Nothing-Launcher-Plus) | Experimental LSPosed/Xposed module for Nothing Launcher (Nothing Phone, Nothing OS): custom app draw | ⭐1 |
-| [EAEdward/penbridge](https://github.com/EAEdward/penbridge) | Xiaomi Focus Pen: hijack the pinch key on the pen's keyboard interface so a hold toggles the tool an | ⭐1 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-10-29
 
