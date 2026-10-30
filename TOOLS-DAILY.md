@@ -7,14 +7,22 @@
 
 ## 2026-10-30
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [VeryBaaad/ZNNext](https://github.com/VeryBaaad/ZNNext) | A from-scratch, standalone implementation of the Zygisk Next module | ⭐93 |
+| [MSEDGE-CORE/GhostLock-HonorFne](https://github.com/MSEDGE-CORE/GhostLock-HonorFne) | Honor 70 (FNE-AN00) privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module lo | ⭐8 |
+| [Dr-Essence/Nothing-Launcher-Plus](https://github.com/Dr-Essence/Nothing-Launcher-Plus) | Experimental LSPosed/Xposed module for Nothing Launcher (Nothing Phone, Nothing OS): custom app draw | ⭐1 |
+| [davnozdu/autoresponder-ksu-module](https://github.com/davnozdu/autoresponder-ksu-module) | KernelSU module wrapping the Auto SMS/Call Responder app (permissions, CALL_SCREENING role, Doze whi | ⭐1 |
 ### 📰 行业动态
 
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 - Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- Wireshark 4.4 新增 QUIC 协议深度解析
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-10-29
 
