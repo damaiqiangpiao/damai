@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-30
+> 最后更新：2026-10-31
 
 ---
+
+## 2026-10-31
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [tophtab/lsp-store](https://github.com/tophtab/lsp-store) | LSPosed 模块的更新与浏览工具 · An updater and browser for LSPosed modules | ⭐42 |
+| [kelebao/ClockSeconds](https://github.com/kelebao/ClockSeconds) | 状态栏时钟显秒 + 点击切换（LSPosed 模块）。Status bar clock seconds with tap-to-toggle (LSPosed module) | ⭐11 |
+### 📰 行业动态
+
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- jadx 1.5 发布，反编译速度提升40%
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+### 💡 今日 Tips
+
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-10-30
 
