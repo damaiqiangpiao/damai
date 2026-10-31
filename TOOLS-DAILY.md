@@ -7,11 +7,20 @@
 
 ## 2026-10-31
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [inforcqb/susfs4ksu-for-lkm](https://github.com/inforcqb/susfs4ksu-for-lkm) | SUSFS ported to a loadable kernel module (LKM) for GKI/CFI devices, loaded via KernelSU ksud | ⭐335 |
+| [hik0w/TiktokPatchXposed](https://github.com/hik0w/TiktokPatchXposed) | LSPosed module for TikTok: no ads, downloads in any quality, auto-scroll everywhere, hide elements,  | ⭐70 |
+| [areyougarou/IntaktoFT](https://github.com/areyougarou/IntaktoFT) | Free Android SDK that catches repackaged apps and Frida or hooking tools while your app runs. One li | ⭐1 |
+| [Maicy0609/HyperOS-ScreenTime-Editor](https://github.com/Maicy0609/HyperOS-ScreenTime-Editor) | HyperOS / marble screen-time editor module (Vector/LSPosed) and Root shell controller | ⭐1 |
+| [afrizz19/Statusbarlyrics](https://github.com/afrizz19/Statusbarlyrics) | LSPosed module that shows synced lyrics in the Android 16+ status bar. Works with Spotify and YouTub | ⭐1 |
 ### 📰 行业动态
 
-- 票星球上线预约抢票机制，提前锁定抢票资格
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
 > 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
