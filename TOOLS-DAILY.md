@@ -7,20 +7,14 @@
 
 ## 2026-10-31
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [tophtab/lsp-store](https://github.com/tophtab/lsp-store) | LSPosed 模块的更新与浏览工具 · An updater and browser for LSPosed modules | ⭐42 |
-| [kelebao/ClockSeconds](https://github.com/kelebao/ClockSeconds) | 状态栏时钟显秒 + 点击切换（LSPosed 模块）。Status bar clock seconds with tap-to-toggle (LSPosed module) | ⭐11 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- jadx 1.5 发布，反编译速度提升40%
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-10-30
 
