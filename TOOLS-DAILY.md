@@ -7,19 +7,14 @@
 
 ## 2026-11-01
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [callmebirri/locket-gold-lsposed](https://github.com/callmebirri/locket-gold-lsposed) | An Xposed / LSPosed module targeting the Locket application (com.locket.Locket), designed for client | ⭐1 |
 ### 📰 行业动态
 
-- jadx 1.5 发布，反编译速度提升40%
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 ### 💡 今日 Tips
 
-> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-10-31
 
