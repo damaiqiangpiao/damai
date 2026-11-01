@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-10-31
+> 最后更新：2026-11-01
 
 ---
+
+## 2026-11-01
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [tophtab/lsp-store](https://github.com/tophtab/lsp-store) | LSPosed 模块的更新与浏览工具 · An updater and browser for LSPosed modules | ⭐43 |
+| [yz8023/PureStart](https://github.com/yz8023/PureStart) | PureStart LSPosed Module-安卓应用关闭广告 | ⭐1 |
+### 📰 行业动态
+
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+### 💡 今日 Tips
+
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-10-31
 
