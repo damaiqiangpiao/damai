@@ -1,9 +1,31 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-01
+> 最后更新：2026-11-02
 
 ---
+
+## 2026-11-02
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [EmilienCourt/kernelsu-module-openeuicc](https://github.com/EmilienCourt/kernelsu-module-openeuicc) | kernelsu-module-openeuicc | ⭐16 |
+| [V0idream/DreamGlass](https://github.com/V0idream/DreamGlass) | DreamGlass for ColorOS 17: configurable liquid glass LSPosed module, API 37 capture support and on-d | ⭐5 |
+| [zemojix-0305/ticket-radar](https://github.com/zemojix-0305/ticket-radar) | 余票监控：高铁票、大麦/猫眼/摩天轮/B站/淘票票/票星球/纷玩岛，机票价格推送 | ⭐9 |
+| [briannewsboy-cell/damai](https://github.com/briannewsboy-cell/damai) | 监控大麦网演唱会开票状态，开票时发送邮件 + 微信通知（仅读取开票状态，不自动购票） | ⭐5 |
+| [lza6/CF-Bypass-Research](https://github.com/lza6/CF-Bypass-Research) | Cloudflare 反爬机制实证研究：纯协议/纯算/纯 JS 引擎/浏览器收割四条路线 A/B 实测对比（含侦察报告与复现脚本） | ⭐18 |
+| [callng/TCQT](https://github.com/callng/TCQT) | 针对 QQ 与 TIM 的多功能 Xposed(Zygisk) 模块 | ⭐289 |
+| [autorun886/ida-tracecraft](https://github.com/autorun886/ida-tracecraft) | IDA Pro 插件：生成可定制的 Frida 函数 trace 与条件 hook | ⭐1 |
+### 📰 行业动态
+
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+### 💡 今日 Tips
+
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-11-01
 
