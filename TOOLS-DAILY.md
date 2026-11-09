@@ -1,9 +1,30 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-02
+> 最后更新：2026-11-09
 
 ---
+
+## 2026-11-09
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [FengQiuFQ/TEESimulator-MapleSU](https://github.com/FengQiuFQ/TEESimulator-MapleSU) | 独立 Key Attestation + Soter 兼容层，用于 root 后 Android（KernelSU/Magisk/APatch）过设备认证 | ⭐28 |
+| [LiuYiGL/qinglong-magisk](https://github.com/LiuYiGL/qinglong-magisk) | 青龙 Qinglong 的 Android 离线 Magisk/KernelSU 模块（arm64，chroot，安装无需联网） | ⭐19 |
+| [HUAYANG2010/il2cpp_dumper](https://github.com/HUAYANG2010/il2cpp_dumper) | 免 Magisk/Zygisk 的 Unity il2cpp 动态 dump：root 下运行，输入包名自动 ptrace 注入导出 dump.cs | ⭐6 |
+| [hex91/zygisk-gadget-stealth](https://github.com/hex91/zygisk-gadget-stealth) | 基于 Zygisk 的 frida-gadget 按 App 持久化注入，去特征/可配置/WebUI 查看状态 | ⭐2 |
+| [Mac-XK/FridaDump](https://github.com/Mac-XK/FridaDump) | 原生 macOS 砸壳工具：Frida 解密 IPA + SSH 文件管理 + 崩溃日志查看 | ⭐2 |
+
+### 📰 行业动态
+
+- GitHub Trending 本周 Python/JS 榜几乎被 AI Agent/Skills 生态占据，安全逆向类项目热度明显降温，仅 Cloudflare security-audit-skill 冲上榜（周 ⭐10.6k）
+- Frida-gadget 去特征方向出现新玩法：Zygisk 持久化注入 + 特征抹除，传统 attach 被 ptrace 检测的时代或迎来解法
+
+### 💡 今日 Tips
+
+> il2cpp_dumper 思路可借鉴到票务 App：Unity 打包的 App 用 ptrace 注入比 frida attach 更隐蔽
 
 ## 2026-11-02
 
