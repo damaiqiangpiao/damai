@@ -11,16 +11,14 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [antoniomalheirs/Sound_And_Emoji_IOS](https://github.com/antoniomalheirs/Sound_And_Emoji_IOS) | A KernelSU / KernelSU Next and Magisk-compatible module that replaces default Android system sounds  | ⭐30 |
-| [yudharn/HyperCool](https://github.com/yudharn/HyperCool) | HyperCool — Heat & Battery Fix for Android (KernelSU / Magisk module) | ⭐6 |
-| [MarwaBoualam/Mobile_Penetration_Testing](https://github.com/MarwaBoualam/Mobile_Penetration_Testing) | Frida scripts (Java + Native hooking) for Android mobile security assessments: SSL/TLS certificate p | ⭐2 |
-| [Dr-Essence/Nothing2Something](https://github.com/Dr-Essence/Nothing2Something) | Experimental LSPosed/Xposed module for Nothing Launcher (Nothing Phone, Nothing OS): custom app draw | ⭐2 |
-| [HuijuiSU-NEXT/Snow-love-Module](https://github.com/HuijuiSU-NEXT/Snow-love-Module) | 一键隐藏 v1.4：Zygisk Next + LSPosed + HMA-OSS + OhMyKeymint + PIF-Dates 一次装齐，自动配黑白名单与 keybox；WebUI 可补装、换 | ⭐1 |
+| [Linoleic/MultiRoute](https://github.com/Linoleic/MultiRoute) | An LSPosed module that gives every app its own network channel. | ⭐19 |
+| [KernelSU-Modules/repo](https://github.com/KernelSU-Modules/repo) | KernelSU Modules data: module records, policy, maintainers and release lock (written by KernelSU Mod | ⭐2 |
+| [NueXini/KernelRay](https://github.com/NueXini/KernelRay) | A KernelSU module that runs an Xray-core on an Android device. | ⭐1 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
 ### 💡 今日 Tips
 
 > 人脸识别环节不要戴口罩帽子，光线要充足
