@@ -11,20 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [FengQiuFQ/TEESimulator-MapleSU](https://github.com/FengQiuFQ/TEESimulator-MapleSU) | 独立 Key Attestation + Soter 兼容层，用于 root 后 Android（KernelSU/Magisk/APatch）过设备认证 | ⭐28 |
-| [LiuYiGL/qinglong-magisk](https://github.com/LiuYiGL/qinglong-magisk) | 青龙 Qinglong 的 Android 离线 Magisk/KernelSU 模块（arm64，chroot，安装无需联网） | ⭐19 |
-| [HUAYANG2010/il2cpp_dumper](https://github.com/HUAYANG2010/il2cpp_dumper) | 免 Magisk/Zygisk 的 Unity il2cpp 动态 dump：root 下运行，输入包名自动 ptrace 注入导出 dump.cs | ⭐6 |
-| [hex91/zygisk-gadget-stealth](https://github.com/hex91/zygisk-gadget-stealth) | 基于 Zygisk 的 frida-gadget 按 App 持久化注入，去特征/可配置/WebUI 查看状态 | ⭐2 |
-| [Mac-XK/FridaDump](https://github.com/Mac-XK/FridaDump) | 原生 macOS 砸壳工具：Frida 解密 IPA + SSH 文件管理 + 崩溃日志查看 | ⭐2 |
-
+| [antoniomalheirs/Sound_And_Emoji_IOS](https://github.com/antoniomalheirs/Sound_And_Emoji_IOS) | A KernelSU / KernelSU Next and Magisk-compatible module that replaces default Android system sounds  | ⭐30 |
+| [yudharn/HyperCool](https://github.com/yudharn/HyperCool) | HyperCool — Heat & Battery Fix for Android (KernelSU / Magisk module) | ⭐6 |
+| [MarwaBoualam/Mobile_Penetration_Testing](https://github.com/MarwaBoualam/Mobile_Penetration_Testing) | Frida scripts (Java + Native hooking) for Android mobile security assessments: SSL/TLS certificate p | ⭐2 |
+| [Dr-Essence/Nothing2Something](https://github.com/Dr-Essence/Nothing2Something) | Experimental LSPosed/Xposed module for Nothing Launcher (Nothing Phone, Nothing OS): custom app draw | ⭐2 |
+| [HuijuiSU-NEXT/Snow-love-Module](https://github.com/HuijuiSU-NEXT/Snow-love-Module) | 一键隐藏 v1.4：Zygisk Next + LSPosed + HMA-OSS + OhMyKeymint + PIF-Dates 一次装齐，自动配黑白名单与 keybox；WebUI 可补装、换 | ⭐1 |
 ### 📰 行业动态
 
-- GitHub Trending 本周 Python/JS 榜几乎被 AI Agent/Skills 生态占据，安全逆向类项目热度明显降温，仅 Cloudflare security-audit-skill 冲上榜（周 ⭐10.6k）
-- Frida-gadget 去特征方向出现新玩法：Zygisk 持久化注入 + 特征抹除，传统 attach 被 ptrace 检测的时代或迎来解法
-
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
-> il2cpp_dumper 思路可借鉴到票务 App：Unity 打包的 App 用 ptrace 注入比 frida attach 更隐蔽
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-11-02
 
