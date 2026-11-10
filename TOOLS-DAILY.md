@@ -11,15 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [jksalcedo/hide-developer-options](https://github.com/jksalcedo/hide-developer-options) | Root module that hides Developer options and USB debugging from selected apps (Magisk, KernelSU, APa | ⭐6 |
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐387 |
+| [shitianyaa/FriendlySchool](https://github.com/shitianyaa/FriendlySchool) | FriendlySchool — LSPosed module for ad removal and privacy protection. | ⭐13 |
+| [YMGPwcca/FacebookGoodies](https://github.com/YMGPwcca/FacebookGoodies) | LSPosed/Xposed module for Facebook on Android. Hide ads, suggestions and Threads promotions, add pri | ⭐5 |
+| [MarwaBoualam/Mobile_Penetration_Testing](https://github.com/MarwaBoualam/Mobile_Penetration_Testing) | Frida scripts (Java + Native hooking) for Android mobile security assessments: SSL/TLS certificate p | ⭐2 |
+| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐1 |
 ### 📰 行业动态
 
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 - KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
 ### 💡 今日 Tips
 
-> 同一设备频繁切换账号会触发风控，建议一机一号
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-11-09
 
