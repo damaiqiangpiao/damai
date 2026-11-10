@@ -11,19 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐387 |
-| [shitianyaa/FriendlySchool](https://github.com/shitianyaa/FriendlySchool) | FriendlySchool — LSPosed module for ad removal and privacy protection. | ⭐13 |
-| [YMGPwcca/FacebookGoodies](https://github.com/YMGPwcca/FacebookGoodies) | LSPosed/Xposed module for Facebook on Android. Hide ads, suggestions and Threads promotions, add pri | ⭐5 |
-| [MarwaBoualam/Mobile_Penetration_Testing](https://github.com/MarwaBoualam/Mobile_Penetration_Testing) | Frida scripts (Java + Native hooking) for Android mobile security assessments: SSL/TLS certificate p | ⭐2 |
-| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐1 |
+| [hxreborn/amznkiller](https://github.com/hxreborn/amznkiller) | Xposed module that hides sponsored content and ads in the Amazon Shopping app. | ⭐94 |
+| [tophtab/lsp-store](https://github.com/tophtab/lsp-store) | LSPosed 模块的更新与浏览工具 · An updater and browser for LSPosed modules | ⭐67 |
+| [jksalcedo/hide-developer-options](https://github.com/jksalcedo/hide-developer-options) | Root module that hides Developer options and USB debugging from selected apps (Magisk, KernelSU, APa | ⭐6 |
+| [228983641/gramsieve-conso-mod](https://github.com/228983641/gramsieve-conso-mod) | GramSieve LSPosed module adapted for Conso (global.xfinite.conso) - personal adaptation, based on up | ⭐1 |
+| [hddq/magisk-vanadium-webview](https://github.com/hddq/magisk-vanadium-webview) | Magisk/KernelSU module that adds Vanadium WebView as a selectable provider alongside the existing An | ⭐1 |
 ### 📰 行业动态
 
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-11-09
 
