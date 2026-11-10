@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-09
+> 最后更新：2026-11-10
 
 ---
+
+## 2026-11-10
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [jksalcedo/hide-developer-options](https://github.com/jksalcedo/hide-developer-options) | Root module that hides Developer options and USB debugging from selected apps (Magisk, KernelSU, APa | ⭐6 |
+### 📰 行业动态
+
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+### 💡 今日 Tips
+
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-11-09
 
