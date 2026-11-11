@@ -7,14 +7,23 @@
 
 ## 2026-11-11
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [yudharn/HyperCool](https://github.com/yudharn/HyperCool) | HyperCool — Heat & Battery Fix for Android (KernelSU / Magisk module) | ⭐14 |
+| [Mods-Center/HyperOS-launcher-mod-lite](https://github.com/Mods-Center/HyperOS-launcher-mod-lite) | Lightweight build of the HyperOS Launcher Mod for low-end devices: faster app-open animations, custo | ⭐13 |
+| [Mods-Center/HyperOS-Rust-Launcher-Mod](https://github.com/Mods-Center/HyperOS-Rust-Launcher-Mod) | Mods the new HyperOS 4 Rust/Flutter launcher: dock background, soft-glass tuning, pick any search ap | ⭐5 |
+| [MrSoheyl/SoliGeram](https://github.com/MrSoheyl/SoliGeram) | 👑 Advanced Telegram enhancement module for LSPosed — Ghost Mode 👻, local Premium 💎, Download Boost ⚡ | ⭐3 |
+| [MarwaBoualam/Mobile_Penetration_Testing](https://github.com/MarwaBoualam/Mobile_Penetration_Testing) | Frida scripts (Java + Native hooking) for Android mobile security assessments: SSL/TLS certificate p | ⭐2 |
 ### 📰 行业动态
 
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- r0env 逆向环境更新至 v3.0，预装更多工具
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 - LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> Android 15 对无障碍服务限制更严，自动点击方案需适配
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-11-10
 
