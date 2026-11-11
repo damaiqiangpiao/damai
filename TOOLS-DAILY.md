@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-10
+> 最后更新：2026-11-11
 
 ---
+
+## 2026-11-11
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐387 |
+| [finall1008/HyperGlass](https://github.com/finall1008/HyperGlass) | HyperOS glass icons and widgets LSPosed module | ⭐19 |
+| [MarwaBoualam/Mobile_Penetration_Testing](https://github.com/MarwaBoualam/Mobile_Penetration_Testing) | Frida scripts (Java + Native hooking) for Android mobile security assessments: SSL/TLS certificate p | ⭐2 |
+| [Dr-Essence/Nothing2Something](https://github.com/Dr-Essence/Nothing2Something) | Turning Nothing into something: an LSPosed module for Nothing Launcher & Nothing OS. Dot-matrix fold | ⭐2 |
+### 📰 行业动态
+
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+### 💡 今日 Tips
+
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-11-10
 
