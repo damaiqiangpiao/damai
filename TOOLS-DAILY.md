@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-11
+> 最后更新：2026-11-12
 
 ---
+
+## 2026-11-12
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
+| [Yass5002/magisk-hub](https://github.com/Yass5002/magisk-hub) | An active-source directory for Magisk, KernelSU, and APatch modules. | ⭐4 |
+| [Dr-Essence/Nothing2Something](https://github.com/Dr-Essence/Nothing2Something) | Turning Nothing into something: an LSPosed module for Nothing Launcher & Nothing OS. Dot-matrix fold | ⭐2 |
+### 📰 行业动态
+
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Frida 16.5 发布，Gadget 模式稳定性提升
+### 💡 今日 Tips
+
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-11-11
 
