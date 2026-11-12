@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
-| [Yass5002/magisk-hub](https://github.com/Yass5002/magisk-hub) | An active-source directory for Magisk, KernelSU, and APatch modules. | ⭐4 |
-| [Dr-Essence/Nothing2Something](https://github.com/Dr-Essence/Nothing2Something) | Turning Nothing into something: an LSPosed module for Nothing Launcher & Nothing OS. Dot-matrix fold | ⭐2 |
+| [Xposed-Modules-Repo/com.tianqianguai.reweibo](https://github.com/Xposed-Modules-Repo/com.tianqianguai.reweibo) | 微博轻享版禁止自动刷新、浏览位置记忆、新启动后自动加载至上次浏览位置、去广告、反向时间线、阅读位置恢复 / Weibo Lite LSPosed/Xposed module for ad remova | ⭐35 |
+| [imkamaran/HideMyDevice](https://github.com/imkamaran/HideMyDevice) | Hide My Device is an open-source Xposed module that spoofs your device identifiers, so third-party a | ⭐15 |
 ### 📰 行业动态
 
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- Frida 16.5 发布，Gadget 模式稳定性提升
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-11-11
 
