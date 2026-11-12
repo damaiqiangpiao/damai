@@ -11,13 +11,14 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Xposed-Modules-Repo/com.tianqianguai.reweibo](https://github.com/Xposed-Modules-Repo/com.tianqianguai.reweibo) | 微博轻享版禁止自动刷新、浏览位置记忆、新启动后自动加载至上次浏览位置、去广告、反向时间线、阅读位置恢复 / Weibo Lite LSPosed/Xposed module for ad remova | ⭐35 |
-| [imkamaran/HideMyDevice](https://github.com/imkamaran/HideMyDevice) | Hide My Device is an open-source Xposed module that spoofs your device identifiers, so third-party a | ⭐15 |
+| [YMGPwcca/FacebookGoodies](https://github.com/YMGPwcca/FacebookGoodies) | LSPosed/Xposed module for Facebook on Android. Hide ads, suggestions and Threads promotions, add pri | ⭐6 |
+| [kailashrs/OriTweaks](https://github.com/kailashrs/OriTweaks) | LSPosed/libxposed module with non-Google tweaks for vivo OriginOS | ⭐2 |
+| [luoyi0914/ThermoCharge](https://github.com/luoyi0914/ThermoCharge) | 恒温充电：以电池温度为被控量、充电电流为控制量的恒温充电控制器（KernelSU 模块，Redmi K90 Ultra）。温度锁在目标值，功率随散热条件自动浮动。 | ⭐1 |
 ### 📰 行业动态
 
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Wireshark 4.4 新增 QUIC 协议深度解析
 - r0env 逆向环境更新至 v3.0，预装更多工具
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
 > 人脸识别环节不要戴口罩帽子，光线要充足
