@@ -11,16 +11,12 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Elcapitanoe/Komodo-Build-Prop](https://github.com/Elcapitanoe/Komodo-Build-Prop) | Magisk and KernelSU module that spoofs your Android device as Google Pixel 9 Pro XL. | ⭐36 |
-| [toxicbeef/kgacc](https://github.com/toxicbeef/kgacc) | 全民K歌 TV 伴唱/原唱实时切换 —— Frida 运行时注入，遥控器连按 3 次菜单键切换音轨，MV 不中断、音画同步 | ⭐1 |
-| [mouya-q/LiquidFrame](https://github.com/mouya-q/LiquidFrame) | LSPosed module that replaces Xiaomi Camera watermark background with an Apple-style Liquid Glass mat | ⭐1 |
-| [idklelpigeon/Liveboot-Enhanced](https://github.com/idklelpigeon/Liveboot-Enhanced) | Scriptable KernelSU/Magisk boot-display module. Adds custom text, colors, image layers, and progress | ⭐1 |
-| [LLP2333/NetProxy-XTLS-KernelSU](https://github.com/LLP2333/NetProxy-XTLS-KernelSU) | Based on the xray core, this Android proxy module supports one-click start/stop of transparent proxy | ⭐1 |
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐388 |
 ### 📰 行业动态
 
+- r0env 逆向环境更新至 v3.0，预装更多工具
 - Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
 > 周末和节假日风控更严，工作日下午抢票成功率更高
