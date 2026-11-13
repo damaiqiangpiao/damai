@@ -11,15 +11,18 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐388 |
+| [shakilxt/ULTRA-EXTREME-UNLOCKER](https://github.com/shakilxt/ULTRA-EXTREME-UNLOCKER) | A lightweight Magisk & KernelSU module that unlocks 90/120 FPS and Extreme Graphics for PUBG MOBILE, | ⭐27 |
+| [AngelDark92/GalaxyXR-Forge](https://github.com/AngelDark92/GalaxyXR-Forge) | Community hub for Samsung Galaxy XR (SM-I610): mods, patches, ports, root tools, KernelSU modules an | ⭐17 |
+| [Dr-Essence/Nothing2Something](https://github.com/Dr-Essence/Nothing2Something) | Turning Nothing into something: an LSPosed module for Nothing Launcher & Nothing OS. Dot-matrix fold | ⭐2 |
+| [toxicbeef/kgacc](https://github.com/toxicbeef/kgacc) | 全民K歌 TV 伴唱/原唱实时切换 —— Frida 运行时注入，遥控器连按 3 次菜单键切换音轨，MV 不中断、音画同步 | ⭐1 |
 ### 📰 行业动态
 
-- r0env 逆向环境更新至 v3.0，预装更多工具
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-11-12
 
