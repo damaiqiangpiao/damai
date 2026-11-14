@@ -7,20 +7,14 @@
 
 ## 2026-11-14
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [Leekin2/XApps](https://github.com/Leekin2/XApps) | XGoogle, XSecurity and XNotify in one LSPosed app and one root module for the Xiaomi HyperOS China R | ⭐13 |
-| [ket0x4/oxygen-camera](https://github.com/ket0x4/oxygen-camera) | OplusCamera 7.013.11 KernelSU Next module for OnePlus 9 / 9 Pro | ⭐4 |
 ### 📰 行业动态
 
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Frida 16.5 发布，Gadget 模式稳定性提升
 - KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-11-13
 
