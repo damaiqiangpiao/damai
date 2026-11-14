@@ -7,14 +7,20 @@
 
 ## 2026-11-14
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Liff09/Dimlight](https://github.com/Liff09/Dimlight) | KernelSU module that brings Samsung’s native Always On Display to the Galaxy A17 5G (SM-A176B) on On | ⭐1 |
+| [AmanCode22/waydroidsu](https://github.com/AmanCode22/waydroidsu) | WaydroidSU reborn — a pure-CLI Magisk companion for Waydroid, sourced to Jordan231111/KitsuneMagisk: | ⭐1 |
 ### 📰 行业动态
 
-- Frida 16.5 发布，Gadget 模式稳定性提升
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 - KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-11-13
 
