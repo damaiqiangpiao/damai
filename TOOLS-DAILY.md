@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-13
+> 最后更新：2026-11-14
 
 ---
+
+## 2026-11-14
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [Leekin2/XApps](https://github.com/Leekin2/XApps) | XGoogle, XSecurity and XNotify in one LSPosed app and one root module for the Xiaomi HyperOS China R | ⭐13 |
+| [ket0x4/oxygen-camera](https://github.com/ket0x4/oxygen-camera) | OplusCamera 7.013.11 KernelSU Next module for OnePlus 9 / 9 Pro | ⭐4 |
+### 📰 行业动态
+
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+### 💡 今日 Tips
+
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-11-13
 
