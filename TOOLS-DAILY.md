@@ -11,16 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) | An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and D | ⭐1662 |
-| [IntaktoFT/IntaktoFT](https://github.com/IntaktoFT/IntaktoFT) | Free Android SDK that catches repackaged apps and Frida or hooking tools while your app runs. One li | ⭐1 |
+| [misaka5202/droidspaces-lkm](https://github.com/misaka5202/droidspaces-lkm) | Prebuilt LKM modules that bring Droidspaces container support to stock Android GKI kernels — no kern | ⭐8 |
+| [Cheney34/apple-input-for-sogou](https://github.com/Cheney34/apple-input-for-sogou) | Apple Input for Sogou — 基于 LSPosed 的搜狗输入法 Apple 风格显示层替换（搜狗负责输入，Apple 负责体验） | ⭐2 |
 ### 📰 行业动态
 
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 - Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- Wireshark 4.4 新增 QUIC 协议深度解析
 ### 💡 今日 Tips
 
-> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-11-14
 
