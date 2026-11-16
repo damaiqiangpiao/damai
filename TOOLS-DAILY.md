@@ -1,9 +1,25 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-15
+> 最后更新：2026-11-16
 
 ---
+
+## 2026-11-16
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [IntaktoFT/IntaktoFT](https://github.com/IntaktoFT/IntaktoFT) | Free Android SDK that catches repackaged apps and Frida or hooking tools while your app runs. One li | ⭐1 |
+### 📰 行业动态
+
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+### 💡 今日 Tips
+
+> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
 
 ## 2026-11-15
 
