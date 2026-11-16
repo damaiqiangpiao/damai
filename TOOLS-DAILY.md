@@ -11,20 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [IntaktoFT/IntaktoFT](https://github.com/IntaktoFT/IntaktoFT) | Free Android SDK that catches repackaged apps and Frida or hooking tools while your app runs. One li | ⭐1 |
-| [achun1107/xianyu-auto-listing](https://github.com/achun1107/xianyu-auto-listing) | 闲鱼自动化上架工具：输一句「城市 明星」自动出图、算标题/分类/规格并发布到闲鱼店铺（Xianyu / Goofish auto listing for proxy-bidding & ticketing） | ⭐140 |
-| [Lmq0/Android-Game-Reversing](https://github.com/Lmq0/Android-Game-Reversing) | Android 逆向实战笔记：绕过反调试、SSL Pinning，从零分析自定义 C++ 游戏协议（Python 脚本） | ⭐1 |
-| [skill-light/Apk-Manager-Pro](https://github.com/skill-light/Apk-Manager-Pro) | 原生 C++/Qt 的 APK 逆向 IDE：Smali 字节码编辑、实时 Java 预览、DEX 探索、多方案 APK 重打包 | ⭐2 |
-| [pingranQi/Omgzygisk](https://github.com/pingranQi/Omgzygisk) | 通过 ptrace 实现 Zygote 注入 —— 面向 APatch/KernelSU/Magisk 的 Zygisk API，支持 FN(Functional Node) 模块与 WebUI | ⭐1 |
+| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
+| [FlyPhantomFly/android-re-mcp](https://github.com/FlyPhantomFly/android-re-mcp) | Android reverse-engineering MCP server (PyPI: android-re-mcp): 61 tools over adb, Frida, mitmproxy,  | ⭐1 |
+| [yibgt/oplus-antidizzy-module](https://github.com/yibgt/oplus-antidizzy-module) | 为缺少「晕动舒缓显示」的 OPPO/一加/realme（欧加）ColorOS 机型补全原生 AntiDizzy 功能 · KernelSU + LSPosed | ⭐1 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- Zygisk 替代方案升温：ptrace 注入路线（Omgzygisk 等）在 KernelSU/APatch 上补位
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 回流票一般是被锁单后释放的，15分钟一轮，盯紧时间点
+> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
 
 ## 2026-11-15
 
