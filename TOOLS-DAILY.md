@@ -11,17 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
-| [FlyPhantomFly/android-re-mcp](https://github.com/FlyPhantomFly/android-re-mcp) | Android reverse-engineering MCP server (PyPI: android-re-mcp): 61 tools over adb, Frida, mitmproxy,  | ⭐1 |
-| [yibgt/oplus-antidizzy-module](https://github.com/yibgt/oplus-antidizzy-module) | 为缺少「晕动舒缓显示」的 OPPO/一加/realme（欧加）ColorOS 机型补全原生 AntiDizzy 功能 · KernelSU + LSPosed | ⭐1 |
+| [astoHu1/MiAIPlus](https://github.com/astoHu1/MiAIPlus) | HyperOS LSPosed module extending 超级小爱 (MiAI) with on-device Phone Use tools and external model integ | ⭐21 |
+| [IntaktoFT/IntaktoFT](https://github.com/IntaktoFT/IntaktoFT) | Free Android SDK that catches repackaged apps and Frida or hooking tools while your app runs. One li | ⭐1 |
 ### 📰 行业动态
 
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 - Apktool 2.10 发布，支持 Android 15 APK 反编译
-- Frida 16.5 发布，Gadget 模式稳定性提升
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
 ### 💡 今日 Tips
 
-> 抢票时关掉 VPN/代理，大麦会检测代理IP并降权
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-11-15
 
