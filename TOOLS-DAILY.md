@@ -7,21 +7,14 @@
 
 ## 2026-11-17
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [soufied/zapret-ksu](https://github.com/soufied/zapret-ksu) | KernelSU / KernelSU-Next module that runs zapret (nfqws and nfqws2) for DPI bypass on Android, inclu | ⭐4 |
-| [FlyPhantomFly/android-re-mcp](https://github.com/FlyPhantomFly/android-re-mcp) | Android reverse-engineering MCP server (PyPI: android-re-mcp): 61 tools over adb, Frida, mitmproxy,  | ⭐1 |
-| [d3ja7u/DuoStatusBar-Titan-2-Elite](https://github.com/d3ja7u/DuoStatusBar-Titan-2-Elite) | LSPosed module for the Unihertz Titan 2 Elite — combines clock, network signal, and battery ring int | ⭐1 |
 ### 📰 行业动态
 
 - KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- jadx 1.5 发布，反编译速度提升40%
-- IDA Pro 9.0 新增 AI 辅助反编译功能
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-11-16
 
