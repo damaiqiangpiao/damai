@@ -7,14 +7,22 @@
 
 ## 2026-11-17
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [LyraVoid/FinaSU](https://github.com/LyraVoid/FinaSU) | A KernelSU-based root solution for Android: kernel-level su with whitelist policies, an overlayfs mo | ⭐294 |
+| [Mods-Center/Apk-Protection-Patch](https://github.com/Mods-Center/Apk-Protection-Patch) | Removes APK signature verification on AOSP and OEM ROMs (HyperOS, ColorOS, …) so modified or unsigne | ⭐224 |
+| [FlyPhantomFly/android-re-mcp](https://github.com/FlyPhantomFly/android-re-mcp) | Android reverse-engineering MCP server (PyPI: android-re-mcp): 61 tools over adb, Frida, mitmproxy,  | ⭐1 |
+| [evorez/EZD-Manager](https://github.com/evorez/EZD-Manager) | EZD Manager: root performance manager app + Magisk/KernelSU module | ⭐1 |
 ### 📰 行业动态
 
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
 - Frida 16.5 发布，Gadget 模式稳定性提升
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-11-16
 
