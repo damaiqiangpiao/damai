@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-17
+> 最后更新：2026-11-18
 
 ---
+
+## 2026-11-18
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [nader295/MaxManager](https://github.com/nader295/MaxManager) | MaxManager — a system control plane for rooted Android: one audited write path, read-back verificati | ⭐76 |
+| [Mods-Center/HyperOS-AOD](https://github.com/Mods-Center/HyperOS-AOD) | Modded HyperOS AOD & lock screen editor: magazine (depth) and animal styles, AI dynamic wallpapers,  | ⭐64 |
+| [onichan0923/OOS-AOSP-Panels](https://github.com/onichan0923/OOS-AOSP-Panels) | LSPosed module for AOSP-style Quick Settings and notification shade on OxygenOS 17. | ⭐6 |
+| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐3 |
+| [Nerix-Labs/TikMod](https://github.com/Nerix-Labs/TikMod) | LSPosed module for TikTok — clean downloads, LIVE auto-recording, chat privacy and an ad-free feed.  | ⭐1 |
+### 📰 行业动态
+
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+### 💡 今日 Tips
+
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-11-17
 
