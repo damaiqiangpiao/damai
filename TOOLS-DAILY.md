@@ -11,19 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [nader295/MaxManager](https://github.com/nader295/MaxManager) | MaxManager — a system control plane for rooted Android: one audited write path, read-back verificati | ⭐76 |
-| [Mods-Center/HyperOS-AOD](https://github.com/Mods-Center/HyperOS-AOD) | Modded HyperOS AOD & lock screen editor: magazine (depth) and animal styles, AI dynamic wallpapers,  | ⭐64 |
-| [onichan0923/OOS-AOSP-Panels](https://github.com/onichan0923/OOS-AOSP-Panels) | LSPosed module for AOSP-style Quick Settings and notification shade on OxygenOS 17. | ⭐6 |
-| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐3 |
-| [Nerix-Labs/TikMod](https://github.com/Nerix-Labs/TikMod) | LSPosed module for TikTok — clean downloads, LIVE auto-recording, chat privacy and an ad-free feed.  | ⭐1 |
+| [nanhe-ovo/nanhe_ovo-module](https://github.com/nanhe-ovo/nanhe_ovo-module) | 南何ovo · 性能调度：基于 Uperf-Game-Turbo 的 Android 性能调度模块（Magisk / KernelSU / APatch），自带 Miuix 观感 + 悬浮液态玻璃底栏 | ⭐2 |
+| [lotty520/Detect-Any](https://github.com/lotty520/Detect-Any) | Industrial-grade Android integrity detection — 142 evidence-graded checks: root/Zygisk/hook/Frida/em | ⭐1 |
 ### 📰 行业动态
 
-- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-11-17
 
