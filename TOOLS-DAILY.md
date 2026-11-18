@@ -7,20 +7,14 @@
 
 ## 2026-11-18
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [nanhe-ovo/nanhe_ovo-module](https://github.com/nanhe-ovo/nanhe_ovo-module) | 南何ovo · 性能调度：基于 Uperf-Game-Turbo 的 Android 性能调度模块（Magisk / KernelSU / APatch），自带 Miuix 观感 + 悬浮液态玻璃底栏 | ⭐2 |
-| [lotty520/Detect-Any](https://github.com/lotty520/Detect-Any) | Industrial-grade Android integrity detection — 142 evidence-graded checks: root/Zygisk/hook/Frida/em | ⭐1 |
 ### 📰 行业动态
 
 - 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-11-17
 
