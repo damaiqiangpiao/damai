@@ -7,23 +7,14 @@
 
 ## 2026-11-19
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [kelebao/ClockSeconds](https://github.com/kelebao/ClockSeconds) | 状态栏时钟显秒 + 点击切换（LSPosed 模块）。Status bar clock seconds with tap-to-toggle (LSPosed module) | ⭐14 |
-| [VD171/VDLiveUpdate](https://github.com/VD171/VDLiveUpdate) | VDLU - a flashless, incremental self-update engine for KernelSU/APatch/Magisk modules | ⭐6 |
-| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐3 |
-| [Xposed-Modules-Repo/io.github.kelebao.colorosclockseconds](https://github.com/Xposed-Modules-Repo/io.github.kelebao.colorosclockseconds) | 状态栏时钟显秒 + 点击切换（LSPosed 模块）。Status bar clock seconds with tap-to-toggle (LSPosed module) | ⭐2 |
-| [lotty520/Detect-Any](https://github.com/lotty520/Detect-Any) | Industrial-grade Android integrity detection — 142 evidence-graded checks: root/Zygisk/hook/Frida/em | ⭐1 |
 ### 📰 行业动态
 
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-11-18
 
