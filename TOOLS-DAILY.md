@@ -11,19 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [hxreborn/PixelInjector](https://github.com/hxreborn/PixelInjector) | Opinionated Xposed module of some tweaks, specially for Pixel phones so I can avoid having twenty mo | ⭐45 |
-| [finall1008/HyperGlass](https://github.com/finall1008/HyperGlass) | HyperOS glass icons and widgets LSPosed module | ⭐21 |
-| [ArupEn1/Auto-Samplerate-Changer-Android](https://github.com/ArupEn1/Auto-Samplerate-Changer-Android) | Root module that makes Android play USB DAC audio at each track's own sample rate, with optional bit | ⭐4 |
-| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
-| [Yass5002/magisk-hub](https://github.com/Yass5002/magisk-hub) | An active-source directory for Magisk, KernelSU, and APatch modules. | ⭐4 |
+| [kelebao/ClockSeconds](https://github.com/kelebao/ClockSeconds) | 状态栏时钟显秒 + 点击切换（LSPosed 模块）。Status bar clock seconds with tap-to-toggle (LSPosed module) | ⭐14 |
+| [VD171/VDLiveUpdate](https://github.com/VD171/VDLiveUpdate) | VDLU - a flashless, incremental self-update engine for KernelSU/APatch/Magisk modules | ⭐6 |
+| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐3 |
+| [Xposed-Modules-Repo/io.github.kelebao.colorosclockseconds](https://github.com/Xposed-Modules-Repo/io.github.kelebao.colorosclockseconds) | 状态栏时钟显秒 + 点击切换（LSPosed 模块）。Status bar clock seconds with tap-to-toggle (LSPosed module) | ⭐2 |
+| [lotty520/Detect-Any](https://github.com/lotty520/Detect-Any) | Industrial-grade Android integrity detection — 142 evidence-graded checks: root/Zygisk/hook/Frida/em | ⭐1 |
 ### 📰 行业动态
 
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 ### 💡 今日 Tips
 
-> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-11-18
 
