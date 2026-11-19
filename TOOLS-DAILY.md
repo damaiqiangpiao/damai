@@ -1,9 +1,29 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-18
+> 最后更新：2026-11-19
 
 ---
+
+## 2026-11-19
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [hxreborn/PixelInjector](https://github.com/hxreborn/PixelInjector) | Opinionated Xposed module of some tweaks, specially for Pixel phones so I can avoid having twenty mo | ⭐45 |
+| [finall1008/HyperGlass](https://github.com/finall1008/HyperGlass) | HyperOS glass icons and widgets LSPosed module | ⭐21 |
+| [ArupEn1/Auto-Samplerate-Changer-Android](https://github.com/ArupEn1/Auto-Samplerate-Changer-Android) | Root module that makes Android play USB DAC audio at each track's own sample rate, with optional bit | ⭐4 |
+| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
+| [Yass5002/magisk-hub](https://github.com/Yass5002/magisk-hub) | An active-source directory for Magisk, KernelSU, and APatch modules. | ⭐4 |
+### 📰 行业动态
+
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+### 💡 今日 Tips
+
+> Root隐藏三件套：Magisk + Shamiko + HMA，缺一不可
 
 ## 2026-11-18
 
