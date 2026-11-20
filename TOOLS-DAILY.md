@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-19
+> 最后更新：2026-11-20
 
 ---
+
+## 2026-11-20
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [olilio3/HyperSpring](https://github.com/olilio3/HyperSpring) | LSPosed module for HyperOS: genie open/close animation, bending recents, springy folders, curtain tr | ⭐12 |
+| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
+| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐3 |
+| [lotty520/Detect-Any](https://github.com/lotty520/Detect-Any) | Industrial-grade Android integrity detection — 142 evidence-graded checks: root/Zygisk/hook/Frida/em | ⭐1 |
+### 📰 行业动态
+
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+### 💡 今日 Tips
+
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-11-19
 
