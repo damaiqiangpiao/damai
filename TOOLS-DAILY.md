@@ -7,14 +7,23 @@
 
 ## 2026-11-20
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [onichan0923/OOS-AOSP-Panels](https://github.com/onichan0923/OOS-AOSP-Panels) | LSPosed module for AOSP-style Quick Settings and notification shade on OxygenOS 17. | ⭐8 |
+| [nanhe-ovo/nanhe_ovo-module](https://github.com/nanhe-ovo/nanhe_ovo-module) | 南何ovo · 性能调度：基于 Uperf-Game-Turbo 的 Android 性能调度模块（Magisk / KernelSU / APatch），自带 Miuix 观感 + 悬浮液态玻璃底栏 | ⭐4 |
+| [Silvertax/phhims-volte-o2](https://github.com/Silvertax/phhims-volte-o2) | Experimental KernelSU/Magisk module for VoLTE and SMS over IMS on the Galaxy S20 FE Snapdragon (r8q) | ⭐3 |
+| [lotty520/Detect-Any](https://github.com/lotty520/Detect-Any) | Industrial-grade Android integrity detection — 142 evidence-graded checks: root/Zygisk/hook/Frida/em | ⭐1 |
+| [Nerix-Labs/TikMod](https://github.com/Nerix-Labs/TikMod) | LSPosed module for TikTok — clean downloads, LIVE auto-recording, chat privacy and an ad-free feed.  | ⭐1 |
 ### 📰 行业动态
 
-- 某抢票群控方案被大麦风控识别，群友反馈批量封号
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-11-19
 
