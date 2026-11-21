@@ -7,20 +7,14 @@
 
 ## 2026-11-21
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [xjoker/frida-magisk](https://github.com/xjoker/frida-magisk) | Magisk/KernelSU/SukiSU module that packages Frida server, Frida Gadget, and a Zygisk injector for An | ⭐6 |
-| [nikolastama/oplus-camera-los](https://github.com/nikolastama/oplus-camera-los) | 📷 Stock OnePlus 15 camera on LineageOS 24, as a systemless KernelSU module | ⭐1 |
 ### 📰 行业动态
 
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 某抢票群控方案被大麦风控识别，群友反馈批量封号
 - 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> 抓包时记得先把证书装到系统区，用户区证书大麦不认
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-11-20
 
