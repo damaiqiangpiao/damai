@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-20
+> 最后更新：2026-11-21
 
 ---
+
+## 2026-11-21
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [hxreborn/PixelInjector](https://github.com/hxreborn/PixelInjector) | Opinionated Xposed module of some tweaks, specially for Pixel phones so I can avoid having twenty mo | ⭐46 |
+| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
+| [Yass5002/magisk-hub](https://github.com/Yass5002/magisk-hub) | An active-source directory for Magisk, KernelSU, and APatch modules. | ⭐4 |
+| [latifangren/BFR-WEBUI-GO](https://github.com/latifangren/BFR-WEBUI-GO) | Ultra-Lightweight, High-Performance Android System Control Panel & WebUI Specially engineered as a 1 | ⭐2 |
+### 📰 行业动态
+
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+### 💡 今日 Tips
+
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-11-20
 
