@@ -11,18 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [hxreborn/PixelInjector](https://github.com/hxreborn/PixelInjector) | Opinionated Xposed module of some tweaks, specially for Pixel phones so I can avoid having twenty mo | ⭐46 |
-| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
-| [Yass5002/magisk-hub](https://github.com/Yass5002/magisk-hub) | An active-source directory for Magisk, KernelSU, and APatch modules. | ⭐4 |
-| [latifangren/BFR-WEBUI-GO](https://github.com/latifangren/BFR-WEBUI-GO) | Ultra-Lightweight, High-Performance Android System Control Panel & WebUI Specially engineered as a 1 | ⭐2 |
+| [xjoker/frida-magisk](https://github.com/xjoker/frida-magisk) | Magisk/KernelSU/SukiSU module that packages Frida server, Frida Gadget, and a Zygisk injector for An | ⭐6 |
+| [nikolastama/oplus-camera-los](https://github.com/nikolastama/oplus-camera-los) | 📷 Stock OnePlus 15 camera on LineageOS 24, as a systemless KernelSU module | ⭐1 |
 ### 📰 行业动态
 
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- Wireshark 4.4 新增 QUIC 协议深度解析
 - Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
-> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-11-20
 
