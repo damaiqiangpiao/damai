@@ -7,14 +7,21 @@
 
 ## 2026-11-22
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [MrRaita/Sound-Tweaks](https://github.com/MrRaita/Sound-Tweaks) | LSPosed/Vector module to replace Android system sounds (keyboard, touch, screenshot, lock/unlock, ch | ⭐7 |
+| [Mubai-meng/FKColorOS](https://github.com/Mubai-meng/FKColorOS) | LSPosed module for ColorOS 17 / OnePlus 15 / Android 17 - fluid cloud, accessibility, launcher menu, | ⭐6 |
+| [AdenXie/pandora-airdrop](https://github.com/AdenXie/pandora-airdrop) | Native AirDrop for Xiaomi 17 Pro (pandora) via Xiaomi Share: KernelSU + LSPosed module, PASSTHRU WLA | ⭐3 |
 ### 📰 行业动态
 
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 - GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- Wireshark 4.4 新增 QUIC 协议深度解析
+- Frida 16.5 发布，Gadget 模式稳定性提升
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-11-21
 
