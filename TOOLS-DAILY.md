@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-21
+> 最后更新：2026-11-22
 
 ---
+
+## 2026-11-22
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [hxreborn/PixelInjector](https://github.com/hxreborn/PixelInjector) | Opinionated Xposed module of some tweaks, specially for Pixel phones so I can avoid having twenty mo | ⭐46 |
+| [reinanbr/uburoot](https://github.com/reinanbr/uburoot) | Ubuntu arm64 chroot for rooted Android (Magisk/KernelSU/APatch) with a real terminal; the APK is als | ⭐1 |
+| [Behrooz140/behi-kernel-sm-a145p](https://github.com/Behrooz140/behi-kernel-sm-a145p) | behi kernel — custom Linux 6.6 GKI kernel for Samsung Galaxy A14 4G (SM-A145P / a14m, Helio G80). Ke | ⭐1 |
+| [SuspectWorkers/omk-pif-suite](https://github.com/SuspectWorkers/omk-pif-suite) | All-in-one KernelSU/Magisk module & WebUI for PlayIntegrityFork + Oh My KeyMint. | ⭐1 |
+### 📰 行业动态
+
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- jadx 1.5 发布，反编译速度提升40%
+### 💡 今日 Tips
+
+> 大麦抢票黄金窗口：开票后30秒内，超时基本没戏
 
 ## 2026-11-21
 
