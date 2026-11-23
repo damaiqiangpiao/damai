@@ -1,9 +1,27 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-22
+> 最后更新：2026-11-23
 
 ---
+
+## 2026-11-23
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [xaferima/Mobile-App-RASP-Pentesting-Checklist](https://github.com/xaferima/Mobile-App-RASP-Pentesting-Checklist) | Practical pentesting checklist for RASP (Runtime Application Self-Protection) in mobile apps (Androi | ⭐1 |
+| [Clourynth/CPU-GPU-Temperature-Limiter](https://github.com/Clourynth/CPU-GPU-Temperature-Limiter) | KernelSU Module - CPU & GPU Temperature Limiter | ⭐1 |
+| [SunW1011/tcp-optimizer-pro](https://github.com/SunW1011/tcp-optimizer-pro) | TCP Optimizer Pro - KernelSU Module Releases & OTA | ⭐1 |
+### 📰 行业动态
+
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- 纷玩岛App新增回流票监控功能，余票提醒更及时
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+### 💡 今日 Tips
+
+> 抓包时记得先把证书装到系统区，用户区证书大麦不认
 
 ## 2026-11-22
 
