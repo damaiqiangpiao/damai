@@ -11,15 +11,16 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Mods-Center/Apk-Signature-Verification-Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch) | Disables APK signature verification completely by patching framework.jar, services.jar and miui-serv | ⭐73 |
+| [fynks/awesome-kernelsu](https://github.com/fynks/awesome-kernelsu) | A curated list of KernelSU & its forks, tools, modules, and documentation | ⭐127 |
+| [qianyumeng0228/ShizuSU-Xposed](https://github.com/qianyumeng0228/ShizuSU-Xposed) | LSPosed module repository mirror for ShizuSU manager | ⭐2 |
 ### 📰 行业动态
 
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-11-22
 
