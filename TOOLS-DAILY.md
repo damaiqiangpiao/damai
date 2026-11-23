@@ -14,6 +14,11 @@
 | [xaferima/Mobile-App-RASP-Pentesting-Checklist](https://github.com/xaferima/Mobile-App-RASP-Pentesting-Checklist) | Practical pentesting checklist for RASP (Runtime Application Self-Protection) in mobile apps (Androi | ⭐1 |
 | [Clourynth/CPU-GPU-Temperature-Limiter](https://github.com/Clourynth/CPU-GPU-Temperature-Limiter) | KernelSU Module - CPU & GPU Temperature Limiter | ⭐1 |
 | [SunW1011/tcp-optimizer-pro](https://github.com/SunW1011/tcp-optimizer-pro) | TCP Optimizer Pro - KernelSU Module Releases & OTA | ⭐1 |
+| [uditrajput/RAA](https://github.com/uditrajput/RAA) | AI 驱动的 Android 逆向 MCP 服务器：反编译 APK、分析 Java/Kotlin/Flutter/React Native/native 代码，自动发现 API、重建 UI | ⭐2 |
+| [VD171/VDLiveUpdate](https://github.com/VD171/VDLiveUpdate) | VDLU - KernelSU/APatch/Magisk 模块的免刷写增量自更新引擎 | ⭐11 |
+| [kakashi-1v1/Bootloop-Guard](https://github.com/kakashi-1v1/Bootloop-Guard) | Magisk/KernelSU 模块：只禁用引发变砖的那个模块来阻止开机循环 | ⭐4 |
+| [weitakaodaxue/damai-ticket-bot](https://github.com/weitakaodaxue/damai-ticket-bot) | 大麦抢票机器人实战：视频流监听 304ms 检测 + 完整失败复盘（Android/adb/ffmpeg） | ⭐0 |
+| [Dambocode/uber-ssl-bypass](https://github.com/Dambocode/uber-ssl-bypass) | 无需 root 的 Frida Gadget 注入 SSL Pinning 绕过：21+ hook 类别、QUIC 阻断、反检测 | ⭐0 |
 ### 📰 行业动态
 
 - r0env 逆向环境更新至 v3.0，预装更多工具
