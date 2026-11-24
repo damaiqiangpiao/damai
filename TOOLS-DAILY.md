@@ -11,17 +11,18 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐390 |
-| [fcmfcm1999/EdgeX](https://github.com/fcmfcm1999/EdgeX) | Android 15+ LSPosed/Xposed edge gesture module for system-wide shortcuts, hardware key remapping, ap | ⭐275 |
-| [finall1008/HyperGlass](https://github.com/finall1008/HyperGlass) | HyperOS glass icons and widgets LSPosed module | ⭐24 |
+| [SeimoDev/XiaoAiSwitch](https://github.com/SeimoDev/XiaoAiSwitch) | LSPosed module for switching XiaoAi chat, voice, image, and device-control AI providers | ⭐33 |
+| [xaferima/Mobile-App-RASP-Pentesting-Checklist](https://github.com/xaferima/Mobile-App-RASP-Pentesting-Checklist) | Practical pentesting checklist for RASP (Runtime Application Self-Protection) in mobile apps (Androi | ⭐9 |
+| [Kostubet/CPI-Kostubet-Edition](https://github.com/Kostubet/CPI-Kostubet-Edition) | A beautiful icon backdrop engine with nice customisation. An LSPosed module written in Kotlin that b | ⭐8 |
+| [qianyumeng0228/ShizuSU-Modules](https://github.com/qianyumeng0228/ShizuSU-Modules) | KernelSU/Magisk/APatch 开源模块仓库源：871+ 模块双格式输出（ShizuSU 原生 + MMRL 兼容），每日自动更新，支持 ShizuSU / SukiSU-Ultra / | ⭐2 |
 ### 📰 行业动态
 
-- MT管理器 3.0 支持 Android 15，新增DEX对比功能
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 票星球上线预约抢票机制，提前锁定抢票资格
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-11-23
 
