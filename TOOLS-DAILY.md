@@ -11,18 +11,17 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [xaferima/Mobile-App-RASP-Pentesting-Checklist](https://github.com/xaferima/Mobile-App-RASP-Pentesting-Checklist) | Practical pentesting checklist for RASP (Runtime Application Self-Protection) in mobile apps (Androi | ⭐8 |
-| [kakashi-1v1/Google-App-PrivApp](https://github.com/kakashi-1v1/Google-App-PrivApp) | Latest Google app as a privileged system app + default assistant / Circle to Search (Magisk / Kernel | ⭐7 |
-| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
-| [teamallgit/Droplet](https://github.com/teamallgit/Droplet) | An Icon Pack and LSPosed Module for Liquid Glass on One UI | ⭐2 |
+| [thunderkex/revancex](https://github.com/thunderkex/revancex) | Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modul | ⭐390 |
+| [fcmfcm1999/EdgeX](https://github.com/fcmfcm1999/EdgeX) | Android 15+ LSPosed/Xposed edge gesture module for system-wide shortcuts, hardware key remapping, ap | ⭐275 |
+| [finall1008/HyperGlass](https://github.com/finall1008/HyperGlass) | HyperOS glass icons and widgets LSPosed module | ⭐24 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
-- 票星球上线预约抢票机制，提前锁定抢票资格
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
 ### 💡 今日 Tips
 
-> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-11-23
 
