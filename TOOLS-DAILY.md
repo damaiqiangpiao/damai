@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-23
+> 最后更新：2026-11-24
 
 ---
+
+## 2026-11-24
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [xaferima/Mobile-App-RASP-Pentesting-Checklist](https://github.com/xaferima/Mobile-App-RASP-Pentesting-Checklist) | Practical pentesting checklist for RASP (Runtime Application Self-Protection) in mobile apps (Androi | ⭐8 |
+| [kakashi-1v1/Google-App-PrivApp](https://github.com/kakashi-1v1/Google-App-PrivApp) | Latest Google app as a privileged system app + default assistant / Circle to Search (Magisk / Kernel | ⭐7 |
+| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
+| [teamallgit/Droplet](https://github.com/teamallgit/Droplet) | An Icon Pack and LSPosed Module for Liquid Glass on One UI | ⭐2 |
+### 📰 行业动态
+
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 票星球上线预约抢票机制，提前锁定抢票资格
+### 💡 今日 Tips
+
+> 大麦的滑块验证会记录鼠标轨迹，匀速拖动反而像机器人
 
 ## 2026-11-23
 
