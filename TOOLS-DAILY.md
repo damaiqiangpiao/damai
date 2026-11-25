@@ -9,12 +9,12 @@
 
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Charles 5.0 发布，新增 HTTP/3 抓包支持
-- jadx 1.5 发布，反编译速度提升40%
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- r0env 逆向环境更新至 v3.0，预装更多工具
 ### 💡 今日 Tips
 
-> Frida 建议用 Gadget 模式而非 attach，更隐蔽
+> 周末和节假日风控更严，工作日下午抢票成功率更高
 
 ## 2026-11-24
 
