@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-24
+> 最后更新：2026-11-25
 
 ---
+
+## 2026-11-25
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [privshell/privshell-repo](https://github.com/privshell/privshell-repo) | KernelSU, Magisk & APatch modules by PrivShell — a curated repository of root tools with WebUI suppo | ⭐4 |
+| [SunW1011/tcp-optimizer-pro](https://github.com/SunW1011/tcp-optimizer-pro) | TCP Optimizer Pro - KernelSU Module Releases & OTA | ⭐2 |
+### 📰 行业动态
+
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+### 💡 今日 Tips
+
+> 猫眼的回流票通常在开票后5-15分钟出现，别放弃太早
 
 ## 2026-11-24
 
