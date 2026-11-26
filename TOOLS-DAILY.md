@@ -11,16 +11,19 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [SunW1011/tcp-optimizer-pro](https://github.com/SunW1011/tcp-optimizer-pro) | TCP Optimizer Pro - KernelSU Module Releases & OTA | ⭐2 |
-| [nikolastama/oplus-camera-los](https://github.com/nikolastama/oplus-camera-los) | 📷 Stock OnePlus 15 camera on LineageOS 24, as a systemless KernelSU module | ⭐1 |
+| [Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb) | A KernelSU module that provides alternative adb server over local network | ⭐107 |
+| [cq61tech/MyColourfulGesture](https://github.com/cq61tech/MyColourfulGesture) | LSPosed module that restyles the gesture pill: color, gradient, shapes, animation | ⭐6 |
+| [HungNoPro/Color-Lyric-16](https://github.com/HungNoPro/Color-Lyric-16) | All-in-One LSPosed module for ColorOS 16: Fluid Cloud, Lock Screen & AOD synced lyrics with built-in | ⭐4 |
+| [ThursCvc/PerAppVolume](https://github.com/ThursCvc/PerAppVolume) | PerAppVolume – a Miuix-based LSPosed module for per-app media volume | ⭐2 |
+| [mengalpratik/MatrixModule](https://github.com/mengalpratik/MatrixModule) | The Ultimate All-In-One Root Cloaking & Play Integrity Suite for Android. Pass MEETS_STRONG_INTEGRIT | ⭐2 |
 ### 📰 行业动态
 
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- IDA Pro 9.0 新增 AI 辅助反编译功能
-- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
+- LSPosed 1.10 发布，Android 15 兼容性大幅改善
 ### 💡 今日 Tips
 
-> 人脸识别环节不要戴口罩帽子，光线要充足
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-11-25
 
