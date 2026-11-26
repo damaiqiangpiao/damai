@@ -1,9 +1,26 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-25
+> 最后更新：2026-11-26
 
 ---
+
+## 2026-11-26
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [SunW1011/tcp-optimizer-pro](https://github.com/SunW1011/tcp-optimizer-pro) | TCP Optimizer Pro - KernelSU Module Releases & OTA | ⭐2 |
+| [nikolastama/oplus-camera-los](https://github.com/nikolastama/oplus-camera-los) | 📷 Stock OnePlus 15 camera on LineageOS 24, as a systemless KernelSU module | ⭐1 |
+### 📰 行业动态
+
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- IDA Pro 9.0 新增 AI 辅助反编译功能
+- 猫眼部分热门场次启用人脸识别+动态二维码防黄牛方案
+### 💡 今日 Tips
+
+> 人脸识别环节不要戴口罩帽子，光线要充足
 
 ## 2026-11-25
 
