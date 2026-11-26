@@ -11,19 +11,15 @@
 
 | 项目 | 说明 | Stars |
 |------|------|-------|
-| [Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb) | A KernelSU module that provides alternative adb server over local network | ⭐107 |
-| [cq61tech/MyColourfulGesture](https://github.com/cq61tech/MyColourfulGesture) | LSPosed module that restyles the gesture pill: color, gradient, shapes, animation | ⭐6 |
-| [HungNoPro/Color-Lyric-16](https://github.com/HungNoPro/Color-Lyric-16) | All-in-One LSPosed module for ColorOS 16: Fluid Cloud, Lock Screen & AOD synced lyrics with built-in | ⭐4 |
-| [ThursCvc/PerAppVolume](https://github.com/ThursCvc/PerAppVolume) | PerAppVolume – a Miuix-based LSPosed module for per-app media volume | ⭐2 |
-| [mengalpratik/MatrixModule](https://github.com/mengalpratik/MatrixModule) | The Ultimate All-In-One Root Cloaking & Play Integrity Suite for Android. Pass MEETS_STRONG_INTEGRIT | ⭐2 |
+| [pgntgz/ClipBait](https://github.com/pgntgz/ClipBait) | 给喜欢乱翻剪贴板的软件下点饵 · Android Xposed (LSPosed / Vector) clipboard privacy & decoy module | ⭐17 |
 ### 📰 行业动态
 
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- LSPosed 1.10 发布，Android 15 兼容性大幅改善
+- KernelSU 生态持续壮大，越来越多模块从 Magisk 迁移
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- GitHub Copilot 新增 Java/Kotlin 逆向辅助提示
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> 纷玩岛的余票监控比大麦更灵敏，多平台同时挂
 
 ## 2026-11-25
 
