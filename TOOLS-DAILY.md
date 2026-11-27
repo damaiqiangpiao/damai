@@ -7,20 +7,14 @@
 
 ## 2026-11-27
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [f1owkang/CRecordEvolution](https://github.com/f1owkang/CRecordEvolution) | 🔋在管理器模块描述中实时显示电池健康度的 root 模块。 | A root module that shows real-time battery health right in your mana | ⭐32 |
-| [superboyyy/mos-fcmfix-magicos](https://github.com/superboyyy/mos-fcmfix-magicos) | 修复国行 MagicOS 11 FCM 推送不及时的问题。Fix Google FCM push restrictions on China ROM Honor MagicOS 11 (LSPosed | ⭐1 |
 ### 📰 行业动态
 
-- Wireshark 4.4 新增 QUIC 协议深度解析
-- 大麦App新版增加 ptrace 检测，传统 Frida attach 可能被识别
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Playwright 正在替代 Selenium 成为爬虫/自动化主流框架
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- MT管理器 3.0 支持 Android 15，新增DEX对比功能
 ### 💡 今日 Tips
 
-> 周末和节假日风控更严，工作日下午抢票成功率更高
+> 协议抢票比模拟点击快10倍以上，但开发门槛也高10倍
 
 ## 2026-11-26
 
