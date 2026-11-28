@@ -7,14 +7,20 @@
 
 ## 2026-11-28
 
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [FoxxoOwO/s23-ultimate](https://github.com/FoxxoOwO/s23-ultimate) | LSPosed module + One UI companion app unlocking 15 locked Galaxy S23 Ultra features (Log Video, 4K60 | ⭐8 |
+| [everyoneexe/HFW](https://github.com/everyoneexe/HFW) | LSPosed/Vector module to rename apps, change icons, and hide apps per profile | ⭐3 |
 ### 📰 行业动态
 
-- r0env 逆向环境更新至 v3.0，预装更多工具
-- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
-- Magisk 27.0 正式支持 Android 15，Zygisk 重构
+- Charles 5.0 发布，新增 HTTP/3 抓包支持
+- 大麦8月起全面升级风控系统，新增设备指纹+行为轨迹双重验证
+- jadx 1.5 发布，反编译速度提升40%
 ### 💡 今日 Tips
 
-> 同一 WiFi 下多设备抢同一场次会被识别为群控
+> Frida 建议用 Gadget 模式而非 attach，更隐蔽
 
 ## 2026-11-27
 
