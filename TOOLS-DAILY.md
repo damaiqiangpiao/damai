@@ -1,9 +1,28 @@
 # 🛠 行业工具 & 产品动态
 
 > 随手记录，不定时更新。看到什么有意思的就丢进来。
-> 最后更新：2026-11-27
+> 最后更新：2026-11-28
 
 ---
+
+## 2026-11-28
+
+### 🆕 GitHub 新项目
+
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [CineXaft/HyperControl](https://github.com/CineXaft/HyperControl) | LSPosed module for Xiaomi HyperOS: status bar, security center | ⭐6 |
+| [Justadeayo/Viper4-XF](https://github.com/Justadeayo/Viper4-XF) | A personal fork of ViPER4Android DSP tailored for non-AIDL Android devices, as a KernelSU/Magisk mod | ⭐5 |
+| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐3 |
+| [FlyPhantomFly/android-renef-mcp](https://github.com/FlyPhantomFly/android-renef-mcp) | MCP server for Renef: Lua dynamic instrumentation for rooted Android ARM64. Renef is Frida-like alte | ⭐1 |
+### 📰 行业动态
+
+- r0env 逆向环境更新至 v3.0，预装更多工具
+- Frida 16.5 发布，Gadget 模式稳定性提升
+- Apktool 2.10 发布，支持 Android 15 APK 反编译
+### 💡 今日 Tips
+
+> 同一设备频繁切换账号会触发风控，建议一机一号
 
 ## 2026-11-27
 
