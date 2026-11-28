@@ -7,22 +7,14 @@
 
 ## 2026-11-28
 
-### 🆕 GitHub 新项目
-
-| 项目 | 说明 | Stars |
-|------|------|-------|
-| [CineXaft/HyperControl](https://github.com/CineXaft/HyperControl) | LSPosed module for Xiaomi HyperOS: status bar, security center | ⭐6 |
-| [Justadeayo/Viper4-XF](https://github.com/Justadeayo/Viper4-XF) | A personal fork of ViPER4Android DSP tailored for non-AIDL Android devices, as a KernelSU/Magisk mod | ⭐5 |
-| [Loukious/onyx-android17-6.18](https://github.com/Loukious/onyx-android17-6.18) | POCO F7 Onyx Android 17 / Linux 6.18 GKI port with complete modules, LTS updates and KernelSU Next d | ⭐3 |
-| [FlyPhantomFly/android-renef-mcp](https://github.com/FlyPhantomFly/android-renef-mcp) | MCP server for Renef: Lua dynamic instrumentation for rooted Android ARM64. Renef is Frida-like alte | ⭐1 |
 ### 📰 行业动态
 
 - r0env 逆向环境更新至 v3.0，预装更多工具
-- Frida 16.5 发布，Gadget 模式稳定性提升
-- Apktool 2.10 发布，支持 Android 15 APK 反编译
+- Shamiko v1.2 新增对部分银行/票务App的专项隐藏
+- Magisk 27.0 正式支持 Android 15，Zygisk 重构
 ### 💡 今日 Tips
 
-> 同一设备频繁切换账号会触发风控，建议一机一号
+> 同一 WiFi 下多设备抢同一场次会被识别为群控
 
 ## 2026-11-27
 
